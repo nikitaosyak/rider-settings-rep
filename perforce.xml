@@ -1,0 +1,37 @@
+<application>
+  <component name="PerforceCachedClientServerState">
+    <client-state scid="p4-erac:1666" cid="nosyakEroRoot">
+      <local serverConnection="p4-erac:1666" clientName="nosyakEroRoot" isServerCaseInsensitive="true">
+        <workspace t="0" n="nosyakEroRoot" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </local>
+      <server serverConnection="p4-erac:1666" clientName="nosyakEroRoot" isServerCaseInsensitive="true">
+        <workspace t="jldtjndz" n="nosyakEroRoot">
+          <r p="E:\nosyakEroRoot" />
+          <m d="//EraCombat/feature-breaking-arch/..." w="//nosyakEroRoot/..." />
+          <m d="//EraCombat/.../Client/Library/..." w="//nosyakEroRoot/.../Client/Library/..." />
+          <m d="//EraCombat/.../Client/obj/..." w="//nosyakEroRoot/.../Client/obj/..." />
+          <m d="//EraCombat/.../Client/Temp/..." w="//nosyakEroRoot/.../Client/Temp/..." />
+          <m d="//EraCombat/.../Client/.sln" w="//nosyakEroRoot/.../Client/.sln" />
+          <m d="//EraCombat/.../Client/.csproj" w="//nosyakEroRoot/.../Client/.csproj" />
+          <m d="//EraCombat/.../Client/.idea/..." w="//nosyakEroRoot/.../Client/.idea/..." />
+          <m d="//EraCombat/.../Client/Assets/Plugins/Editor/JetBrains..." w="//nosyakEroRoot/.../Client/Assets/Plugins/Editor/JetBrains..." />
+        </workspace>
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+        <ch t="0" ur="0" c="0" />
+        <u f="0" c="0" a="EDIT_FILE" t="0" ur="0" />
+      </server>
+    </client-state>
+    <m k="0" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SimulationStart.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\SimulationStart.cs" />
+  </component>
+</application>
