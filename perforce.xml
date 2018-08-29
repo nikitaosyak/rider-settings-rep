@@ -1,0 +1,134 @@
+<application>
+  <component name="PerforceCachedClientServerState">
+    <client-state scid="p4-erac:1666" cid="nosyakEroRoot">
+      <local serverConnection="p4-erac:1666" clientName="nosyakEroRoot" isServerCaseInsensitive="true">
+        <workspace t="0" n="nosyakEroRoot" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </local>
+      <server serverConnection="p4-erac:1666" clientName="nosyakEroRoot" isServerCaseInsensitive="true">
+        <workspace t="jldtjndz" n="nosyakEroRoot">
+          <r p="E:\nosyakEroRoot" />
+          <m d="//EraCombat/feature-breaking-arch/..." w="//nosyakEroRoot/..." />
+          <m d="//EraCombat/.../Client/Library/..." w="//nosyakEroRoot/.../Client/Library/..." />
+          <m d="//EraCombat/.../Client/obj/..." w="//nosyakEroRoot/.../Client/obj/..." />
+          <m d="//EraCombat/.../Client/Temp/..." w="//nosyakEroRoot/.../Client/Temp/..." />
+          <m d="//EraCombat/.../Client/.sln" w="//nosyakEroRoot/.../Client/.sln" />
+          <m d="//EraCombat/.../Client/.csproj" w="//nosyakEroRoot/.../Client/.csproj" />
+          <m d="//EraCombat/.../Client/.idea/..." w="//nosyakEroRoot/.../Client/.idea/..." />
+          <m d="//EraCombat/.../Client/Assets/Plugins/Editor/JetBrains..." w="//nosyakEroRoot/.../Client/Assets/Plugins/Editor/JetBrains..." />
+        </workspace>
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+        <ch t="0" ur="0" c="0" />
+        <u f="0" c="0" a="EDIT_FILE" t="0" ur="0" />
+      </server>
+    </client-state>
+    <m k="28" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/MatchConfig.cs" l="" />
+    <m k="v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/AudioManager.cs.meta" l="" />
+    <m k="i" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen.meta" l="" />
+    <m k="4" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/TempSheet.cs" l="" />
+    <m k="1g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/StartApplication.cs" l="" />
+    <m k="1o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Settings/GlobalSettings.cs" l="" />
+    <m k="r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/AudioManager.cs.meta" l="" />
+    <m k="2p" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/readme.txt.meta" l="" />
+    <m k="1c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback.meta" l="" />
+    <m k="2g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/AssetsRepository.cs" l="" />
+    <m k="2b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Materials/Lava_Tex_Green 2 Tiled.mat" l="" />
+    <m k="0" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SimulationStart.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\SimulationStart.cs" />
+    <m k="m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/AssetsRepository.cs.meta" l="" />
+    <m k="1s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile.meta" l="" />
+    <m k="1w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Environment.meta" l="" />
+    <m k="j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Start.unity.meta" l="" />
+    <m k="1y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/AudioManager.cs" l="" />
+    <m k="22" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ApplicationArgumentsWatcher.cs.meta" l="" />
+    <m k="e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LoadingSceneManager.cs.meta" l="" />
+    <m k="u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/GameManager.cs.meta" l="" />
+    <m k="2n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/TimedProcess.cs.meta" l="" />
+    <m k="5" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Helper.meta" l="" />
+    <m k="1z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/MatchManager.cs.meta" l="" />
+    <m k="20" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="" />
+    <m k="w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ECAsset.cs.meta" l="" />
+    <m k="2d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GameManager.cs" l="" />
+    <m k="n" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/Editor/cdbconfig.json.meta" l="" />
+    <m k="13" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ObjectPool.meta" l="" />
+    <m k="l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SpawnManager.cs.meta" l="" />
+    <m k="z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Materials/Lava_Tex_Green 2 Tiled.mat.meta" l="" />
+    <m k="6" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GameManager.cs.meta" l="" />
+    <m k="12" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ScrollMat.cs.meta" l="" />
+    <m k="1k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Effects.meta" l="" />
+    <m k="1d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Editor.meta" l="" />
+    <m k="q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Rotater.cs.meta" l="" />
+    <m k="1t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/FreeflightCamera.cs.meta" l="" />
+    <m k="23" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/CastleDB.cs.meta" l="" />
+    <m k="2c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Ragdoll.cs.meta" l="" />
+    <m k="1b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SpawnManager.cs" l="" />
+    <m k="17" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ApplicationArgumentsWatcher.cs" l="" />
+    <m k="g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject.meta" l="" />
+    <m k="1u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/AudioManager.cs" l="" />
+    <m k="3" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI.meta" l="" />
+    <m k="1p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Attributes.meta" l="" />
+    <m k="h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/StartApplication.cs.meta" l="" />
+    <m k="21" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Lobby.cs.meta" l="" />
+    <m k="1a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character.meta" l="" />
+    <m k="x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LoadingSceneManager.cs" l="" />
+    <m k="15" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/LoadingSceneManager.cs.meta" l="" />
+    <m k="o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Start.unity" l="" />
+    <m k="18" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Rotater.cs" l="" />
+    <m k="t" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/gameData.cdb" l="" />
+    <m k="k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Lobby.cs.meta" l="" />
+    <m k="2i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/GlobalReferences.cs.meta" l="" />
+    <m k="a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Ragdoll.cs" l="" />
+    <m k="16" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Settings.meta" l="" />
+    <m k="2j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SimulationStart.cs.meta" l="" />
+    <m k="8" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/Editor/cdbconfig.json" l="" />
+    <m k="1r" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Libraries/CastleDBIntegration/Unity/CastleDBGenerator.cs" l="" />
+    <m k="7" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Elevator.cs.meta" l="" />
+    <m k="2o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/SpawnManager.cs.meta" l="" />
+    <m k="2h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/MatchManager.cs.meta" l="" />
+    <m k="2m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Token.meta" l="" />
+    <m k="b" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/TempSheet.cs.meta" l="" />
+    <m k="2l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="" />
+    <m k="1i" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/Editor.meta" l="" />
+    <m k="1j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LayerMaskManager.cs.meta" l="" />
+    <m k="2e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Lobby.cs" l="" />
+    <m k="2k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/LoadingSceneManager.cs" l="" />
+    <m k="1h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GlobalReferences.cs.meta" l="" />
+    <m k="1" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Elevator.cs" l="" />
+    <m k="14" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables.meta" l="" />
+    <m k="9" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/readme.txt" l="" />
+    <m k="1e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="" />
+    <m k="2a" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/CastleDB.cs" l="" />
+    <m k="19" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/TimedProcess.cs" l="" />
+    <m k="p" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Libraries/CastleDBIntegration/CastleDbGeneratorBase.cs" l="" />
+    <m k="1q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Settings/GlobalSettings.cs.meta" l="" />
+    <m k="1v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon.meta" l="" />
+    <m k="d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LayerMaskManager.cs" l="" />
+    <m k="1x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ScrollMat.cs" l="" />
+    <m k="s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ECAsset.cs" l="" />
+    <m k="f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services.meta" l="" />
+    <m k="11" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/CustomTypes.cs" l="" />
+    <m k="24" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/MatchManager.cs" l="" />
+    <m k="2f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/GlobalReferences.cs" l="" />
+    <m k="29" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/FreeflightCamera.cs" l="" />
+    <m k="25" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/MatchConfig.cs.meta" l="" />
+    <m k="2" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/SpawnManager.cs" l="" />
+    <m k="1n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/GameManager.cs" l="" />
+    <m k="1m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/LayerMaskManager.cs" l="" />
+    <m k="26" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Libraries/CastleDBIntegration/Unity/CastleDBImporter.cs" l="" />
+    <m k="y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/MatchManager.cs" l="" />
+    <m k="10" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/gameData.cdb.meta" l="" />
+    <m k="1l" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/CustomTypes.cs.meta" l="" />
+    <m k="1f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GlobalReferences.cs" l="" />
+    <m k="27" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/LayerMaskManager.cs.meta" l="" />
+    <m k="c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Abilities.meta" l="" />
+  </component>
+</application>
