@@ -29,106 +29,123 @@
         </job-status>
         <users />
         <ch t="0" ur="0" c="0" />
-        <u f="0" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <h f="0" r="2" m5="9E6E515147315A53B1D98422E2AE9F90" t="jlgbhcbo" />
+        <h f="1" r="2" m5="E437F4222464E4CC49235231DA652943" t="jlgbhc8x" />
+        <h f="2" r="2" m5="5E83FE383AE65A8BC4178C21D649A40D" t="jlgbhcfr" />
+        <h f="3" r="1" m5="FE3127A2BF982B933694523D38C28C93" t="jlgbhchv" />
+        <h f="4" r="2" m5="C82ED5F984E589B8F72215BBCB454D4F" t="jlgbhc9y" />
+        <h f="5" r="2" m5="5E10740CF2B15B36D13AD56BEFCAC3F4" t="jlgbhc2w" />
+        <h f="6" r="3" m5="3BF277AC5CAEE9718F6C0FD3BE0D2793" t="jlgbhci1" />
+        <h f="7" r="2" m5="8C45D44E94C852C3CA713F04E8F878B1" t="jlgbhc2q" />
+        <h f="8" r="2" m5="ED5128028E99C7C892607310D6D5A1DE" t="jlgbhc1c" />
+        <h f="9" r="2" m5="C35E3BEAC4833DF6D68575723C3B2573" t="jlgbhc9f" />
+        <h f="a" r="1" m5="54DFC8F137173E3B92828CD51F3276D0" t="jlgbhcok" />
+        <h f="b" r="2" m5="20953BE9977DFDF88D06B44CBC940A93" t="jlgbhc9s" />
+        <h f="c" r="2" m5="11881A85C0E629B297D41B72EEE8074C" t="jlgbhcfk" />
+        <h f="d" r="1" m5="1B0BB42CA88F327B099358B99DD0B6CF" t="jlgbhcm5" />
+        <h f="e" r="2" m5="2FDCD69073E8F7E345B8542208EE1433" t="jlgbhc3e" />
+        <h f="f" r="3" m5="6AFB95284387E3D734F1DE41D467100F" t="jlgbhc0u" />
+        <h f="g" r="2" m5="FC1D62BE20143810756901EED719EB06" t="jlgbhc16" />
+        <h f="h" r="2" m5="DB559035B6604B685B369A3B36D02DD8" t="jlgbhc24" />
+        <h f="i" r="2" m5="510B3E8C3EB9E585DAC005E7923F2599" t="jlgbhcfz" />
+        <h f="j" r="2" m5="D42878C023A01793EE21A68E2D92A389" t="jlgbhc32" />
+        <h f="k" r="2" m5="910FF0CE2AEAFE75EC3E8FA0F16A4E53" t="jlgbhc0b" />
+        <h f="l" r="2" m5="99BBBB957B70C47816CE127947DC9482" t="jlgbhc4r" />
+        <h f="m" r="2" m5="218E90B453E00B3EF0C420D99FB323E7" t="jlgbhc0n" />
+        <h f="n" r="3" m5="745A15D2A4F1EB5D06FB780B58E2CDF2" t="jlgbhbf9" />
+        <h f="o" r="2" m5="EBE8F02E2325ADAB6FED3E39369830EC" t="jlgbhcfe" />
+        <h f="p" r="2" m5="257D82D872975B995882BF64ACC32A35" t="jlgbhc9l" />
+        <h f="q" r="3" m5="97FA9108764ACF6B3C740C0656ACFE33" t="jlgbhc8p" />
+        <h f="r" r="2" m5="94E7C6A223CA763884BC2259CF473FA9" t="jlgbhc4x" />
+        <h f="s" r="2" m5="D3270090E4DEB59E30A164A84AB12AB2" t="jlgbhc05" />
+        <h f="t" r="2" m5="B2AB048AF60BBC1910B38471FAA83E8A" t="jlgbhc2j" />
+        <h f="u" r="2" m5="D8E8915613EEB4A82FF05C41B2309FA1" t="jlgbhc1i" />
+        <h f="v" r="3" m5="FC42A54822D8B2F227BC26FD38AEF294" t="jlgbhbfu" />
+        <h f="w" r="2" m5="96EEFBF4D51182DF7290F3C92692668D" t="jlgbhcc7" />
+        <h f="x" r="1" m5="97E0EFAF816B22A8C6850587B68BF401" t="jlgbhcje" />
+        <h f="y" r="3" m5="D16E321924B188D3051C8D9BC6D76316" t="jlgbhc0h" />
+        <h f="z" r="2" m5="3CC021D656E73D0BE64B96F7F3506E1D" t="jlgbhc1o" />
+        <h f="10" r="3" m5="69309ED694A7F3867975572E77789018" t="jlgbhbf1" />
+        <h f="11" r="2" m5="C752CE1B0D4A7174E9D7628731095481" t="jlgbhcc1" />
+        <h f="12" r="1" m5="F4C012C754A51D906136DB2A0356B2F8" t="jlgbhchp" />
+        <h f="13" r="2" m5="5964BD56B375259149B9A068D842E2F0" t="jlgbhc1t" />
+        <h f="14" r="2" m5="96C99959BCC048912EAC13AF223C4CEB" t="jlgbhc4k" />
+        <h f="15" r="2" m5="A5F8CBF88544BD8BD6B60C8632424DA7" t="jlgbhbzz" />
+        <h f="16" r="2" m5="61BCB30469500E0F9C45EDC21EB273A2" t="jlgbhcgc" />
+        <h f="17" r="2" m5="548BBBEAD07B2AC465B6263647877675" t="jlgbhcbu" />
+        <h f="18" r="2" m5="E9764826BD17CDA62CFB8524638909A2" t="jlgbhc92" />
+        <h f="19" r="2" m5="10AC1535237B1B5DDCA579467B190EB9" t="jlgbhcg6" />
+        <h f="1a" r="4" m5="54B258ECFA179417D28465255342A052" t="jlgbhc10" />
+        <h f="1b" r="2" m5="279E88AC7540AD54622879FA94FF28E8" t="jlgbhc2b" />
+        <h f="1c" r="2" m5="64246F15CB59C4DCA6C725AA1367DA19" t="jlgbhc38" />
+        <h f="1d" r="2" m5="C04869F434DDF886BEFE2749120D9989" t="jlgbhca4" />
+        <h f="1e" r="4" m5="88EA33CB2760410DFCAD079AC8A22E32" t="jlgbhc3k" />
+        <h f="1f" r="2" m5="58A619B78D4FB3E0940A77CD7CE5DA64" t="jlgbhc99" />
+        <h f="1g" r="1" m5="9B30FA983F2D9F5633ECA4728FFC5111" t="jlgbhclb" />
+        <u f="y" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="v" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="k" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="f" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1e" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1a" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="n" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="6" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1b" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="16" c="0" a="EDIT_FILE" t="0" ur="0" />
       </server>
     </client-state>
-    <m k="28" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/MatchConfig.cs" l="" />
-    <m k="v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/AudioManager.cs.meta" l="" />
-    <m k="i" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen.meta" l="" />
-    <m k="4" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/TempSheet.cs" l="" />
-    <m k="1g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/StartApplication.cs" l="" />
-    <m k="1o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Settings/GlobalSettings.cs" l="" />
-    <m k="r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/AudioManager.cs.meta" l="" />
-    <m k="2p" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/readme.txt.meta" l="" />
-    <m k="1c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback.meta" l="" />
-    <m k="2g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/AssetsRepository.cs" l="" />
-    <m k="2b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Materials/Lava_Tex_Green 2 Tiled.mat" l="" />
-    <m k="0" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SimulationStart.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\SimulationStart.cs" />
-    <m k="m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/AssetsRepository.cs.meta" l="" />
-    <m k="1s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile.meta" l="" />
-    <m k="1w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Environment.meta" l="" />
-    <m k="j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Start.unity.meta" l="" />
-    <m k="1y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/AudioManager.cs" l="" />
-    <m k="22" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ApplicationArgumentsWatcher.cs.meta" l="" />
-    <m k="e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LoadingSceneManager.cs.meta" l="" />
-    <m k="u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/GameManager.cs.meta" l="" />
-    <m k="2n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/TimedProcess.cs.meta" l="" />
-    <m k="5" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Helper.meta" l="" />
-    <m k="1z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/MatchManager.cs.meta" l="" />
-    <m k="20" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="" />
-    <m k="w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ECAsset.cs.meta" l="" />
-    <m k="2d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GameManager.cs" l="" />
-    <m k="n" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/Editor/cdbconfig.json.meta" l="" />
-    <m k="13" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ObjectPool.meta" l="" />
-    <m k="l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SpawnManager.cs.meta" l="" />
-    <m k="z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Materials/Lava_Tex_Green 2 Tiled.mat.meta" l="" />
-    <m k="6" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GameManager.cs.meta" l="" />
-    <m k="12" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ScrollMat.cs.meta" l="" />
-    <m k="1k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Effects.meta" l="" />
-    <m k="1d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Editor.meta" l="" />
-    <m k="q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Rotater.cs.meta" l="" />
-    <m k="1t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/FreeflightCamera.cs.meta" l="" />
-    <m k="23" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/CastleDB.cs.meta" l="" />
-    <m k="2c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Ragdoll.cs.meta" l="" />
-    <m k="1b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SpawnManager.cs" l="" />
-    <m k="17" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ApplicationArgumentsWatcher.cs" l="" />
-    <m k="g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject.meta" l="" />
-    <m k="1u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/AudioManager.cs" l="" />
-    <m k="3" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI.meta" l="" />
-    <m k="1p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Attributes.meta" l="" />
-    <m k="h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/StartApplication.cs.meta" l="" />
-    <m k="21" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Lobby.cs.meta" l="" />
-    <m k="1a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character.meta" l="" />
-    <m k="x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LoadingSceneManager.cs" l="" />
-    <m k="15" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/LoadingSceneManager.cs.meta" l="" />
-    <m k="o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Start.unity" l="" />
-    <m k="18" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Rotater.cs" l="" />
-    <m k="t" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/gameData.cdb" l="" />
-    <m k="k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Lobby.cs.meta" l="" />
-    <m k="2i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/GlobalReferences.cs.meta" l="" />
-    <m k="a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Ragdoll.cs" l="" />
-    <m k="16" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Settings.meta" l="" />
-    <m k="2j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SimulationStart.cs.meta" l="" />
-    <m k="8" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/Editor/cdbconfig.json" l="" />
-    <m k="1r" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Libraries/CastleDBIntegration/Unity/CastleDBGenerator.cs" l="" />
-    <m k="7" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Elevator.cs.meta" l="" />
-    <m k="2o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/SpawnManager.cs.meta" l="" />
-    <m k="2h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/MatchManager.cs.meta" l="" />
-    <m k="2m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Token.meta" l="" />
-    <m k="b" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/TempSheet.cs.meta" l="" />
-    <m k="2l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="" />
-    <m k="1i" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/Editor.meta" l="" />
-    <m k="1j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LayerMaskManager.cs.meta" l="" />
-    <m k="2e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Lobby.cs" l="" />
-    <m k="2k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/LoadingSceneManager.cs" l="" />
-    <m k="1h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GlobalReferences.cs.meta" l="" />
-    <m k="1" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Elevator.cs" l="" />
-    <m k="14" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables.meta" l="" />
-    <m k="9" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/readme.txt" l="" />
-    <m k="1e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="" />
-    <m k="2a" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/CastleDB.cs" l="" />
-    <m k="19" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/TimedProcess.cs" l="" />
-    <m k="p" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Libraries/CastleDBIntegration/CastleDbGeneratorBase.cs" l="" />
-    <m k="1q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Settings/GlobalSettings.cs.meta" l="" />
-    <m k="1v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon.meta" l="" />
-    <m k="d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LayerMaskManager.cs" l="" />
-    <m k="1x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ScrollMat.cs" l="" />
-    <m k="s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/ECAsset.cs" l="" />
-    <m k="f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services.meta" l="" />
-    <m k="11" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/CustomTypes.cs" l="" />
-    <m k="24" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/MatchManager.cs" l="" />
-    <m k="2f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/GlobalReferences.cs" l="" />
-    <m k="29" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/FreeflightCamera.cs" l="" />
-    <m k="25" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/MatchConfig.cs.meta" l="" />
-    <m k="2" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/SpawnManager.cs" l="" />
-    <m k="1n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/GameManager.cs" l="" />
-    <m k="1m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/LayerMaskManager.cs" l="" />
-    <m k="26" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Libraries/CastleDBIntegration/Unity/CastleDBImporter.cs" l="" />
-    <m k="y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/MatchManager.cs" l="" />
-    <m k="10" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/gameData.cdb.meta" l="" />
-    <m k="1l" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Scripts/gen/CustomTypes.cs.meta" l="" />
-    <m k="1f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GlobalReferences.cs" l="" />
-    <m k="27" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/LayerMaskManager.cs.meta" l="" />
-    <m k="c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Abilities.meta" l="" />
+    <m k="3" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Global.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Global.cs.meta" />
+    <m k="f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/KillLogUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\KillLogUI.cs" />
+    <m k="v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback/NetworkCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkCallbacks.cs" />
+    <m k="11" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/PickablesEffects/PickableVignetteEffect.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\PickablesEffects\PickableVignetteEffect.cs" />
+    <m k="12" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/CoroutineStarter.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\CoroutineStarter.cs.meta" />
+    <m k="15" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/GameManager.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\GameManager.prefab" />
+    <m k="17" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Loading.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Loading.unity" />
+    <m k="1g" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/LightWeightSRP.asset" l="E:\nosyakEroRoot\Client\Assets\Common\Resources\LightWeightSRP.asset" />
+    <m k="1" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/CrosshairUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\CrosshairUI.cs" />
+    <m k="8" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/ScreenSystem/BaseScreen.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ScreenSystem\BaseScreen.cs" />
+    <m k="1a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GameManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\GameManager.cs" />
+    <m k="1d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LoadingSceneManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\LoadingSceneManager.cs" />
+    <m k="1e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Abilities/AbilitiesManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Abilities\AbilitiesManager.cs" />
+    <m k="9" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/ParticlesWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\ParticlesWeaponView.cs" />
+    <m k="a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SimulationStart.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\SimulationStart.cs" />
+    <m k="b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/DamageUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageUI.cs" />
+    <m k="n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback/NetworkServerMatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkServerMatchManager.cs" />
+    <m k="q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject/PlayerObject.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\PlayerObject\PlayerObject.cs" />
+    <m k="u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/AbilityButtonUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\AbilityButtonUI.cs" />
+    <m k="10" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Settings/GlobalSettings.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Settings\GlobalSettings.cs" />
+    <m k="16" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/RespawnPickable.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\RespawnPickable.cs" />
+    <m k="18" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/LaserBeam.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\LaserBeam.cs" />
+    <m k="19" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
+    <m k="0" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Animation/CharacterDeathListener.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\CharacterDeathListener.cs" />
+    <m k="l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/CharacterDamage.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterDamage.cs" />
+    <m k="w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/PickablesEffects/PickableSoundEffect.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\PickablesEffects\PickableSoundEffect.cs" />
+    <m k="x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/CoroutineStarter.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\CoroutineStarter.cs" />
+    <m k="13" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback/NetworkClientCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkClientCallbacks.cs" />
+    <m k="1b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/RestartTimeUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\RestartTimeUI.cs" />
+    <m k="1f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/SimpleWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\SimpleWeaponView.cs" />
+    <m k="c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile/RocketProjectile.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Projectile\RocketProjectile.cs" />
+    <m k="d" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/LightWeightSRP.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Resources\LightWeightSRP.asset.meta" />
+    <m k="j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/WeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\WeaponView.cs" />
+    <m k="k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/RemainPlayTimeUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\RemainPlayTimeUI.cs" />
+    <m k="e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Animation/WeaponAnimation.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\WeaponAnimation.cs" />
+    <m k="h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/ScreenSystem/ScreenManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ScreenSystem\ScreenManager.cs" />
+    <m k="z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/TeamUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\TeamUI.cs" />
+    <m k="1c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Lobby.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Lobby.unity" />
+    <m k="2" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile/Projectile.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Projectile\Projectile.cs" />
+    <m k="5" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/Aim/ConeAimPerformer.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\Aim\ConeAimPerformer.cs" />
+    <m k="6" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Global.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Global.cs" />
+    <m k="i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile/EMPProjectile.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Projectile\EMPProjectile.cs" />
+    <m k="p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/ShotgunWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\ShotgunWeaponView.cs" />
+    <m k="r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Effects/PlayMASound.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Effects\PlayMASound.cs" />
+    <m k="4" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/SpawnManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\SpawnManager.cs" />
+    <m k="7" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Input/KinematicCharacterInput.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Input\KinematicCharacterInput.cs" />
+    <m k="g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/MatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\MatchManager.cs" />
+    <m k="m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/CharacterSound.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterSound.cs" />
+    <m k="o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/WeaponSightUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\WeaponSightUI.cs" />
+    <m k="s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/AutoSpawnBots.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\AutoSpawnBots.cs" />
+    <m k="t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/KinematicCharacterBehaviour.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\KinematicCharacterBehaviour.cs" />
+    <m k="y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/Screens/Loadout/LoadoutScreen.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\Screens\Loadout\LoadoutScreen.cs" />
+    <m k="14" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/CharacterFacade.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterFacade.cs" />
   </component>
 </application>
