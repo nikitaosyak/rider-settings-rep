@@ -29,496 +29,367 @@
         </job-status>
         <users />
         <ch t="0" ur="0" c="0" />
-        <ch t="0" ur="0" c="r5">Merging //EraCombat/development to feature-breaking-arch (//EraCombat/feature-breaking-arch)</ch>
-        <h f="0" r="2" m5="9E6E515147315A53B1D98422E2AE9F90" t="jlgbhcbo" />
-        <h f="1" r="2" m5="E437F4222464E4CC49235231DA652943" t="jlgbhc8x" />
-        <h f="2" r="2" m5="5E83FE383AE65A8BC4178C21D649A40D" t="jlgbhcfr" />
-        <h f="3" r="1" m5="FE3127A2BF982B933694523D38C28C93" t="jlgbhchv" />
-        <h f="4" r="2" m5="C82ED5F984E589B8F72215BBCB454D4F" t="jlgbhc9y" />
-        <h f="5" r="2" m5="5E10740CF2B15B36D13AD56BEFCAC3F4" t="jlgbhc2w" />
-        <h f="6" r="3" m5="3BF277AC5CAEE9718F6C0FD3BE0D2793" t="jlgcpu86" />
-        <h f="7" r="2" m5="8C45D44E94C852C3CA713F04E8F878B1" t="jlgbhc2q" />
-        <h f="8" r="2" m5="ED5128028E99C7C892607310D6D5A1DE" t="jlgbhc1c" />
-        <h f="9" r="2" m5="C35E3BEAC4833DF6D68575723C3B2573" t="jlgbhc9f" />
-        <h f="a" r="1" m5="54DFC8F137173E3B92828CD51F3276D0" t="jlgbhcok" />
-        <h f="b" r="2" m5="20953BE9977DFDF88D06B44CBC940A93" t="jlgbhc9s" />
-        <h f="c" r="2" m5="11881A85C0E629B297D41B72EEE8074C" t="jlgbhcfk" />
-        <h f="d" r="1" m5="1B0BB42CA88F327B099358B99DD0B6CF" t="jlgbhcm5" />
-        <h f="e" r="2" m5="2FDCD69073E8F7E345B8542208EE1433" t="jlgbhc3e" />
-        <h f="f" r="4" m5="0079B2B96E462F9BD8F6F3B2785D15C9" t="jlgcpugj" />
-        <h f="g" r="2" m5="FC1D62BE20143810756901EED719EB06" t="jlgbhc16" />
-        <h f="h" r="2" m5="DB559035B6604B685B369A3B36D02DD8" t="jlgbhc24" />
-        <h f="i" r="2" m5="510B3E8C3EB9E585DAC005E7923F2599" t="jlgbhcfz" />
-        <h f="j" r="2" m5="D42878C023A01793EE21A68E2D92A389" t="jlgbhc32" />
-        <h f="k" r="3" m5="EFE3B303899E8EFE407CE5ADB1AB8D34" t="jlgcpuik" />
-        <h f="l" r="2" m5="99BBBB957B70C47816CE127947DC9482" t="jlgbhc4r" />
-        <h f="m" r="2" m5="218E90B453E00B3EF0C420D99FB323E7" t="jlgbhc0n" />
-        <h f="n" r="3" m5="745A15D2A4F1EB5D06FB780B58E2CDF2" t="jlgbhbf9" />
-        <h f="o" r="2" m5="EBE8F02E2325ADAB6FED3E39369830EC" t="jlgbhcfe" />
-        <h f="p" r="2" m5="257D82D872975B995882BF64ACC32A35" t="jlgbhc9l" />
-        <h f="q" r="3" m5="97FA9108764ACF6B3C740C0656ACFE33" t="jlgbhc8p" />
-        <h f="r" r="2" m5="94E7C6A223CA763884BC2259CF473FA9" t="jlgbhc4x" />
-        <h f="s" r="2" m5="D3270090E4DEB59E30A164A84AB12AB2" t="jlgbhc05" />
-        <h f="t" r="2" m5="B2AB048AF60BBC1910B38471FAA83E8A" t="jlgbhc2j" />
-        <h f="u" r="2" m5="D8E8915613EEB4A82FF05C41B2309FA1" t="jlgbhc1i" />
-        <h f="v" r="3" m5="FC42A54822D8B2F227BC26FD38AEF294" t="jlgbhbfu" />
-        <h f="w" r="2" m5="96EEFBF4D51182DF7290F3C92692668D" t="jlgbhcc7" />
-        <h f="x" r="1" m5="97E0EFAF816B22A8C6850587B68BF401" t="jlgbhcje" />
-        <h f="y" r="4" m5="BBCAC7D1B332DDC28FF382F01A851845" t="jlgcpuiq" />
-        <h f="z" r="2" m5="3CC021D656E73D0BE64B96F7F3506E1D" t="jlgbhc1o" />
-        <h f="10" r="3" m5="69309ED694A7F3867975572E77789018" t="jlgbhbf1" />
-        <h f="11" r="2" m5="C752CE1B0D4A7174E9D7628731095481" t="jlgbhcc1" />
-        <h f="12" r="1" m5="F4C012C754A51D906136DB2A0356B2F8" t="jlgbhchp" />
-        <h f="13" r="2" m5="5964BD56B375259149B9A068D842E2F0" t="jlgbhc1t" />
-        <h f="14" r="2" m5="96C99959BCC048912EAC13AF223C4CEB" t="jlgbhc4k" />
-        <h f="15" r="2" m5="A5F8CBF88544BD8BD6B60C8632424DA7" t="jlgbhbzz" />
-        <h f="16" r="3" m5="1295653262C7B9F249EE6C3B30D1BD88" t="jlgcpugc" />
-        <h f="17" r="2" m5="548BBBEAD07B2AC465B6263647877675" t="jlgbhcbu" />
-        <h f="18" r="2" m5="E9764826BD17CDA62CFB8524638909A2" t="jlgbhc92" />
-        <h f="19" r="2" m5="10AC1535237B1B5DDCA579467B190EB9" t="jlgbhcg6" />
-        <h f="1a" r="5" m5="096E9D0E5058E8B5A680DF4440D714BB" t="jlgcpugy" />
-        <h f="1b" r="3" m5="94E74C533DF24C9F55628C2D03520C9D" t="jlgcpuiw" />
-        <h f="1c" r="2" m5="64246F15CB59C4DCA6C725AA1367DA19" t="jlgbhc38" />
-        <h f="1d" r="2" m5="C04869F434DDF886BEFE2749120D9989" t="jlgbhca4" />
-        <h f="1e" r="5" m5="0C77F59025905F00B87D7797B622E0B1" t="jlgcpuh4" />
-        <h f="1f" r="2" m5="58A619B78D4FB3E0940A77CD7CE5DA64" t="jlgbhc99" />
-        <h f="1g" r="1" m5="9B30FA983F2D9F5633ECA4728FFC5111" t="jlgbhclb" />
-        <u f="1h" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="1i" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1j" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="1k" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1l" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1m" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1n" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="1o" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1d" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="1p" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1q" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1r" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1s" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="1t" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1u" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="1v" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1w" c="r5" a="DELETE_FILE" t="0" ur="0" />
-        <u f="1x" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1y" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1z" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="20" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="21" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="22" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="23" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="24" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="25" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="26" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="27" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="28" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="29" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2a" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2b" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2c" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2d" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2e" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="2f" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2g" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="19" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="2h" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2i" c="r5" a="MOVE_FILE" t="0" ur="0" />
-        <u f="2j" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2k" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="2l" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2m" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="2n" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2o" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2p" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2q" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2r" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="l" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="2s" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="z" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="2t" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2u" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2v" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="2w" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2x" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2y" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="2z" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="30" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="31" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="32" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="33" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="34" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="35" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="36" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="37" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="38" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="39" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3a" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3b" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3c" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3d" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="n" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3e" c="r5" a="MOVE_DELETE_FILE" t="0" ur="0" />
-        <u f="3f" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3g" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3h" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3i" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3j" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3k" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3l" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3m" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3n" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3o" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3p" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3q" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3r" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3s" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3t" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3u" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3v" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3w" c="r5" a="MOVE_FILE" t="0" ur="0" />
-        <u f="7" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3x" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="3y" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3z" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="40" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="41" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="42" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="43" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="44" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="45" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="46" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="47" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="48" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="49" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4a" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4b" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4c" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4d" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4e" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4f" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4g" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4h" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4i" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4j" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4k" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4l" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="4m" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4n" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4o" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4p" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4q" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4r" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4s" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="v" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="4t" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4u" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4v" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4w" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4x" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4y" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="4z" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="50" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="51" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="52" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="53" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="54" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="55" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="56" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="57" c="r5" a="DELETE_FILE" t="0" ur="0" />
-        <u f="58" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="59" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5a" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5b" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5c" c="r5" a="MOVE_DELETE_FILE" t="0" ur="0" />
-        <u f="10" c="r5" a="EDIT_FILE" t="0" ur="0" />
-        <u f="5d" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5e" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5f" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5g" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5h" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5i" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5j" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5k" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5l" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5m" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="q" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5n" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5o" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="e" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5p" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="1" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5q" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5r" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5s" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5t" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5u" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5v" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="5w" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5x" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5y" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="5z" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="60" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="61" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="62" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="63" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="64" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="65" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="66" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="67" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="68" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="69" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="6a" c="r5" a="DELETE_FILE" t="0" ur="0" />
-        <u f="6b" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="6c" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="6d" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="6e" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="6f" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="6g" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="6h" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="6i" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="6j" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="6k" c="r5" a="ADD_FILE" t="0" ur="0" />
-        <u f="6l" c="r5" a="INTEGRATE_FILE" t="0" ur="0" />
+        <h f="0" r="1" m5="54C1BE7DF06387F321231558201DCEDD" t="jlgf8gud" />
+        <h f="1" r="1" m5="79CE1E338D8AE9F2E0E41654F97152D1" t="jlgf8ia5" />
+        <h f="2" r="1" m5="9D92656CD3515932BE7954513554A37E" t="jlgf8hxu" />
+        <h f="3" r="1" m5="65B5C68B9F3B088697E557AD46E9248E" t="jlgf8i5t" />
+        <h f="4" r="1" m5="03FB530202F20C6C2A90501C3E3E85AF" t="jlgf8hy6" />
+        <h f="5" r="1" m5="02EAC78E0746D4E08FD82136C82B3134" t="jlgf8hkh" />
+        <h f="6" r="2" m5="5E83FE383AE65A8BC4178C21D649A40D" t="jlgbhcfr" />
+        <h f="7" r="1" m5="FCB1BE65243D30DC72623858F4314623" t="jlgf8haa" />
+        <h f="8" r="1" m5="E8A2C8E787D522187C6207AC69D4DE89" t="jlgf8imc" />
+        <h f="9" r="1" m5="FE3127A2BF982B933694523D38C28C93" t="jlgbhchv" />
+        <h f="a" r="3" m5="DC781E5EAF38B4FD743BC1DBE111ACCA" t="jlgf8i0f" />
+        <h f="b" r="1" m5="A6EDAE710B442FAABEE4367D6655A4A2" t="jlgf8i17" />
+        <h f="c" r="3" m5="3BF277AC5CAEE9718F6C0FD3BE0D2793" t="jlgcpu86" />
+        <h f="d" r="1" m5="CD3D82A8991AC6FDB280A3699C672616" t="jlgf8i1i" />
+        <h f="e" r="1" m5="A6A4C26C09762949795AE0385413E4BE" t="jlgf8h6e" />
+        <h f="f" r="2" m5="C35E3BEAC4833DF6D68575723C3B2573" t="jlgbhc9f" />
+        <h f="g" r="1" m5="23FFD45B241F6BF73EF8D0CC2EB08571" t="jlgf8hx7" />
+        <h f="h" r="1" m5="B3DFB36BB4B6255BD2269FDC64087CAE" t="jlgf8iiq" />
+        <h f="i" r="1" m5="54DFC8F137173E3B92828CD51F3276D0" t="jlgbhcok" />
+        <h f="j" r="2" m5="20953BE9977DFDF88D06B44CBC940A93" t="jlgbhc9s" />
+        <h f="k" r="2" m5="11881A85C0E629B297D41B72EEE8074C" t="jlgbhcfk" />
+        <h f="l" r="1" m5="632D668ABFA3A2893B9C9B8A009675D0" t="jlgf8hka" />
+        <h f="m" r="1" m5="1B0BB42CA88F327B099358B99DD0B6CF" t="jlgbhcm5" />
+        <h f="n" r="4" m5="0079B2B96E462F9BD8F6F3B2785D15C9" t="jlgcpugj" />
+        <h f="o" r="1" m5="8DF7A750BD15340F934E113DB69F89A1" t="jlgf8hfj" />
+        <h f="p" r="1" m5="5BAA3ED73BF92069210D36CB49E63761" t="jlgf8hl1" />
+        <h f="q" r="2" m5="510B3E8C3EB9E585DAC005E7923F2599" t="jlgbhcfz" />
+        <h f="r" r="1" m5="B2339C2774BF8C06459021D121677A47" t="jlgf8i52" />
+        <h f="s" r="2" m5="D42878C023A01793EE21A68E2D92A389" t="jlgbhc32" />
+        <h f="t" r="1" m5="D0D27AF3F92BE4B771BD8799ED971BDA" t="jlgf8hxh" />
+        <h f="u" r="1" m5="561A09F0B09DA0D1B24CFF7AFE6C0FDC" t="jlgf8i57" />
+        <h f="v" r="1" m5="5445855D4447CEFB344A53D9F1F50EB5" t="jlgf8gtw" />
+        <h f="w" r="3" m5="EFE3B303899E8EFE407CE5ADB1AB8D34" t="jlgcpuik" />
+        <h f="x" r="1" m5="D5192790B17DB4E4A29C43FBCD69429D" t="jlgf8i44" />
+        <h f="y" r="3" m5="745A15D2A4F1EB5D06FB780B58E2CDF2" t="jlgbhbf9" />
+        <h f="z" r="1" m5="0886EBAFF59F45474323658660F40C4B" t="jlgf8i3k" />
+        <h f="10" r="2" m5="257D82D872975B995882BF64ACC32A35" t="jlgbhc9l" />
+        <h f="11" r="1" m5="FAF708B83D55B157BFD5D2ED64B65480" t="jlgf8i33" />
+        <h f="12" r="1" m5="F0CBF5C99C9B6900F02F34F4741594CF" t="jlgf8ha5" />
+        <h f="13" r="1" m5="6E2348EF888FFEFCD98A3566588DE095" t="jlgf8hvz" />
+        <h f="14" r="1" m5="95612C910C2F2E06C3948F46C8F656A7" t="jlgf8hf8" />
+        <h f="15" r="3" m5="97FA9108764ACF6B3C740C0656ACFE33" t="jlgbhc8p" />
+        <h f="16" r="1" m5="8C028424E1AD259422039C99929D6E04" t="jlgf8i2t" />
+        <h f="17" r="1" m5="3FC2930ABC12309A45EBC94DB7BDB1AC" t="jlgf8hjh" />
+        <h f="18" r="1" m5="7B1487CAB588A10113074207409FC055" t="jlgf8hmf" />
+        <h f="19" r="1" m5="3E43C902E3B8B1C442980CE605B4FCD6" t="jlgf8i4a" />
+        <h f="1a" r="2" m5="94E7C6A223CA763884BC2259CF473FA9" t="jlgbhc4x" />
+        <h f="1b" r="1" m5="304D499BE563D873330AA6E55F60EC12" t="jlgf8hgd" />
+        <h f="1c" r="1" m5="9DFA51AAD0C23B8DDEAFB8EAB9F0F4CA" t="jlgf8hk0" />
+        <h f="1d" r="1" m5="9762E4D1EC84ED881919D6D9444840FD" t="jlgf8h0g" />
+        <h f="1e" r="1" m5="0D9035CA200763279977948BA1D69560" t="jlgf8i2i" />
+        <h f="1f" r="1" m5="6A8C4FA60DEB7C3F8D7702D60ABAC3C0" t="jlgf8i2y" />
+        <h f="1g" r="1" m5="8E50098A2F0E71DCC04E1CEC497AAD96" t="jlgf8ijw" />
+        <h f="1h" r="1" m5="5969A453F39D05905308C2CC9F19828F" t="jlgf8i0l" />
+        <h f="1i" r="2" m5="D8E8915613EEB4A82FF05C41B2309FA1" t="jlgbhc1i" />
+        <h f="1j" r="1" m5="41E62CB79E45F0DEDF66418D3AB61087" t="jlgf8hoj" />
+        <h f="1k" r="1" m5="418D76B9336531E6B5C84A6242420235" t="jlgf8i3a" />
+        <h f="1l" r="1" m5="707F55DA44B4C8EDE57754C877B30130" t="jlgf8hfe" />
+        <h f="1m" r="3" m5="FC42A54822D8B2F227BC26FD38AEF294" t="jlgbhbfu" />
+        <h f="1n" r="1" m5="78214603950F5E1F73B594C72F801D54" t="jlgf8i6j" />
+        <h f="1o" r="1" m5="BC22AEF50C3A8137798E8A88D67EFB75" t="jlgf8gtq" />
+        <h f="1p" r="1" m5="63B2D4A15035CD1803FEBAA5EA7E890C" t="jlgf8hm9" />
+        <h f="1q" r="1" m5="839E67BD69F61A11A151C8B8E6930C66" t="jlgf8i3f" />
+        <h f="1r" r="1" m5="EFB4AB5A8EE0C40F102C8A9DB0E4D4D1" t="jlgf8i5i" />
+        <h f="1s" r="1" m5="97F2FF06830E1A980043E208C3F3DF8D" t="jlgf8hby" />
+        <h f="1t" r="4" m5="885F343B32D8E6C39007A4384317D9E9" t="jlgf8hzt" />
+        <h f="1u" r="1" m5="4774BC8B25C49E2BB694892D5A075880" t="jlgf8hdr" />
+        <h f="1v" r="1" m5="0493BA8321DBB6F8F4A7F082F3932E73" t="jlgf8i3z" />
+        <h f="1w" r="1" m5="03FE23E9DC041E8A15F0F218A381D15D" t="jlgf8hce" />
+        <h f="1x" r="2" m5="C752CE1B0D4A7174E9D7628731095481" t="jlgbhcc1" />
+        <h f="1y" r="1" m5="608A560D8B2AD71C169E0F3EE11CD90D" t="jlgf8hmy" />
+        <h f="1z" r="1" m5="7AC8E9F31C774A722C50761785A8C4BD" t="jlgf8gu7" />
+        <h f="20" r="1" m5="070CD798FB82AE1B8B332B07DF6B09E0" t="jlgf8hzi" />
+        <h f="21" r="1" m5="F4C012C754A51D906136DB2A0356B2F8" t="jlgbhchp" />
+        <h f="22" r="1" m5="3EF4F77C9F93FE2399C7E58FE1EA2809" t="jlgf8hzy" />
+        <h f="23" r="1" m5="DB237BBBCFD5087B8DE683CAFE80DEFD" t="jlgf8ifv" />
+        <h f="24" r="1" m5="0AFDD89DB121407B0497DD894BD2A236" t="jlgf8hnr" />
+        <h f="25" r="2" m5="A5F8CBF88544BD8BD6B60C8632424DA7" t="jlgbhbzz" />
+        <h f="26" r="3" m5="1295653262C7B9F249EE6C3B30D1BD88" t="jlgcpugc" />
+        <h f="27" r="2" m5="548BBBEAD07B2AC465B6263647877675" t="jlgbhcbu" />
+        <h f="28" r="2" m5="E9764826BD17CDA62CFB8524638909A2" t="jlgbhc92" />
+        <h f="29" r="2" m5="10AC1535237B1B5DDCA579467B190EB9" t="jlgbhcg6" />
+        <h f="2a" r="1" m5="4C21AE111BBD504235F8729E304D2C50" t="jlgf8hhg" />
+        <h f="2b" r="1" m5="008BFD54F30EA54320DFAAF4972E23C5" t="jlgf8i1z" />
+        <h f="2c" r="1" m5="9AE11EDD1D36058459CC3D63A7E487A8" t="jlgf8i62" />
+        <h f="2d" r="1" m5="796CF32F0818C96119A43E68FDAB541C" t="jlgf8h9o" />
+        <h f="2e" r="1" m5="339676764D34BA547F568D1AE361FD3E" t="jlgf8hd2" />
+        <h f="2f" r="1" m5="0C5EC4FFF6F1F83199EEB27B88BFABAF" t="jlgf8hm1" />
+        <h f="2g" r="1" m5="A3D64B29A01B9966639D23FB32CB0A83" t="jlgf8hgq" />
+        <h f="2h" r="1" m5="31C1DE295428B2FAE301824A60E1130E" t="jlgf8hwk" />
+        <h f="2i" r="1" m5="A17A9960988D38127751332BC9E49E0B" t="jlgf8ijp" />
+        <h f="2j" r="1" m5="36E7D1592B701BBCD7DE77AEC86E1AA0" t="jlgf8i5c" />
+        <h f="2k" r="1" m5="60BC98F5E15CC3609FC2A6A636007F9D" t="jlgf8i03" />
+        <h f="2l" r="1" m5="A2D20B58988A33808E5881F288F5BA2C" t="jlgf8i6z" />
+        <h f="2m" r="1" m5="9B30FA983F2D9F5633ECA4728FFC5111" t="jlgbhclb" />
+        <h f="2n" r="1" m5="773DE159A25411688379D5743A6A7FB6" t="jlgf8i68" />
+        <h f="2o" r="2" m5="9E6E515147315A53B1D98422E2AE9F90" t="jlgbhcbo" />
+        <h f="2p" r="1" m5="64FEAE9B17979556A4C8E1085FAD7A7A" t="jlgf8ij0" />
+        <h f="2q" r="1" m5="5504DAE1AEB895117AB433312FEDB338" t="jlgf8hz7" />
+        <h f="2r" r="1" m5="BC0A9358FF116D3E828991B79C225F3C" t="jlgf8hx2" />
+        <h f="2s" r="1" m5="A9C377E7C0577EC1E0DF75D9BB7A2662" t="jlgf8hwp" />
+        <h f="2t" r="2" m5="E437F4222464E4CC49235231DA652943" t="jlgbhc8x" />
+        <h f="2u" r="1" m5="7012A3A7ED83B710A35F0B502E7B3262" t="jlgf8h9i" />
+        <h f="2v" r="2" m5="C82ED5F984E589B8F72215BBCB454D4F" t="jlgbhc9y" />
+        <h f="2w" r="1" m5="6BCE2C991F71B744B9F702AA68F88D99" t="jlgf8hkr" />
+        <h f="2x" r="1" m5="02420568EC6376E6DA8656D8F2C18BD4" t="jlgf8i5n" />
+        <h f="2y" r="2" m5="8C45D44E94C852C3CA713F04E8F878B1" t="jlgbhc2q" />
+        <h f="2z" r="1" m5="8C58559AB3A8402E157235BFA742EE56" t="jlgf8hle" />
+        <h f="30" r="1" m5="0F7D740FBBB14E161D44847A283439B5" t="jlgf8hop" />
+        <h f="31" r="1" m5="ACBBBB6D51773995ADAAE1A2FCBE3097" t="jlgf8ij5" />
+        <h f="32" r="2" m5="ED5128028E99C7C892607310D6D5A1DE" t="jlgbhc1c" />
+        <h f="33" r="1" m5="DAF18FAE8BEF402BD32731F41B0B9898" t="jlgf8hwa" />
+        <h f="34" r="1" m5="E2CF4843CB63B5DBA01FBE4CA3A193F2" t="jlgf8i08" />
+        <h f="35" r="2" m5="2FDCD69073E8F7E345B8542208EE1433" t="jlgbhc3e" />
+        <h f="36" r="1" m5="69459F2DE6D3D6DCF677BB132F567131" t="jlgf8i3t" />
+        <h f="37" r="1" m5="14B2993FE08949B71880E9B0DB363181" t="jlgf8i6t" />
+        <h f="38" r="2" m5="FC1D62BE20143810756901EED719EB06" t="jlgbhc16" />
+        <h f="39" r="1" m5="0C092F8EB69F1D8A4CD716A0CF7ED39B" t="jlgf8hy0" />
+        <h f="3a" r="1" m5="224F4C9906470F443428DE4E8C4E1B1C" t="jlgf8gxb" />
+        <h f="3b" r="2" m5="DB559035B6604B685B369A3B36D02DD8" t="jlgbhc24" />
+        <h f="3c" r="1" m5="706A0ECD7115235BE323CCBCAFF5E532" t="jlgf8i4l" />
+        <h f="3d" r="1" m5="B9FF836B6653E8C29DC11506D31F7B75" t="jlgf8i1d" />
+        <h f="3e" r="1" m5="940DBB2D2E28C60E23F814429F3DDF8F" t="jlgf8h0b" />
+        <h f="3f" r="1" m5="D65F55CC6837DE47946C682AD51D1905" t="jlgf8hwf" />
+        <h f="3g" r="2" m5="99BBBB957B70C47816CE127947DC9482" t="jlgbhc4r" />
+        <h f="3h" r="1" m5="6405020D633887D63B455F0D6B423541" t="jlgf8hnx" />
+        <h f="3i" r="2" m5="218E90B453E00B3EF0C420D99FB323E7" t="jlgbhc0n" />
+        <h f="3j" r="2" m5="EBE8F02E2325ADAB6FED3E39369830EC" t="jlgbhcfe" />
+        <h f="3k" r="1" m5="E12953CE5CFE4A53DB158AA251F6F9C9" t="jlgf8id7" />
+        <h f="3l" r="1" m5="8D5FE084B35E3421435FC7D8D726357E" t="jlgf8gu2" />
+        <h f="3m" r="1" m5="4EB3F2491647DE68D12FC4A0B43F532E" t="jlgf8hwx" />
+        <h f="3n" r="1" m5="E2CA2906BC151EAB6549CBF1F2578595" t="jlgf8i79" />
+        <h f="3o" r="1" m5="9D54F1566B67F8649966303FF003299B" t="jlgf8i1o" />
+        <h f="3p" r="1" m5="A57494ADE10F3660C50B337C840EFDF1" t="jlgf8hmt" />
+        <h f="3q" r="1" m5="A9B2815BD50CC5034309368E18545449" t="jlgf8hw5" />
+        <h f="3r" r="1" m5="D15EB9DBC6089A9DB83A24E01C6E3365" t="jlgf8h0l" />
+        <h f="3s" r="1" m5="7A24CD0A1101E337D2C8468E4BB57E3E" t="jlgf8iiw" />
+        <h f="3t" r="1" m5="FB69E7F72291E778DD0FBC4B392D6449" t="jlgf8i24" />
+        <h f="3u" r="2" m5="D3270090E4DEB59E30A164A84AB12AB2" t="jlgbhc05" />
+        <h f="3v" r="1" m5="9E50EA6C6906835EB0432B4FB5779F03" t="jlgf8h0q" />
+        <h f="3w" r="1" m5="0200F68F91870D75ED3C9C5A78DA6F29" t="jlgf8hgj" />
+        <h f="3x" r="2" m5="B2AB048AF60BBC1910B38471FAA83E8A" t="jlgbhc2j" />
+        <h f="3y" r="1" m5="CA9268D14828F27D492D73FC19D9DDE5" t="jlgf8hvh" />
+        <h f="3z" r="1" m5="C4FBADDCB35D3F64EA65679A2CDC9627" t="jlgf8hf3" />
+        <h f="40" r="1" m5="FF2800AE649F5E3FBECC14424892489E" t="jlgf8h05" />
+        <h f="41" r="2" m5="96EEFBF4D51182DF7290F3C92692668D" t="jlgbhcc7" />
+        <h f="42" r="1" m5="97E0EFAF816B22A8C6850587B68BF401" t="jlgbhcje" />
+        <h f="43" r="1" m5="9999FAD66CD85510762BA2B4FB5663C2" t="jlgf8i9z" />
+        <h f="44" r="1" m5="ED1765A06A7FF1F47BA243CCA880DF1D" t="jlgf8hb5" />
+        <h f="45" r="4" m5="BBCAC7D1B332DDC28FF382F01A851845" t="jlgcpuiq" />
+        <h f="46" r="1" m5="AAD93F08F4CF8E1853CD76FAABE93592" t="jlgf8i4f" />
+        <h f="47" r="1" m5="3DFA87021C13A4F65339D1EFD3CA806D" t="jlgf8ho7" />
+        <h f="48" r="2" m5="3CC021D656E73D0BE64B96F7F3506E1D" t="jlgbhc1o" />
+        <h f="49" r="1" m5="C3CE62A6A501F3FAC75A13328FF56DC5" t="jlgf8hek" />
+        <h f="4a" r="1" m5="CDB1FF2C4CF47D2C46E0D50232FF794A" t="jlgf8i6e" />
+        <h f="4b" r="1" m5="26483E8F0A6D72E48DF35AE8FFEF6E20" t="jlgf8i11" />
+        <h f="4c" r="1" m5="B2EC7C6183A7FA1883DCDCDBCA88F6E6" t="jlgf8hes" />
+        <h f="4d" r="1" m5="2E7B5B83670EF645A9BD4AAB7B03A606" t="jlgf8hzn" />
+        <h f="4e" r="1" m5="2B84F01A8255ECD51158B83CC5442BC8" t="jlgf8h10" />
+        <h f="4f" r="2" m5="5964BD56B375259149B9A068D842E2F0" t="jlgbhc1t" />
+        <h f="4g" r="2" m5="96C99959BCC048912EAC13AF223C4CEB" t="jlgbhc4k" />
+        <h f="4h" r="1" m5="A63BB4720DCD99F9388D73E2392B8774" t="jlgf8hnd" />
+        <h f="4i" r="1" m5="29CE887AB9F8A65B11FE0C0234DA1B20" t="jlgf8i4x" />
+        <h f="4j" r="1" m5="7F71C12EB787F7D34CE89CDC0479C0A3" t="jlgf8i1t" />
+        <h f="4k" r="1" m5="67EDB9C712D3611208C99C7FADAE4839" t="jlgf8hvp" />
+        <h f="4l" r="1" m5="810FA9C45161D7D543CFE0FF0F2DB45C" t="jlgf8i2o" />
+        <h f="4m" r="1" m5="DA9ABFA9FE9CB65E83127403A0CAD06F" t="jlgf8gte" />
+        <h f="4n" r="5" m5="096E9D0E5058E8B5A680DF4440D714BB" t="jlgcpugy" />
+        <h f="4o" r="1" m5="6D7213817914EB7A2E5DF38628A95379" t="jlgf8hey" />
+        <h f="4p" r="1" m5="3BE0F0546670CD94DCB0EB22BAAAB934" t="jlgf8hhz" />
+        <h f="4q" r="3" m5="94E74C533DF24C9F55628C2D03520C9D" t="jlgcpuiw" />
+        <h f="4r" r="1" m5="82427F69657593ADF565E5948340F656" t="jlgf8hxo" />
+        <h f="4s" r="2" m5="64246F15CB59C4DCA6C725AA1367DA19" t="jlgbhc38" />
+        <h f="4t" r="2" m5="C04869F434DDF886BEFE2749120D9989" t="jlgbhca4" />
+        <h f="4u" r="5" m5="0C77F59025905F00B87D7797B622E0B1" t="jlgcpuh4" />
+        <h f="4v" r="1" m5="AD6A2F0365FFE20EE9FE392B5164F0A3" t="jlgf8i4r" />
+        <h f="4w" r="1" m5="F7948DC3943AACF65DA253378F243C28" t="jlgf8hzc" />
+        <h f="4x" r="2" m5="58A619B78D4FB3E0940A77CD7CE5DA64" t="jlgbhc99" />
+        <h f="4y" r="1" m5="478F3ADB7AFF0A76353BF65B99BF17E1" t="jlgf8hxc" />
+        <u f="38" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="c" c="0" a="EDIT_FILE" t="0" ur="0" />
       </server>
     </client-state>
-    <m k="40" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/SoulPickableSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\SoulPickableSettings.asset.meta" />
-    <m k="3n" d="//EraCombat/feature-breaking-arch/Client/Assets/Editor Default Resources/Saber/VariantsKeywordsCollection.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Editor Default Resources\Saber\VariantsKeywordsCollection.asset.meta" />
-    <m k="6h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset" />
-    <m k="5n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/spark_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\spark_01.tga.meta" />
-    <m k="6f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX.meta" />
-    <m k="15" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/GameManager.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\GameManager.prefab" />
-    <m k="1g" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/LightWeightSRP.asset" l="E:\nosyakEroRoot\Client\Assets\Common\Resources\LightWeightSRP.asset" />
-    <m k="2r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Psys_Smoke_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Psys_Smoke_01.mat" />
-    <m k="3x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_008.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_008.tga.meta" />
-    <m k="1u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/MasterAudio.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\MasterAudio.prefab" />
-    <m k="22" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions.meta" />
-    <m k="1a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GameManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\GameManager.cs" />
-    <m k="4c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_002.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_002.tga.meta" />
-    <m k="1o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_01.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_01.prefab.meta" />
-    <m k="4e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/spark_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\spark_01.tga" />
-    <m k="9" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/ParticlesWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\ParticlesWeaponView.cs" />
-    <m k="a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SimulationStart.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\SimulationStart.cs" />
-    <m k="5w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_06.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_06.mat" />
-    <m k="3a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/KriptoFX/Explosions/Prefabs/Mobile/MobileExplosion3D_3.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\KriptoFX\Explosions\Prefabs\Mobile\MobileExplosion3D_3.prefab" />
-    <m k="4t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulSoundEffect.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulSoundEffect.asset.meta" />
-    <m k="4m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul.meta" />
-    <m k="4n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects.meta" />
-    <m k="3e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject/PlayerKillsRegistry.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\PlayerObject\PlayerKillsRegistry.cs" />
-    <m k="6j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_09.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_09.mat.meta" />
-    <m k="w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/PickablesEffects/PickableSoundEffect.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\PickablesEffects\PickableSoundEffect.cs" />
-    <m k="2c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_06.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_06.prefab" />
-    <m k="4p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/ring_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\ring_01.tga" />
-    <m k="13" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback/NetworkClientCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkClientCallbacks.cs" />
-    <m k="2t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Flare_02.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Flare_02.mat.meta" />
-    <m k="4d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/PickableColor.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\PickableColor.cs.meta" />
-    <m k="5y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_02.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_02.prefab.meta" />
-    <m k="5r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/SoulPickable.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\SoulPickable.cs" />
-    <m k="c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile/RocketProjectile.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Projectile\RocketProjectile.cs" />
-    <m k="41" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_05.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_05.mat.meta" />
-    <m k="2b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_07.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_07.mat.meta" />
-    <m k="4j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_03.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_03.prefab" />
-    <m k="1z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/smoke_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\smoke_01.tga" />
-    <m k="5v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/KriptoFX/Explosions/Materials/Details/Particles.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\KriptoFX\Explosions\Materials\Details\Particles.mat" />
-    <m k="2s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions.meta" />
-    <m k="1t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_01.mat" />
-    <m k="z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/TeamUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\TeamUI.cs" />
-    <m k="6d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/PickableColor.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\PickableColor.cs" />
-    <m k="3f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_06.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_06.mat.meta" />
-    <m k="25" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Psys_Smoke_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Psys_Smoke_01.mat.meta" />
-    <m k="2" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile/Projectile.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Projectile\Projectile.cs" />
-    <m k="i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile/EMPProjectile.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Projectile\EMPProjectile.cs" />
-    <m k="2m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Rookie Court/LightingData.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court\LightingData.asset" />
-    <m k="59" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/KriptoFX/Explosions/Materials/3DSmoke/Explosion3D_3.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\KriptoFX\Explosions\Materials\3DSmoke\Explosion3D_3.mat" />
-    <m k="r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Effects/PlayMASound.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Effects\PlayMASound.cs" />
-    <m k="2f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_02.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_02.mat" />
-    <m k="1p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Textures/Fonts/Damage Text SDF.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\Fonts\Damage Text SDF.asset.meta" />
-    <m k="3h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/flare_02.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\flare_02.tga" />
-    <m k="4g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_07.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_07.mat" />
-    <m k="1n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/UI/HUD.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\HUD.prefab" />
-    <m k="33" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/PickableToken.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\PickableToken.cs" />
-    <m k="1y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials.meta" />
-    <m k="27" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Character/Ground Movement.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Character\Ground Movement.asset" />
+    <m k="2" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/SoulPickableSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\SoulPickableSettings.asset.meta" />
+    <m k="4" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/Pickables/TimedSoul.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\Pickables\TimedSoul.prefab.meta" />
+    <m k="n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/KillLogUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\KillLogUI.cs" />
+    <m k="16" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_08.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_08.mat" />
+    <m k="1d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/spark_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\spark_01.tga.meta" />
+    <m k="1l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_04.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_04.prefab.meta" />
+    <m k="1m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback/NetworkCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkCallbacks.cs" />
+    <m k="1n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX.meta" />
+    <m k="1w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_02.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_02.prefab" />
+    <m k="21" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/CoroutineStarter.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\CoroutineStarter.cs.meta" />
+    <m k="25" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/GameManager.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\GameManager.prefab" />
+    <m k="2d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_004.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_004.tga.meta" />
+    <m k="2j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Psys_Smoke_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Psys_Smoke_01.mat" />
+    <m k="2m" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/LightWeightSRP.asset" l="E:\nosyakEroRoot\Client\Assets\Common\Resources\LightWeightSRP.asset" />
+    <m k="2p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/ring_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\ring_01.tga.meta" />
+    <m k="3c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_08.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_08.mat.meta" />
+    <m k="3s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_008.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_008.tga.meta" />
+    <m k="40" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_008.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_008.tga" />
+    <m k="47" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions.meta" />
+    <m k="4m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_002.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_002.tga.meta" />
+    <m k="4n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/GameManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\GameManager.cs" />
+    <m k="4o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_01.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_01.prefab.meta" />
+    <m k="1" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/spark_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\spark_01.tga" />
+    <m k="f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/ParticlesWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\ParticlesWeaponView.cs" />
+    <m k="i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/SimulationStart.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\SimulationStart.cs" />
+    <m k="14" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_08.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_08.prefab.meta" />
+    <m k="15" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject/PlayerObject.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\PlayerObject\PlayerObject.cs" />
+    <m k="1k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_03.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_03.mat" />
+    <m k="26" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/RespawnPickable.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\RespawnPickable.cs" />
+    <m k="2b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_06.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_06.mat" />
+    <m k="2h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulVignetteEffect.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulVignetteEffect.asset" />
+    <m k="2r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulSoundEffect.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulSoundEffect.asset.meta" />
+    <m k="34" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul.meta" />
+    <m k="39" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects.meta" />
+    <m k="3e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/flare_02.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\flare_02.tga.meta" />
+    <m k="3f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs.meta" />
+    <m k="3g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/CharacterDamage.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterDamage.cs" />
+    <m k="3m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulSoundEffect.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulSoundEffect.asset" />
+    <m k="3o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_09.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_09.mat.meta" />
+    <m k="41" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/PickablesEffects/PickableSoundEffect.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\PickablesEffects\PickableSoundEffect.cs" />
+    <m k="44" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_06.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_06.prefab" />
+    <m k="4e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/ring_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\ring_01.tga" />
+    <m k="4f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback/NetworkClientCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkClientCallbacks.cs" />
+    <m k="4i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Flare_02.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Flare_02.mat.meta" />
+    <m k="4w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/PickableColor.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\PickableColor.cs.meta" />
+    <m k="5" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_02.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_02.prefab.meta" />
+    <m k="b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/SoulPickable.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\SoulPickable.cs" />
+    <m k="e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_007.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_007.tga" />
+    <m k="g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulParticlesEffect.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulParticlesEffect.asset.meta" />
+    <m k="k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile/RocketProjectile.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Projectile\RocketProjectile.cs" />
+    <m k="l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_01.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_01.prefab" />
+    <m k="x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_05.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_05.mat.meta" />
+    <m k="11" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_07.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_07.mat.meta" />
+    <m k="12" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_03.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_03.prefab" />
+    <m k="1p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_02.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_02.prefab.meta" />
+    <m k="23" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/smoke_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\smoke_01.tga" />
+    <m k="2l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions.meta" />
+    <m k="2n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Flare_02.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Flare_02.mat" />
+    <m k="30" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke.meta" />
+    <m k="36" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_09.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_09.mat" />
+    <m k="3t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_01.mat" />
+    <m k="48" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/TeamUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\TeamUI.cs" />
+    <m k="4a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Ring_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Ring_01.mat" />
+    <m k="4b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Textures/Fonts/Damage Text SDF.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\Fonts\Damage Text SDF.asset" />
+    <m k="4d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/PickableColor.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\PickableColor.cs" />
+    <m k="4j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_06.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_06.mat.meta" />
+    <m k="4v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Psys_Smoke_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Psys_Smoke_01.mat.meta" />
+    <m k="6" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile/Projectile.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Projectile\Projectile.cs" />
+    <m k="c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Global.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Global.cs" />
+    <m k="q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Projectile/EMPProjectile.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Projectile\EMPProjectile.cs" />
+    <m k="t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/SoulPickableSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\SoulPickableSettings.asset" />
+    <m k="10" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/ShotgunWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\ShotgunWeaponView.cs" />
+    <m k="19" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_02.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_02.mat" />
+    <m k="1a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Effects/PlayMASound.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Effects\PlayMASound.cs" />
+    <m k="1h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Textures/Fonts/Damage Text SDF.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\Fonts\Damage Text SDF.asset.meta" />
+    <m k="1o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/flare_02.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\flare_02.tga" />
+    <m k="1q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_07.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_07.mat" />
+    <m k="1u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Sheet_Gallery.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Sheet_Gallery.prefab" />
+    <m k="2k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/PickableToken.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\PickableToken.cs" />
+    <m k="2q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/Pickables/TimedSoul.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\Pickables\TimedSoul.prefab" />
+    <m k="2s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials.meta" />
     <m k="2u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_002.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_002.tga" />
-    <m k="3k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/Pickables/TimedSoul.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\Pickables\TimedSoul.prefab" />
-    <m k="m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/CharacterSound.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterSound.cs" />
-    <m k="2z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/UI/HUD.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\HUD.prefab.meta" />
-    <m k="y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/Screens/Loadout/LoadoutScreen.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\Screens\Loadout\LoadoutScreen.cs" />
-    <m k="54" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_04.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_04.prefab" />
-    <m k="3s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/PlayerNamePanel.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\PlayerNamePanel.cs" />
-    <m k="63" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_01.mat.meta" />
-    <m k="5z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/KriptoFX/Explosions/Textures/Explosions/Explosion8.png" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\KriptoFX\Explosions\Textures\Explosions\Explosion8.png" />
-    <m k="43" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/decal_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\decal_01.tga.meta" />
-    <m k="5l" d="//EraCombat/feature-breaking-arch/Client/Assets/bolt/assemblies/bolt.user.dll" l="E:\nosyakEroRoot\Client\Assets\bolt\assemblies\bolt.user.dll" />
-    <m k="1k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_04.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_04.mat.meta" />
-    <m k="4z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_03.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_03.mat.meta" />
-    <m k="3i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_01.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_01.prefab" />
-    <m k="2l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_006.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_006.tga.meta" />
-    <m k="66" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_01.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_01.prefab" />
-    <m k="53" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_07.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_07.prefab" />
-    <m k="6i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/IPickableSettings.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\IPickableSettings.cs" />
-    <m k="6a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/UI/DamageTextShield.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\DamageTextShield.prefab" />
-    <m k="49" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_02.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_02.prefab" />
-    <m k="4x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_007.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_007.tga.meta" />
-    <m k="44" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_06.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_06.prefab.meta" />
-    <m k="57" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Rookie Court/Lightmap-0_comp_light.exr.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court\Lightmap-0_comp_light.exr.meta" />
-    <m k="1d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LoadingSceneManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\LoadingSceneManager.cs" />
-    <m k="1e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Abilities/AbilitiesManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Abilities\AbilitiesManager.cs" />
-    <m k="b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/DamageUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageUI.cs" />
-    <m k="6e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_009.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_009.tga.meta" />
-    <m k="3q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/KriptoFX/Explosions/Textures/Trails/Trail4.png" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\KriptoFX\Explosions\Textures\Trails\Trail4.png" />
-    <m k="32" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/DeadManPickablesSpawner.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\DeadManPickablesSpawner.cs" />
-    <m k="21" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_03.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_03.prefab.meta" />
-    <m k="u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/AbilityButtonUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\AbilityButtonUI.cs" />
-    <m k="10" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Settings/GlobalSettings.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Settings\GlobalSettings.cs" />
-    <m k="18" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/LaserBeam.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\LaserBeam.cs" />
-    <m k="19" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
-    <m k="61" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_05.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_05.prefab" />
-    <m k="2w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_001.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_001.tga" />
-    <m k="50" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_003.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_003.tga.meta" />
-    <m k="2x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/_Source/iMG Explosion FX sources.zip" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\_Source\iMG Explosion FX sources.zip" />
-    <m k="5p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_03.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_03.prefab.meta" />
-    <m k="x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/CoroutineStarter.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\CoroutineStarter.cs" />
-    <m k="4w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/ReadME.txt" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\ReadME.txt" />
-    <m k="1b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/RestartTimeUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\RestartTimeUI.cs" />
-    <m k="1v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_03.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_03.prefab" />
-    <m k="1f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/SimpleWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\SimpleWeaponView.cs" />
-    <m k="62" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/SoulPickable.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\SoulPickable.cs.meta" />
-    <m k="29" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_03.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_03.prefab.meta" />
-    <m k="2y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Decal_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Decal_01.mat" />
-    <m k="68" d="//EraCombat/feature-breaking-arch/Client/Assets/bolt/resources/BoltPrefabDatabase.asset" l="E:\nosyakEroRoot\Client\Assets\bolt\resources\BoltPrefabDatabase.asset" />
-    <m k="4s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_05.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_05.prefab.meta" />
-    <m k="3l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_05.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_05.mat" />
-    <m k="4h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_08.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_08.prefab" />
-    <m k="2a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Psys_Spark_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Psys_Spark_01.mat.meta" />
-    <m k="3b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Flare_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Flare_01.mat.meta" />
-    <m k="e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Animation/WeaponAnimation.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\WeaponAnimation.cs" />
-    <m k="h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/ScreenSystem/ScreenManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ScreenSystem\ScreenManager.cs" />
-    <m k="34" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/KriptoFX/Explosions/Materials/Trails/Trail6.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\KriptoFX\Explosions\Materials\Trails\Trail6.mat" />
-    <m k="24" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulParticlesEffect.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulParticlesEffect.asset" />
-    <m k="1s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Shooting Range.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Shooting Range.unity" />
-    <m k="2d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_005.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_005.tga" />
-    <m k="56" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/HitMarkerUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\HitMarkerUI.cs" />
-    <m k="3u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Character/AirMovement.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Character\AirMovement.asset" />
-    <m k="5g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/smoke_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\smoke_01.tga.meta" />
-    <m k="4l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
-    <m k="3m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/decal_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\decal_01.tga" />
-    <m k="4" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/SpawnManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\SpawnManager.cs" />
-    <m k="7" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Input/KinematicCharacterInput.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Input\KinematicCharacterInput.cs" />
-    <m k="39" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_003.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_003.tga" />
-    <m k="5q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/flare_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\flare_01.tga" />
-    <m k="5k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_02.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_02.mat.meta" />
-    <m k="2j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_005.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_005.tga.meta" />
-    <m k="4y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire.meta" />
-    <m k="s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/AutoSpawnBots.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\AutoSpawnBots.cs" />
-    <m k="4u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/ReadME.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\ReadME.txt.meta" />
-    <m k="5e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_006.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_006.tga" />
-    <m k="14" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/CharacterFacade.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterFacade.cs" />
-    <m k="1x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/Pickables/TimedSoul.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\Pickables\TimedSoul.prefab.meta" />
-    <m k="5h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Rookie Court/LightingData.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court\LightingData.asset.meta" />
-    <m k="f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/KillLogUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\KillLogUI.cs" />
-    <m k="3d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_08.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_08.mat" />
-    <m k="v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback/NetworkCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkCallbacks.cs" />
-    <m k="65" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_04.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_04.prefab.meta" />
-    <m k="12" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/CoroutineStarter.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\CoroutineStarter.cs.meta" />
-    <m k="4o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_02.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_02.prefab" />
-    <m k="5f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Pickable.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Pickable.cs" />
-    <m k="5b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_004.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_004.tga.meta" />
-    <m k="5i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Rookie Court.unity.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court.unity.meta" />
-    <m k="4i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/ring_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\ring_01.tga.meta" />
-    <m k="51" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_08.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_08.mat.meta" />
-    <m k="1i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_008.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_008.tga" />
-    <m k="42" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/Screens/ResultScreen/ResultScreenTeams.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\Screens\ResultScreen\ResultScreenTeams.cs" />
-    <m k="3w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject/GameScore.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\PlayerObject\GameScore.cs" />
-    <m k="q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject/PlayerObject.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\PlayerObject\PlayerObject.cs" />
-    <m k="45" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/UI/DamageText.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\DamageText.prefab" />
-    <m k="52" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_08.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_08.prefab.meta" />
-    <m k="23" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_03.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_03.mat" />
-    <m k="16" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/RespawnPickable.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\RespawnPickable.cs" />
-    <m k="20" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulVignetteEffect.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulVignetteEffect.asset" />
-    <m k="2e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/HealthPickable.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\HealthPickable.cs" />
-    <m k="3y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Rookie Court.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court.unity" />
-    <m k="47" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/Weapons/SMG.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\Weapons\SMG.prefab" />
-    <m k="l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/CharacterDamage.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterDamage.cs" />
-    <m k="37" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs.meta" />
-    <m k="67" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/flare_02.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\flare_02.tga.meta" />
-    <m k="1q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulSoundEffect.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulSoundEffect.asset" />
-    <m k="30" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject/CharacterRegistry.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\PlayerObject\CharacterRegistry.cs" />
-    <m k="4k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulParticlesEffect.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulParticlesEffect.asset.meta" />
-    <m k="5j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_007.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_007.tga" />
-    <m k="4q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_01.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_01.prefab" />
-    <m k="1w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Prefabs/UI/DamageTextShield.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\DamageTextShield.prefab.meta" />
-    <m k="3t" d="//EraCombat/feature-breaking-arch/Client/Assets/Editor Default Resources.meta" l="E:\nosyakEroRoot\Client\Assets\Editor Default Resources.meta" />
-    <m k="5x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_02.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_02.prefab.meta" />
-    <m k="28" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Settings/GroundMovementSettings.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Settings\GroundMovementSettings.cs" />
-    <m k="48" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Flare_02.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Flare_02.mat" />
-    <m k="3v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke.meta" />
-    <m k="26" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_09.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_09.mat" />
-    <m k="69" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/StatusbarUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\StatusbarUI.cs" />
-    <m k="2v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/KriptoFX/Explosions/Textures/Trails/Trail5.png" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\KriptoFX\Explosions\Textures\Trails\Trail5.png" />
-    <m k="2q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Textures/Fonts/Damage Text SDF.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\Fonts\Damage Text SDF.asset" />
-    <m k="6k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Ring_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Ring_01.mat" />
-    <m k="6" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Global.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Global.cs" />
-    <m k="3r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/SoulPickableSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\SoulPickableSettings.asset" />
-    <m k="p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/ShotgunWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\ShotgunWeaponView.cs" />
-    <m k="4b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Sheet_Gallery.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Sheet_Gallery.prefab" />
-    <m k="2k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Character/JetpackSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Character\JetpackSettings.asset" />
-    <m k="31" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_01.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_01.prefab.meta" />
-    <m k="5a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures.meta" />
-    <m k="1r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_009.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_009.tga" />
-    <m k="60" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/VFX/SMGTrail.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\VFX\SMGTrail.prefab" />
-    <m k="t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/KinematicCharacterBehaviour.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\KinematicCharacterBehaviour.cs" />
-    <m k="1j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Shield 1/ShieldPickableSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Shield 1\ShieldPickableSettings.asset" />
-    <m k="5o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/KriptoFX/Explosions/Materials/Trails/Trail5.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\KriptoFX\Explosions\Materials\Trails\Trail5.mat" />
-    <m k="3" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Global.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Global.cs.meta" />
-    <m k="6g" d="//EraCombat/feature-breaking-arch/Client/Assets/Editor Default Resources/Saber/VariantsKeywordsCollection.asset" l="E:\nosyakEroRoot\Client\Assets\Editor Default Resources\Saber\VariantsKeywordsCollection.asset" />
-    <m k="2n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/_Source.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\_Source.meta" />
-    <m k="5t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_04.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_04.prefab.meta" />
-    <m k="11" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/PickablesEffects/PickableVignetteEffect.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\PickablesEffects\PickableVignetteEffect.cs" />
-    <m k="6c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX.meta" />
-    <m k="17" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Loading.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Loading.unity" />
-    <m k="55" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_02.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_02.prefab" />
-    <m k="1" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/CrosshairUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\CrosshairUI.cs" />
-    <m k="3c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/BaseCharacterStateUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\BaseCharacterStateUI.cs" />
-    <m k="8" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/ScreenSystem/BaseScreen.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ScreenSystem\BaseScreen.cs" />
-    <m k="38" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Flare_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Flare_01.mat" />
-    <m k="5s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Psys_Spark_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Psys_Spark_01.mat" />
-    <m k="n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback/NetworkServerMatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkServerMatchManager.cs" />
-    <m k="2p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/_Source/iMG Explosion FX sources.zip.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\_Source\iMG Explosion FX sources.zip.meta" />
-    <m k="3g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/DamageTextUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageTextUI.cs" />
-    <m k="5c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject/PlayerKillsRegistry.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\PlayerObject\PlayerKillsRegistry.cs.meta" />
-    <m k="0" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Animation/CharacterDeathListener.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\CharacterDeathListener.cs" />
-    <m k="6b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/flare_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\flare_01.tga.meta" />
-    <m k="46" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/KinematicCharacterManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\KinematicCharacterManager.cs" />
-    <m k="5m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Ring_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Ring_01.mat.meta" />
-    <m k="2o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_001.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_001.tga.meta" />
-    <m k="d" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/LightWeightSRP.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Resources\LightWeightSRP.asset.meta" />
-    <m k="5u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_07.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_07.prefab.meta" />
-    <m k="j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/WeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\WeaponView.cs" />
-    <m k="k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/RemainPlayTimeUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\RemainPlayTimeUI.cs" />
-    <m k="5d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Abilities/Rocket/RocketProjectileSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Rocket\RocketProjectileSettings.asset" />
-    <m k="1h" d="//EraCombat/feature-breaking-arch/Client/Assets/bolt/project.bytes" l="E:\nosyakEroRoot\Client\Assets\bolt\project.bytes" />
-    <m k="1l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/PickableToken.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\PickableToken.cs.meta" />
-    <m k="4v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_01.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_01.prefab.meta" />
-    <m k="1m" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Sheet_Gallery.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Sheet_Gallery.prefab.meta" />
-    <m k="4a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Decal_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Decal_01.mat.meta" />
-    <m k="6l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/WeaponManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\WeaponManager.cs" />
-    <m k="3z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_04.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_04.prefab" />
-    <m k="2g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/ShieldPickable.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\ShieldPickable.cs" />
-    <m k="2h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_03.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_03.prefab" />
-    <m k="1c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Lobby.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Lobby.unity" />
-    <m k="64" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulVignetteEffect.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulVignetteEffect.asset.meta" />
-    <m k="5" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/Aim/ConeAimPerformer.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\Aim\ConeAimPerformer.cs" />
-    <m k="36" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_004.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_004.tga" />
-    <m k="3o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/PickableSettingsSO.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\PickableSettingsSO.cs" />
-    <m k="4r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_04.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_04.mat" />
-    <m k="3j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Abilities/Rocket/Rocket.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Rocket\Rocket.asset" />
-    <m k="3p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/TimedPickable.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\TimedPickable.cs" />
-    <m k="g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/MatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\MatchManager.cs" />
-    <m k="58" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/TeamPanel.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\TeamPanel.cs" />
-    <m k="o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/WeaponSightUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\WeaponSightUI.cs" />
-    <m k="4f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_02.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_02.prefab.meta" />
-    <m k="2i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/PlayerObject/GameScore.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\PlayerObject\GameScore.cs.meta" />
-    <m k="35" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Editor/ShaderVariants/ShaderDebugBuildProcessor.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Editor\ShaderVariants\ShaderDebugBuildProcessor.cs" />
+    <m k="2w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_01.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_01.prefab.meta" />
+    <m k="33" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures.meta" />
+    <m k="3i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/CharacterSound.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterSound.cs" />
+    <m k="3k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_009.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_009.tga" />
+    <m k="3x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/KinematicCharacterBehaviour.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\KinematicCharacterBehaviour.cs" />
+    <m k="45" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/Screens/Loadout/LoadoutScreen.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\Screens\Loadout\LoadoutScreen.cs" />
+    <m k="49" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_04.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_04.prefab" />
+    <m k="4l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_01.mat.meta" />
+    <m k="7" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/decal_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\decal_01.tga.meta" />
+    <m k="9" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Global.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Global.cs.meta" />
+    <m k="z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_04.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_04.mat.meta" />
+    <m k="13" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/_Source.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\_Source.meta" />
+    <m k="18" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_04.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_04.prefab.meta" />
+    <m k="1f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_03.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_03.mat.meta" />
+    <m k="1s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_01.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_01.prefab" />
+    <m k="1x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/PickablesEffects/PickableVignetteEffect.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\PickablesEffects\PickableVignetteEffect.cs" />
+    <m k="1z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_006.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_006.tga.meta" />
+    <m k="22" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX.meta" />
+    <m k="24" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_01.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_01.prefab" />
+    <m k="27" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Loading.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Loading.unity" />
+    <m k="2a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_07.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_07.prefab" />
+    <m k="2f" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_02.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_02.prefab" />
+    <m k="2t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/CrosshairUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\CrosshairUI.cs" />
+    <m k="2z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_02.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_02.prefab" />
+    <m k="32" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/ScreenSystem/BaseScreen.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ScreenSystem\BaseScreen.cs" />
+    <m k="3v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_007.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_007.tga.meta" />
+    <m k="3w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_06.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_06.prefab.meta" />
+    <m k="4t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/LoadingSceneManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\LoadingSceneManager.cs" />
+    <m k="4u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Abilities/AbilitiesManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Abilities\AbilitiesManager.cs" />
+    <m k="3" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Flare_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Flare_01.mat" />
+    <m k="j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/DamageUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageUI.cs" />
+    <m k="r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Psys_Spark_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Psys_Spark_01.mat" />
+    <m k="v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_009.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_009.tga.meta" />
+    <m k="y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Callback/NetworkServerMatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkServerMatchManager.cs" />
+    <m k="1c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_03.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_03.prefab.meta" />
+    <m k="1i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/AbilityButtonUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\AbilityButtonUI.cs" />
+    <m k="1j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/_Source/iMG Explosion FX sources.zip.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\_Source\iMG Explosion FX sources.zip.meta" />
+    <m k="1t" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Settings/GlobalSettings.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Settings\GlobalSettings.cs" />
+    <m k="28" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/LaserBeam.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\LaserBeam.cs" />
+    <m k="29" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
+    <m k="2e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_05.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_05.prefab" />
+    <m k="2o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Animation/CharacterDeathListener.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\CharacterDeathListener.cs" />
+    <m k="31" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/flare_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\flare_01.tga.meta" />
+    <m k="3n" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_001.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_001.tga" />
+    <m k="3r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_003.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_003.tga.meta" />
+    <m k="3y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/_Source/iMG Explosion FX sources.zip" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\_Source\iMG Explosion FX sources.zip" />
+    <m k="3z" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_03.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_03.prefab.meta" />
+    <m k="42" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/CoroutineStarter.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\CoroutineStarter.cs" />
+    <m k="46" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Ring_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Ring_01.mat.meta" />
+    <m k="4k" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/ReadME.txt" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\ReadME.txt" />
+    <m k="4p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Smoke/Smoke_03.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Smoke\Smoke_03.prefab" />
+    <m k="4q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/RestartTimeUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\RestartTimeUI.cs" />
+    <m k="4x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/SimpleWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\SimpleWeaponView.cs" />
+    <m k="0" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_001.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_001.tga.meta" />
+    <m k="d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/Implementations/SoulPickable.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\Implementations\SoulPickable.cs.meta" />
+    <m k="m" d="//EraCombat/feature-breaking-arch/Client/Assets/Common/Resources/LightWeightSRP.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Resources\LightWeightSRP.asset.meta" />
+    <m k="o" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_07.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_07.prefab.meta" />
+    <m k="p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_03.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_03.prefab.meta" />
+    <m k="s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/View/WeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\WeaponView.cs" />
+    <m k="u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Decal_01.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Decal_01.mat" />
+    <m k="w" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/RemainPlayTimeUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\RemainPlayTimeUI.cs" />
+    <m k="17" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_05.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_05.prefab.meta" />
+    <m k="1b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_08.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_08.prefab" />
+    <m k="1e" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_05.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_05.mat" />
+    <m k="1r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Psys_Spark_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Psys_Spark_01.mat.meta" />
+    <m k="1y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_01.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_01.prefab.meta" />
+    <m k="20" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Pickables/PickableToken.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Pickables\PickableToken.cs.meta" />
+    <m k="2c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Decal_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Decal_01.mat.meta" />
+    <m k="2g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Sheet_Gallery.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Sheet_Gallery.prefab.meta" />
+    <m k="2x" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/MISC_FX/Flare_01.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\MISC_FX\Flare_01.mat.meta" />
+    <m k="35" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Animation/WeaponAnimation.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\WeaponAnimation.cs" />
+    <m k="3b" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/ScreenSystem/ScreenManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ScreenSystem\ScreenManager.cs" />
+    <m k="3p" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_04.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_04.prefab" />
+    <m k="4h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire/Fire_03.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire\Fire_03.prefab" />
+    <m k="4r" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulParticlesEffect.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulParticlesEffect.asset" />
+    <m k="4s" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scenes/Lobby.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Lobby.unity" />
+    <m k="4y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Settings/Pickable/Soul/Effects/SoulVignetteEffect.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Pickable\Soul\Effects\SoulVignetteEffect.asset.meta" />
+    <m k="8" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_004.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_004.tga" />
+    <m k="a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Weapon/Aim/ConeAimPerformer.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\Aim\ConeAimPerformer.cs" />
+    <m k="h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_005.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_005.tga" />
+    <m k="1g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/smoke_01.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\smoke_01.tga.meta" />
+    <m k="1v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_04.mat" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_04.mat" />
+    <m k="2i" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/decal_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\decal_01.tga" />
+    <m k="2v" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/SpawnManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\SpawnManager.cs" />
+    <m k="2y" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/Input/KinematicCharacterInput.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Input\KinematicCharacterInput.cs" />
+    <m k="37" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/flare_01.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\flare_01.tga" />
+    <m k="38" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Services/MatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\MatchManager.cs" />
+    <m k="3a" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_003.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_003.tga" />
+    <m k="3d" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Materials/Explosions/expl_02.mat.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Materials\Explosions\expl_02.mat.meta" />
+    <m k="3h" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Fire.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Fire.meta" />
+    <m k="3j" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/UI/WeaponSightUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\WeaponSightUI.cs" />
+    <m k="3l" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_005.tga.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_005.tga.meta" />
+    <m k="3q" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/ReadME.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\ReadME.txt.meta" />
+    <m k="3u" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/AutoSpawnBots.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\AutoSpawnBots.cs" />
+    <m k="43" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Textures/expl_006.tga" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Textures\expl_006.tga" />
+    <m k="4c" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Libraries/ArtPacks/iMG Explosion FX/Prefabs/Explosions/Explosion_02.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\iMG Explosion FX\Prefabs\Explosions\Explosion_02.prefab.meta" />
+    <m k="4g" d="//EraCombat/feature-breaking-arch/Client/Assets/Simulation/Scripts/Character/CharacterFacade.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterFacade.cs" />
   </component>
 </application>
