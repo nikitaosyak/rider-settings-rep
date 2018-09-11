@@ -30,26 +30,25 @@
         </job-status>
         <users />
         <ch t="0" ur="0" c="0" />
-        <u f="0" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="1" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="2" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="3" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="4" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="5" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="6" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="7" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="8" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <h f="0" r="1" m5="EA4A5BCF7FE62E040688B14D3C4FC76C" t="jli8opzb" />
+        <h f="1" r="1" m5="D9384064A5059505A2BB8D235590EE93" t="jli8oq0j" />
+        <h f="2" r="1" m5="5C38C5C848F00D83465922A70DCD4959" t="jli8oq0a" />
+        <h f="3" r="1" m5="C960FE7DBFA9C5E082EC56B696C0C3DC" t="jli8oq03" />
+        <h f="4" r="1" m5="202AE5627CC6BE4736EB783B94D7ECBE" t="jli8opzi" />
+        <h f="5" r="1" m5="983830C4DEC858042FE0175582A8400C" t="jli8opz1" />
+        <h f="6" r="1" m5="385B8AEBCA379FFCD2E7243E16298476" t="jli8opyp" />
+        <h f="7" r="1" m5="5FCE6DFDAC5CFF03D188493A29E18ABB" t="jli8opzo" />
+        <h f="8" r="1" m5="292F8028E34EA11C577015AECC07827C" t="jli8opzw" />
       </server>
     </client-state>
-    <m k="6" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/GM.DB.csproj.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\GM.DB.csproj.meta" />
-    <m k="1" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/GM.DB.csproj" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\GM.DB.csproj" />
-    <m k="8" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/GM.DB.asmdef.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\GM.DB.asmdef.meta" />
-    <m k="5" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB.meta" />
-    <m k="0" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/GM.DB.asmdef" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\GM.DB.asmdef" />
-    <m k="7" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/DBVersionType.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\DBVersionType.cs.meta" />
-    <m k="4" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base.meta" />
-    <m k="9" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/DBVersion.cs" l="" />
-    <m k="2" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/DBVersionType.cs" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\DBVersionType.cs" />
+    <m k="6" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/GM.DB.asmdef.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\GM.DB.asmdef.meta" />
+    <m k="1" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/GM.DB.asmdef" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\GM.DB.asmdef" />
+    <m k="2" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/DBVersionType.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\DBVersionType.cs.meta" />
+    <m k="5" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/GM.DB.csproj.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\GM.DB.csproj.meta" />
+    <m k="8" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/GM.DB.csproj" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\GM.DB.csproj" />
     <m k="3" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/DBVersion.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\DBVersion.cs.meta" />
+    <m k="4" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base/DBVersionType.cs" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base\DBVersionType.cs" />
+    <m k="7" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB.meta" />
+    <m k="0" d="//EraCombat/development/Client/Assets/Common/Libraries/GM/DB/Base.meta" l="E:\nosyakEroRoot\Client\Assets\Common\Libraries\GM\DB\Base.meta" />
   </component>
 </application>
