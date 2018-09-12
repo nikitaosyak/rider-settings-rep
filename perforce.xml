@@ -30,17 +30,17 @@
         </job-status>
         <users />
         <ch t="0" ur="0" c="0" />
-        <u f="0" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="1" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="2" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="3" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="4" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <h f="0" r="1" m5="E32BB40D9E2104DF2A61CF9BF561738C" t="jlyww3pg" />
+        <h f="1" r="4" m5="909A1E4E8849B7A745FFDD4C90CCBBD9" t="jlyww3mn" />
+        <h f="2" r="1" m5="0741C9439975113FF361F06C89D47AF4" t="jlyww3os" />
+        <h f="3" r="k" m5="5C68E95501A43AC790FE6F2D41989EEC" t="jlyww3o3" />
+        <h f="4" r="4" m5="B07A8DFFC329AC08BD0534497B85D10A" t="jlyww3ly" />
       </server>
     </client-state>
-    <m k="1" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
-    <m k="0" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas.meta" />
-    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
-    <m k="3" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
-    <m k="2" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas" />
+    <m k="0" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
+    <m k="2" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas.meta" />
+    <m k="3" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
+    <m k="1" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
+    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas" />
   </component>
 </application>
