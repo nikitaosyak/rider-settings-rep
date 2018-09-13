@@ -30,17 +30,159 @@
         </job-status>
         <users />
         <ch t="0" ur="0" c="0" />
-        <h f="0" r="1" m5="E32BB40D9E2104DF2A61CF9BF561738C" t="jlyww3pg" />
-        <h f="1" r="4" m5="909A1E4E8849B7A745FFDD4C90CCBBD9" t="jlyww3mn" />
-        <h f="2" r="1" m5="0741C9439975113FF361F06C89D47AF4" t="jlyww3os" />
-        <h f="3" r="k" m5="5C68E95501A43AC790FE6F2D41989EEC" t="jlyww3o3" />
-        <h f="4" r="4" m5="B07A8DFFC329AC08BD0534497B85D10A" t="jlyww3ly" />
+        <h f="0" r="5" m5="" t="jm0hc1d8" />
+        <h f="1" r="4" m5="" t="jm0hc1hb" />
+        <h f="2" r="3" m5="" t="jm0hc1fd" />
+        <h f="3" r="2" m5="" t="jm0hc1hb" />
+        <h f="4" r="2" m5="" t="jm0hc1hb" />
+        <h f="5" r="3" m5="" t="jm0hc1fd" />
+        <h f="6" r="3" m5="" t="jm0hc1fd" />
+        <h f="7" r="e" m5="" t="jm0hc1fd" />
+        <h f="8" r="8" m5="" t="jm0hc1fd" />
+        <h f="9" r="d" m5="" t="jm0hc1fd" />
+        <h f="a" r="9" m5="" t="jm0hc1fd" />
+        <h f="b" r="e" m5="" t="jm0hc196" />
+        <h f="c" r="1" m5="E32BB40D9E2104DF2A61CF9BF561738C" t="jlyww3pg" />
+        <h f="d" r="l" m5="735DBC3D9DC80D7895D5200864C2ACFA" t="jm0hc1l1" />
+        <h f="e" r="6" m5="" t="jm0hc1fd" />
+        <h f="f" r="e" m5="" t="jm0hc1fd" />
+        <h f="g" r="k" m5="7E8A5F138A967E88E27891133222FA95" t="jm0hc1hz" />
+        <h f="h" r="e" m5="" t="jm0hc1ds" />
+        <h f="i" r="5" m5="" t="jm0hc1fd" />
+        <h f="j" r="3" m5="" t="jm0hc1fd" />
+        <h f="k" r="l" m5="" t="jm0hc1fd" />
+        <h f="l" r="3" m5="" t="jm0hc1fd" />
+        <h f="m" r="e" m5="" t="jm0hc196" />
+        <h f="n" r="3" m5="" t="jm0hc1hb" />
+        <h f="o" r="e" m5="" t="jm0hc1e3" />
+        <h f="p" r="2" m5="" t="jm0hc1hb" />
+        <h f="q" r="6" m5="" t="jm0hc1fd" />
+        <h f="r" r="2" m5="07CAB6F05232C8E6E3A5446CF2095EBA" t="jm0hc1jm" />
+        <h f="s" r="5" m5="" t="jm0hc1hb" />
+        <h f="t" r="4" m5="909A1E4E8849B7A745FFDD4C90CCBBD9" t="jlyww3mn" />
+        <h f="u" r="2" m5="" t="jm0hc1fd" />
+        <h f="v" r="1" m5="" t="jm0hc196" />
+        <h f="w" r="4" m5="888BF6895E8848912C805F0CCFF2746B" t="jm0hc1ld" />
+        <h f="x" r="3" m5="" t="jm0hc1hb" />
+        <h f="y" r="8" m5="" t="jm0hc1hb" />
+        <h f="z" r="f" m5="" t="jm0hc1ds" />
+        <h f="10" r="2" m5="" t="jm0hc1hb" />
+        <h f="11" r="5" m5="" t="jm0hc1fd" />
+        <h f="12" r="4" m5="" t="jm0hc1fd" />
+        <h f="13" r="1" m5="" t="jm0hc196" />
+        <h f="14" r="9" m5="" t="jm0hc19d" />
+        <h f="15" r="n" m5="" t="jm0hc196" />
+        <h f="16" r="2" m5="" t="jm0hc1hb" />
+        <h f="17" r="1" m5="0741C9439975113FF361F06C89D47AF4" t="jlyww3os" />
+        <h f="18" r="d" m5="" t="jm0hc196" />
+        <h f="19" r="2" m5="" t="jm0hc1fd" />
+        <h f="1a" r="2" m5="" t="jm0hc1fd" />
+        <h f="1b" r="2" m5="" t="jm0hc1fd" />
+        <h f="1c" r="2" m5="" t="jm0hc1hb" />
+        <h f="1d" r="k" m5="5C68E95501A43AC790FE6F2D41989EEC" t="jlyww3o3" />
+        <h f="1e" r="1g" m5="" t="jm0hc1fd" />
+        <h f="1f" r="2" m5="" t="jm0hc1fd" />
+        <h f="1g" r="4" m5="" t="jm0hc1fd" />
+        <h f="1h" r="5" m5="" t="jm0hc1fd" />
+        <h f="1i" r="4" m5="" t="jm0hc1fd" />
+        <h f="1j" r="5" m5="" t="jm0hc1fd" />
+        <h f="1k" r="2" m5="" t="jm0hc196" />
+        <h f="1l" r="4" m5="" t="jm0hc1hb" />
+        <h f="1m" r="3" m5="" t="jm0hc1hb" />
+        <h f="1n" r="5" m5="" t="jm0hc1fd" />
+        <h f="1o" r="4" m5="" t="jm0hc1hb" />
+        <h f="1p" r="4" m5="B07A8DFFC329AC08BD0534497B85D10A" t="jlyww3ly" />
+        <h f="1q" r="d" m5="17D23DBCE487E157A4808E1AF416D77D" t="jm0hc1mr" />
+        <h f="1r" r="7" m5="" t="jm0hc1fd" />
+        <h f="1s" r="b" m5="CBC7364515E79C8F79BE30A1B183CEF8" t="jm0hc1nl" />
+        <h f="1t" r="7" m5="C0D853724EA6C724AEF0701AB5DA3EDD" t="jm0hc1m2" />
+        <h f="1u" r="2" m5="" t="jm0hc1d8" />
+        <h f="1v" r="j" m5="" t="jm0hc1fd" />
+        <h f="1w" r="1" m5="" t="jm0hc196" />
+        <h f="1x" r="2" m5="" t="jm0hc1hb" />
+        <h f="1y" r="4" m5="" t="jm0hc1fd" />
+        <h f="1z" r="5" m5="" t="jm0hc1d8" />
+        <h f="20" r="2" m5="" t="jm0hc1fd" />
+        <h f="21" r="5" m5="" t="jm0hc1fd" />
+        <h f="22" r="2" m5="" t="jm0hc1hb" />
+        <h f="23" r="4" m5="" t="jm0hc1d8" />
       </server>
     </client-state>
-    <m k="0" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
-    <m k="2" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas.meta" />
-    <m k="3" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
-    <m k="1" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
-    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas" />
+    <m k="0" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/ExplosiveRifle/ExplosiveRifleWeaponMechanic.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\ExplosiveRifle\ExplosiveRifleWeaponMechanic.asset" />
+    <m k="1" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Shotgun/ShotgunSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Shotgun\ShotgunSettings.asset" />
+    <m k="14" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/DamageUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageUI.cs" />
+    <m k="2" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/BurstRifle/BurstRifleWeaponSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\BurstRifle\BurstRifleWeaponSettings.asset" />
+    <m k="15" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/CrosshairUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\CrosshairUI.cs" />
+    <m k="16" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Railgun/RailgunSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Railgun\RailgunSettings.asset.meta" />
+    <m k="3" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Railgun/RailgunSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Railgun\RailgunSettings.asset" />
+    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Railgun/RailgunWeaponMechanic.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Railgun\RailgunWeaponMechanic.asset.meta" />
+    <m k="5" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/Scripts/MobileControlRig.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\Scripts\MobileControlRig.cs" />
+    <m k="17" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas.meta" />
+    <m k="18" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art.unity" />
+    <m k="6" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/StatusbarUI.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\StatusbarUI.prefab.meta" />
+    <m k="7" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Cronian Moonlet/LightingData.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Cronian Moonlet\LightingData.asset.meta" />
+    <m k="19" d="//EraCombat/development/Client/Assets/Simulation/Settings/Character/Resources/ShieldSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Character\Resources\ShieldSettings.asset" />
+    <m k="1a" d="//EraCombat/development/Client/Assets/Simulation/Settings/Abilities/Radar/RadarMechanic.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Radar\RadarMechanic.asset" />
+    <m k="1b" d="//EraCombat/development/Client/Assets/Simulation/Settings/Abilities/Melee/Melee.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Melee\Melee.asset.meta" />
+    <m k="8" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/SMG/SmgMechanic.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\SMG\SmgMechanic.asset" />
+    <m k="1c" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/Settings/ShieldSettings.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Settings\ShieldSettings.cs" />
+    <m k="9" d="//EraCombat/development/Client/Assets/Simulation/Scripts/PlayerObject/PlayerObject.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\PlayerObject\PlayerObject.cs" />
+    <m k="a" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/DamageTextUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageTextUI.cs" />
+    <m k="1d" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
+    <m k="b" d="//EraCombat/development/Client/Assets/bolt/project.bytes" l="E:\nosyakEroRoot\Client\Assets\bolt\project.bytes" />
+    <m k="c" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
+    <m k="1e" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/HUD.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\HUD.prefab" />
+    <m k="d" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Cronian Moonlet.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Cronian Moonlet.unity" />
+    <m k="e" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/SMG/SmgMechanic.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\SMG\SmgMechanic.asset.meta" />
+    <m k="f" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Cronian Moonlet/Lightmap-0_comp_light.exr" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Cronian Moonlet\Lightmap-0_comp_light.exr" />
+    <m k="1f" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/Input/AbstractInputComponent.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Input\AbstractInputComponent.cs" />
+    <m k="g" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Cronian Moonlet.unity.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Cronian Moonlet.unity.meta" />
+    <m k="1g" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/SMG/SMGWeaponSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\SMG\SMGWeaponSettings.asset.meta" />
+    <m k="1h" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/Screens/HUD.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\Screens\HUD.cs" />
+    <m k="h" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Cronian Moonlet/LightingData.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Cronian Moonlet\LightingData.asset" />
+    <m k="i" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/SMG/SMGWeaponSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\SMG\SMGWeaponSettings.asset" />
+    <m k="j" d="//EraCombat/development/Client/Assets/Simulation/Settings/Abilities/Radar/RadarAbility.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Radar\RadarAbility.asset" />
+    <m k="k" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/CharacterDamage.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterDamage.cs" />
+    <m k="1i" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/BurstRifle/BurstRifleMechanic.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\BurstRifle\BurstRifleMechanic.asset" />
+    <m k="l" d="//EraCombat/development/Client/Assets/Simulation/Settings/Abilities/Melee/Melee.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Melee\Melee.asset" />
+    <m k="1j" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/StatusbarUI.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\StatusbarUI.prefab" />
+    <m k="1k" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/ShieldUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ShieldUI.cs" />
+    <m k="m" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/CharacterFacade.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\CharacterFacade.cs" />
+    <m k="1l" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Shotgun/ShotguntWeaponMechanic.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Shotgun\ShotguntWeaponMechanic.asset.meta" />
+    <m k="1m" d="//EraCombat/development/Client/Assets/Simulation/Settings/Abilities/Resources/AbilitiesList.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Resources\AbilitiesList.asset" />
+    <m k="n" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/StatusbarUI.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\StatusbarUI.cs.meta" />
+    <m k="1n" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/AbilityIndicatorUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\AbilityIndicatorUI.cs" />
+    <m k="o" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Cronian Moonlet/Lightmap-0_comp_light.exr.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Cronian Moonlet\Lightmap-0_comp_light.exr.meta" />
+    <m k="1o" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Shotgun/ShotguntWeaponMechanic.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Shotgun\ShotguntWeaponMechanic.asset" />
+    <m k="1p" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas" />
+    <m k="p" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Rifle/RifleWeaponSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Rifle\RifleWeaponSettings.asset.meta" />
+    <m k="1q" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Abilities/AbilitiesManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Abilities\AbilitiesManager.cs" />
+    <m k="q" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/Input/KinematicCharacterInput.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Input\KinematicCharacterInput.cs" />
+    <m k="r" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/HealthUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\HealthUI.cs" />
+    <m k="s" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Rifle/RifleWeaponMechanic.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Rifle\RifleWeaponMechanic.asset.meta" />
+    <m k="t" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
+    <m k="u" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Abilities/AbilitiyPresetsRepository.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Abilities\AbilitiyPresetsRepository.cs" />
+    <m k="1r" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/StatusbarUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\StatusbarUI.cs" />
+    <m k="1s" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art.unity.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art.unity.meta" />
+    <m k="v" d="//EraCombat/development/Client/Assets/Simulation/Settings/Abilities/Resources/QTEList.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Resources\QTEList.asset" />
+    <m k="1t" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/StatusbarManagerUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\StatusbarManagerUI.cs" />
+    <m k="w" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/AutoSpawnBots.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\AutoSpawnBots.cs" />
+    <m k="1u" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/ExplosiveRifle/ExplosiveRifle.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\ExplosiveRifle\ExplosiveRifle.asset.meta" />
+    <m k="1v" d="//EraCombat/development/Client/Assets/bolt/assemblies/bolt.user.dll" l="E:\nosyakEroRoot\Client\Assets\bolt\assemblies\bolt.user.dll" />
+    <m k="x" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Shotgun/ShotgunSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Shotgun\ShotgunSettings.asset.meta" />
+    <m k="1w" d="//EraCombat/development/Client/Assets/Simulation/Scripts/CharacterMechanic.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\CharacterMechanic.meta" />
+    <m k="1x" d="//EraCombat/development/Client/Assets/Simulation/Settings/Abilities/Resources/AbilitiesList.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Resources\AbilitiesList.asset.meta" />
+    <m k="1y" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/AbilityButtonUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\AbilityButtonUI.cs" />
+    <m k="1z" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/ExplosiveRifle/ExplosiveRifleWeaponMechanic.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\ExplosiveRifle\ExplosiveRifleWeaponMechanic.asset.meta" />
+    <m k="y" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/HUD.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\HUD.prefab.meta" />
+    <m k="20" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/BurstRifle/BurstRifleWeaponSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\BurstRifle\BurstRifleWeaponSettings.asset.meta" />
+    <m k="21" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Rifle/RifleWeaponMechanic.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Rifle\RifleWeaponMechanic.asset" />
+    <m k="z" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/KinematicCharacterBehaviour.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\KinematicCharacterBehaviour.cs" />
+    <m k="10" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Railgun/RailgunWeaponMechanic.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Railgun\RailgunWeaponMechanic.asset" />
+    <m k="11" d="//EraCombat/development/Client/Assets/Simulation/Settings/Character/Ground Movement.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Character\Ground Movement.asset" />
+    <m k="12" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/BurstRifle/BurstRifleMechanic.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\BurstRifle\BurstRifleMechanic.asset.meta" />
+    <m k="22" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Rifle/RifleWeaponSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Rifle\RifleWeaponSettings.asset" />
+    <m k="13" d="//EraCombat/development/Client/Assets/Simulation/Settings/Abilities/Resources/QTEList.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Abilities\Resources\QTEList.asset.meta" />
+    <m k="23" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/ExplosiveRifle/ExplosiveRifle.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\ExplosiveRifle\ExplosiveRifle.asset" />
   </component>
 </application>
