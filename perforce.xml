@@ -1,0 +1,560 @@
+<application>
+  <component name="PerforceCachedClientServerState">
+    <client-state scid="p4-erac:1666" cid="nosyakEroRoot">
+      <local serverConnection="p4-erac:1666" clientName="nosyakEroRoot" isServerCaseInsensitive="true">
+        <workspace t="0" n="nosyakEroRoot" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </local>
+      <server serverConnection="p4-erac:1666" clientName="nosyakEroRoot" isServerCaseInsensitive="true">
+        <workspace t="jma820so" n="nosyakEroRoot">
+          <r p="E:\nosyakEroRoot" />
+          <m d="//EraCombat/development/..." w="//nosyakEroRoot/..." />
+          <m d="//EraCombat/.../Client/Assets/Plugins/Editor/JetBrains..." w="//nosyakEroRoot/.../Client/Assets/Plugins/Editor/JetBrains..." />
+          <m d="//EraCombat/.../Client/Assets/Plugins/Editor/JetBrains/..." w="//nosyakEroRoot/.../Client/Assets/Plugins/Editor/JetBrains/..." />
+          <m d="//EraCombat/.../Client/.idea/..." w="//nosyakEroRoot/.../Client/.idea/..." />
+          <m d="//EraCombat/.../Client/.csproj" w="//nosyakEroRoot/.../Client/.csproj" />
+          <m d="//EraCombat/.../Client/.sln" w="//nosyakEroRoot/.../Client/.sln" />
+          <m d="//EraCombat/.../Client/Temp/..." w="//nosyakEroRoot/.../Client/Temp/..." />
+          <m d="//EraCombat/.../Client/obj/..." w="//nosyakEroRoot/.../Client/obj/..." />
+          <m d="//EraCombat/.../Client/Library/..." w="//nosyakEroRoot/.../Client/Library/..." />
+        </workspace>
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+        <ch t="0" ur="0" c="0" />
+        <u f="0" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="8" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="9" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="a" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="b" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="c" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="d" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="e" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="f" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="g" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="h" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="i" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="j" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="k" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="l" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="m" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="n" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="o" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="p" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="q" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="r" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="s" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="t" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="u" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="v" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="w" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="x" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="y" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="z" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="10" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="11" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="12" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="13" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="14" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="15" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="16" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="17" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="18" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="19" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1a" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1b" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1c" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1d" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1e" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1f" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1g" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1h" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1i" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1j" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1k" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1l" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1m" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1n" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1o" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1p" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1q" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1r" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1s" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1t" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1u" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1v" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1w" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1x" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1y" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="1z" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="20" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="21" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="22" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="23" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="24" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="25" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="26" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="27" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="28" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="29" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2a" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2b" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2c" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2d" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2e" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2f" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2g" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2h" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2i" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2j" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2k" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2l" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2m" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2n" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2o" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2p" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2q" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2r" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2s" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2t" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2u" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2v" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2w" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2x" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2y" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="2z" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="30" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="31" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="32" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="33" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="34" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="35" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="36" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="37" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="38" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="39" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3a" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3b" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3c" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3d" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3e" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3f" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3g" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3h" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3i" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3j" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3k" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3l" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3m" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3n" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3o" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3p" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3q" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3r" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3s" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3t" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3u" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3v" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3w" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3x" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3y" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3z" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="40" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="41" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="42" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="43" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="44" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="45" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="46" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="47" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="48" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="49" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4a" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4b" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4c" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4d" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4e" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4f" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4g" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4h" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4i" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4j" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4k" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="4l" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4m" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4n" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4o" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4p" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4q" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4r" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4s" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4t" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4u" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4v" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4w" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4x" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4y" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="4z" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="50" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="51" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="52" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="53" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="54" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="55" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="56" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="57" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="58" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="59" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5a" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5b" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5c" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5d" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5e" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5f" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5g" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="5h" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5i" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5j" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5k" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5l" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5m" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5n" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5o" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5p" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5q" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5r" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5s" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5t" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5u" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5v" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5w" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5x" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5y" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="5z" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="60" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="61" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="62" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="63" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="64" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="65" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="66" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="67" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="68" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="69" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6a" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6b" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6c" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6d" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6e" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6f" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6g" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6h" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6i" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6j" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6k" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6l" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6m" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6n" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6o" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6p" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6q" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6r" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6s" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6t" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6u" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6v" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6w" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6x" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6y" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="6z" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="70" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="71" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="72" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="73" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="74" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="75" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="76" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="77" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="78" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="79" c="0" a="EDIT_FILE" t="0" ur="0" />
+      </server>
+    </client-state>
+    <m k="3s" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppAuth.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppAuth.so.meta" />
+    <m k="4q" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1.meta" />
+    <m k="56" d="//EraCombat/development/Client/Assets/Firebase/Editor/Firebase.Editor.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\Firebase.Editor.dll" />
+    <m k="4f" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Auth.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Auth.dll.meta" />
+    <m k="f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\AndroidManifest.xml.meta" />
+    <m k="62" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/proguard.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\proguard.txt.meta" />
+    <m k="3u" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-fragment-26.1.0.aar" />
+    <m k="6g" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/play-services-resolver_v1.2.84.0.txt" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\play-services-resolver_v1.2.84.0.txt" />
+    <m k="4h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\classes.jar" />
+    <m k="6w" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppAuth.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppAuth.so" />
+    <m k="4a" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-annotations-26.1.0.jar" />
+    <m k="3r" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver.meta" />
+    <m k="z" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.84.0.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.VersionHandlerImpl_v1.2.84.0.dll" />
+    <m k="d" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Http/link.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Http\link.xml" />
+    <m k="2i" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\R.txt" />
+    <m k="5b" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-stats-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-stats-15.0.1.aar" />
+    <m k="25" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\AndroidManifest.xml.meta" />
+    <m k="66" d="//EraCombat/development/Client/ProjectSettings/ProjectSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\ProjectSettings.asset" />
+    <m k="1h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\AndroidManifest.xml" />
+    <m k="u" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1/firebase-database-unity-5.2.1.srcaar" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1\firebase-database-unity-5.2.1.srcaar" />
+    <m k="75" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1/firebase-auth-unity-5.2.1.srcaar" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1\firebase-auth-unity-5.2.1.srcaar" />
+    <m k="6j" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-compat-26.1.0.aar.meta" />
+    <m k="24" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-core-utils-26.1.0.aar" />
+    <m k="1i" d="//EraCombat/development/Client/Assets/Firebase/Editor/AuthDependencies.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\AuthDependencies.xml.meta" />
+    <m k="h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0.meta" />
+    <m k="6o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0.meta" />
+    <m k="3v" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.App.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.App.dll" />
+    <m k="3y" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Google.MiniJson.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Google.MiniJson.dll.meta" />
+    <m k="5f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-interop-16.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-interop-16.0.0.aar.meta" />
+    <m k="9" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-measurement-base-16.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-measurement-base-16.0.0.aar.meta" />
+    <m k="1u" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45.meta" />
+    <m k="4m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/x86/libFirebaseCppDatabase.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\x86\libFirebaseCppDatabase.so.meta" />
+    <m k="1z" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Http/link.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Http\link.xml.meta" />
+    <m k="19" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1/firebase-database-unity-5.2.1.srcaar.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1\firebase-database-unity-5.2.1.srcaar.meta" />
+    <m k="2a" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\R.txt" />
+    <m k="4z" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Database.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Database.dll" />
+    <m k="73" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.VersionHandler.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.VersionHandler.dll.meta" />
+    <m k="16" d="//EraCombat/development/Client/Assets/Firebase/Editor/FirebaseAuth_v5.2.1_manifest.txt" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\FirebaseAuth_v5.2.1_manifest.txt" />
+    <m k="6l" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml" />
+    <m k="b" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\AndroidManifest.xml.meta" />
+    <m k="5p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-media-compat-26.1.0.aar" />
+    <m k="5w" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Mono.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Mono.meta" />
+    <m k="2b" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\libs\classes.jar.meta" />
+    <m k="6n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-core-utils-26.1.0.aar.meta" />
+    <m k="p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\R.txt.meta" />
+    <m k="3f" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase/res/values/google-services.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase\res\values\google-services.xml" />
+    <m k="6a" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\project.properties" />
+    <m k="1x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/proguard.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\proguard.txt" />
+    <m k="5l" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.84.0.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.IOSResolver_v1.2.84.0.dll" />
+    <m k="2h" d="//EraCombat/development/Client/Assets/Firebase/Editor/FirebaseDatabase_v5.2.1_manifest.txt" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\FirebaseDatabase_v5.2.1_manifest.txt" />
+    <m k="6b" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-analytics-impl-16.1.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-analytics-impl-16.1.1.aar" />
+    <m k="3o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/third_party_licenses.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\third_party_licenses.txt.meta" />
+    <m k="4t" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-analytics-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-analytics-16.0.1.aar" />
+    <m k="5s" d="//EraCombat/development/Client/Assets/Firebase/Plugins/link.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\link.xml.meta" />
+    <m k="5m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/x86/libFirebaseCppAuth.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\x86\libFirebaseCppAuth.so" />
+    <m k="1k" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Http.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Http.meta" />
+    <m k="4j" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.lifecycle.common-1.0.0.jar" />
+    <m k="4v" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.JarResolver_v1.2.84.0.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.JarResolver_v1.2.84.0.dll" />
+    <m k="4d" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-16.0.3.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-16.0.3.aar.meta" />
+    <m k="48" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/x86.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\x86.meta" />
+    <m k="42" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\classes.jar" />
+    <m k="2v" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/x86/libFirebaseCppApp-5.2.1.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\x86\libFirebaseCppApp-5.2.1.so.meta" />
+    <m k="72" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\AndroidManifest.xml" />
+    <m k="79" d="//EraCombat/development/Client/ProjectSettings/EditorBuildSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\EditorBuildSettings.asset" />
+    <m k="5j" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor.meta" />
+    <m k="3z" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Google.Sharpen.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Google.Sharpen.dll.meta" />
+    <m k="1o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/x86/libFirebaseCppApp-5.2.1.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\x86\libFirebaseCppApp-5.2.1.so" />
+    <m k="6r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/proguard.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\proguard.txt" />
+    <m k="37" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins.meta" />
+    <m k="74" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\AndroidManifest.xml.meta" />
+    <m k="3d" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1/firebase-database-unity-5.2.1.pom" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1\firebase-database-unity-5.2.1.pom" />
+    <m k="3m" d="//EraCombat/development/Client/Assets/Firebase/Editor/AppDependencies.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\AppDependencies.xml.meta" />
+    <m k="6x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\classes.jar.meta" />
+    <m k="5y" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-tasks-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-tasks-15.0.1.aar" />
+    <m k="e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\libs.meta" />
+    <m k="1w" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/maven-metadata.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\maven-metadata.xml" />
+    <m k="6p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-16.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-measurement-connector-16.0.0.aar.meta" />
+    <m k="1m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs.meta" />
+    <m k="3h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-compat-26.1.0.aar" />
+    <m k="4y" d="//EraCombat/development/Client/Assets/Firebase/m2repository.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository.meta" />
+    <m k="1j" d="//EraCombat/development/Client/Assets/Firebase/Editor/generate_xml_from_google_services_json.exe.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\generate_xml_from_google_services_json.exe.meta" />
+    <m k="k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-fragment-26.1.0.aar.meta" />
+    <m k="1p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppApp-5.2.1.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppApp-5.2.1.so" />
+    <m k="4n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-collection-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-collection-15.0.1.aar" />
+    <m k="3" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.App.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.App.dll" />
+    <m k="1d" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/third_party_licenses.json" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\third_party_licenses.json" />
+    <m k="4s" d="//EraCombat/development/Client/Assets/Firebase/Editor/AuthDependencies.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\AuthDependencies.xml" />
+    <m k="4o" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.App.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.App.dll.meta" />
+    <m k="44" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-connection-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-connection-16.0.1.aar" />
+    <m k="2z" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/play-services-resolver_v1.2.84.0.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\play-services-resolver_v1.2.84.0.txt.meta" />
+    <m k="1" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\classes.jar.meta" />
+    <m k="49" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.Database.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.Database.dll.meta" />
+    <m k="4g" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.84.0.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.IOSResolver_v1.2.84.0.dll.meta" />
+    <m k="14" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1/firebase-auth-unity-5.2.1.pom.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1\firebase-auth-unity-5.2.1.pom.meta" />
+    <m k="17" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs.meta" />
+    <m k="5c" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-interop-16.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-interop-16.0.0.aar" />
+    <m k="63" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.VersionHandler.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.VersionHandler.dll" />
+    <m k="2q" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/x86.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\x86.meta" />
+    <m k="69" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45/Unity.Tasks.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45\Unity.Tasks.dll" />
+    <m k="2d" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-annotations-26.1.0.jar.meta" />
+    <m k="34" d="//EraCombat/development/Client/Assets/Firebase/Parse.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse.meta" />
+    <m k="6q" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-v4-26.1.0.aar.meta" />
+    <m k="40" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\R.txt" />
+    <m k="3w" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Mono/Firebase.Database.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Mono\Firebase.Database.dll.meta" />
+    <m k="5d" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45/Unity.Compat.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45\Unity.Compat.dll" />
+    <m k="60" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity.meta" />
+    <m k="43" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\project.properties.meta" />
+    <m k="61" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-ads-identifier-15.0.1.aar.meta" />
+    <m k="4w" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\project.properties" />
+    <m k="1n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\R.txt" />
+    <m k="5h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\AndroidManifest.xml.meta" />
+    <m k="1v" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.App.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.App.dll.meta" />
+    <m k="2n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\R.txt.meta" />
+    <m k="2k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\libs.meta" />
+    <m k="2w" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\R.txt.meta" />
+    <m k="5x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\classes.jar" />
+    <m k="3b" d="//EraCombat/development/Client/Assets/Firebase/StreamingAssets/google-services-desktop.json.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\StreamingAssets\google-services-desktop.json.meta" />
+    <m k="2y" d="//EraCombat/development/Client/Assets/Plugins/Firebase.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Firebase.meta" />
+    <m k="35" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.core.common-1.0.0.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.core.common-1.0.0.jar" />
+    <m k="4i" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase.meta" />
+    <m k="6d" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1/firebase-database-unity-5.2.1.pom.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1\firebase-database-unity-5.2.1.pom.meta" />
+    <m k="t" d="//EraCombat/development/Client/Assets/Firebase/google-services.json" l="E:\nosyakEroRoot\Client\Assets\Firebase\google-services.json" />
+    <m k="29" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity.meta" />
+    <m k="2j" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/proguard.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\proguard.txt.meta" />
+    <m k="2m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\project.properties.meta" />
+    <m k="q" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google.meta" />
+    <m k="1l" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppDatabase.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppDatabase.so" />
+    <m k="5t" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-v4-26.1.0.aar" />
+    <m k="38" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-core-ui-26.1.0.aar.meta" />
+    <m k="4k" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
+    <m k="51" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\project.properties" />
+    <m k="3p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-core-ui-26.1.0.aar" />
+    <m k="o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\R.txt.meta" />
+    <m k="31" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
+    <m k="20" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-analytics-impl-16.1.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-analytics-impl-16.1.1.aar.meta" />
+    <m k="4r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\classes.jar.meta" />
+    <m k="11" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.Auth.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.Auth.dll" />
+    <m k="5q" d="//EraCombat/development/Client/Assets/Firebase/StreamingAssets/google-services-desktop.json" l="E:\nosyakEroRoot\Client\Assets\Firebase\StreamingAssets\google-services-desktop.json" />
+    <m k="39" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1/firebase-auth-unity-5.2.1.srcaar.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1\firebase-auth-unity-5.2.1.srcaar.meta" />
+    <m k="6h" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1/firebase-app-unity-5.2.1.srcaar" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1\firebase-app-unity-5.2.1.srcaar" />
+    <m k="77" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\project.properties.meta" />
+    <m k="6m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-impl-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-measurement-connector-impl-16.0.1.aar.meta" />
+    <m k="s" d="//EraCombat/development/Client/Assets/Firebase/google-services.json.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\google-services.json.meta" />
+    <m k="22" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/third_party_licenses.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\third_party_licenses.txt" />
+    <m k="m" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
+    <m k="3c" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1/firebase-app-unity-5.2.1.pom" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1\firebase-app-unity-5.2.1.pom" />
+    <m k="2s" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/proguard.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\proguard.txt.meta" />
+    <m k="6c" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.lifecycle.common-1.0.0.jar.meta" />
+    <m k="1r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/third_party_licenses.json" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\third_party_licenses.json" />
+    <m k="4b" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1.meta" />
+    <m k="4x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-flags-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-flags-15.0.1.aar.meta" />
+    <m k="1f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-interop-16.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-interop-16.0.0.aar" />
+    <m k="55" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-tasks-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-tasks-15.0.1.aar.meta" />
+    <m k="1q" d="//EraCombat/development/Client/Assets/Firebase/Editor/AppDependencies.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\AppDependencies.xml" />
+    <m k="3a" d="//EraCombat/development/Client/Assets/StreamingAssets/google-services-desktop.json" l="E:\nosyakEroRoot\Client\Assets\StreamingAssets\google-services-desktop.json" />
+    <m k="0" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase/res/values/google-services.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase\res\values\google-services.xml.meta" />
+    <m k="59" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1/firebase-app-unity-5.2.1.srcaar.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1\firebase-app-unity-5.2.1.srcaar.meta" />
+    <m k="2t" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-ads-identifier-15.0.1.aar" />
+    <m k="c" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.lifecycle.runtime-1.0.0.aar" />
+    <m k="67" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.JarResolver_v1.2.84.0.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.JarResolver_v1.2.84.0.dll.meta" />
+    <m k="2e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\project.properties.meta" />
+    <m k="y" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-stats-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-stats-15.0.1.aar.meta" />
+    <m k="30" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-impl-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-measurement-connector-impl-16.0.1.aar" />
+    <m k="6e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/third_party_licenses.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\third_party_licenses.txt" />
+    <m k="46" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/armeabi-v7a.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\armeabi-v7a.meta" />
+    <m k="3j" d="//EraCombat/development/Client/Assets/Firebase/Editor/FirebaseDatabase_v5.2.1_manifest.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\FirebaseDatabase_v5.2.1_manifest.txt.meta" />
+    <m k="57" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\libs\classes.jar" />
+    <m k="6" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.core.common-1.0.0.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.core.common-1.0.0.jar.meta" />
+    <m k="52" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1/firebase-app-unity-5.2.1.pom.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1\firebase-app-unity-5.2.1.pom.meta" />
+    <m k="6k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppApp-5.2.1.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppApp-5.2.1.so.meta" />
+    <m k="n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\AndroidManifest.xml" />
+    <m k="5n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/third_party_licenses.json.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\third_party_licenses.json.meta" />
+    <m k="x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppDatabase.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppDatabase.so.meta" />
+    <m k="12" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Google.MiniJson.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Google.MiniJson.dll" />
+    <m k="a" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas.meta" />
+    <m k="6f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-basement-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-basement-15.0.1.aar.meta" />
+    <m k="6u" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs.meta" />
+    <m k="4p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-core-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-core-16.0.1.aar.meta" />
+    <m k="6z" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Platform.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Platform.dll.meta" />
+    <m k="1a" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-core-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-core-16.0.1.aar" />
+    <m k="3t" d="//EraCombat/development/Client/Assets/StreamingAssets.meta" l="E:\nosyakEroRoot\Client\Assets\StreamingAssets.meta" />
+    <m k="33" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\project.properties.meta" />
+    <m k="v" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-16.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-measurement-connector-16.0.0.aar" />
+    <m k="4" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Auth.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Auth.dll" />
+    <m k="53" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45/Unity.Tasks.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45\Unity.Tasks.dll.meta" />
+    <m k="1e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-base-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-base-15.0.1.aar" />
+    <m k="5i" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Mono/Firebase.Database.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Mono\Firebase.Database.dll" />
+    <m k="36" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-collection-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-collection-15.0.1.aar.meta" />
+    <m k="5g" d="//EraCombat/development/Client/ProjectSettings/GraphicsSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\GraphicsSettings.asset" />
+    <m k="47" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Platform.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Platform.dll" />
+    <m k="5k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/x86/libFirebaseCppDatabase.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\x86\libFirebaseCppDatabase.so" />
+    <m k="1s" d="//EraCombat/development/Client/Assets/Firebase/Editor.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor.meta" />
+    <m k="6i" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-16.0.1.aar" />
+    <m k="2r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\R.txt.meta" />
+    <m k="6s" d="//EraCombat/development/Client/Assets/Firebase/Plugins.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins.meta" />
+    <m k="8" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase.meta" />
+    <m k="6v" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/proguard.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\proguard.txt" />
+    <m k="15" d="//EraCombat/development/Client/Assets/Firebase/Plugins/link.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\link.xml" />
+    <m k="j" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\AndroidManifest.xml" />
+    <m k="2x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\project.properties" />
+    <m k="26" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-16.0.3.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-16.0.3.aar" />
+    <m k="3i" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/third_party_licenses.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\third_party_licenses.txt.meta" />
+    <m k="4u" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.lifecycle.runtime-1.0.0.aar.meta" />
+    <m k="50" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity.meta" />
+    <m k="65" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1/firebase-auth-unity-5.2.1.pom" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1\firebase-auth-unity-5.2.1.pom" />
+    <m k="5o" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Database.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Database.dll.meta" />
+    <m k="3l" d="//EraCombat/development/Client/Assets/Firebase/Editor/DatabaseDependencies.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\DatabaseDependencies.xml" />
+    <m k="5a" d="//EraCombat/development/Client/Assets/Firebase/Editor/FirebaseAuth_v5.2.1_manifest.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\FirebaseAuth_v5.2.1_manifest.txt.meta" />
+    <m k="3g" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\project.properties" />
+    <m k="r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-interop-16.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-interop-16.0.0.aar.meta" />
+    <m k="3k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/x86/libFirebaseCppAuth.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\x86\libFirebaseCppAuth.so.meta" />
+    <m k="28" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS.meta" />
+    <m k="3x" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.Auth.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.Auth.dll.meta" />
+    <m k="64" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\R.txt" />
+    <m k="5" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/armeabi-v7a.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\armeabi-v7a.meta" />
+    <m k="2" d="//EraCombat/development/Client/Assets/Firebase/Editor/generate_xml_from_google_services_json.exe" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\generate_xml_from_google_services_json.exe" />
+    <m k="6t" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase/res.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase\res.meta" />
+    <m k="3q" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.Database.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.Database.dll" />
+    <m k="3n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-basement-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-basement-15.0.1.aar" />
+    <m k="1b" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1.meta" />
+    <m k="w" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs.meta" />
+    <m k="70" d="//EraCombat/development/Client/Assets/Plugins/Android.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android.meta" />
+    <m k="18" d="//EraCombat/development/Client/ProjectSettings/AndroidResolverDependencies.xml" l="E:\nosyakEroRoot\Client\ProjectSettings\AndroidResolverDependencies.xml" />
+    <m k="5v" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\AndroidManifest.xml" />
+    <m k="5r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/armeabi-v7a.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\armeabi-v7a.meta" />
+    <m k="3e" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/maven-metadata.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\maven-metadata.xml.meta" />
+    <m k="45" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-media-compat-26.1.0.aar.meta" />
+    <m k="78" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/proguard.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\proguard.txt" />
+    <m k="58" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-measurement-base-16.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-measurement-base-16.0.0.aar" />
+    <m k="6y" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com.meta" />
+    <m k="2f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/proguard.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\proguard.txt.meta" />
+    <m k="5z" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
+    <m k="54" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/x86.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\x86.meta" />
+    <m k="23" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase/res/values.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase\res\values.meta" />
+    <m k="2p" d="//EraCombat/development/Client/Assets/Firebase/StreamingAssets.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\StreamingAssets.meta" />
+    <m k="7" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml.meta" />
+    <m k="1t" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas" />
+    <m k="32" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1.meta" />
+    <m k="71" d="//EraCombat/development/Client/Assets/StreamingAssets/google-services-desktop.json.meta" l="E:\nosyakEroRoot\Client\Assets\StreamingAssets\google-services-desktop.json.meta" />
+    <m k="2c" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\libs\classes.jar.meta" />
+    <m k="13" d="//EraCombat/development/Client/Assets/Plugins/Firebase/x86_64.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Firebase\x86_64.meta" />
+    <m k="4e" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\maven-metadata.xml.meta" />
+    <m k="i" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.84.0.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.VersionHandlerImpl_v1.2.84.0.dll.meta" />
+    <m k="2l" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1.meta" />
+    <m k="l" d="//EraCombat/development/Client/Assets/Firebase/Editor/generate_xml_from_google_services_json.py.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\generate_xml_from_google_services_json.py.meta" />
+    <m k="2g" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-analytics-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-analytics-16.0.1.aar.meta" />
+    <m k="10" d="//EraCombat/development/Client/Assets/Firebase/Editor/Firebase.Editor.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\Firebase.Editor.dll.meta" />
+    <m k="41" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\maven-metadata.xml" />
+    <m k="21" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-base-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-base-15.0.1.aar.meta" />
+    <m k="2o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1.meta" />
+    <m k="68" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs" />
+    <m k="5e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-flags-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-flags-15.0.1.aar" />
+    <m k="1c" d="//EraCombat/development/Client/Assets/Firebase/Editor/DatabaseDependencies.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\DatabaseDependencies.xml.meta" />
+    <m k="g" d="//EraCombat/development/Client/Assets/Firebase.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase.meta" />
+    <m k="1g" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Google.Sharpen.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Google.Sharpen.dll" />
+    <m k="2u" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-connection-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-connection-16.0.1.aar.meta" />
+    <m k="1y" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45/Unity.Compat.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45\Unity.Compat.dll.meta" />
+    <m k="27" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Token/PhotonTokens.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Token\PhotonTokens.cs" />
+    <m k="4c" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-16.0.1.aar.meta" />
+    <m k="5u" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\libs\classes.jar" />
+    <m k="76" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/third_party_licenses.json.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\third_party_licenses.json.meta" />
+    <m k="4l" d="//EraCombat/development/Client/Assets/Firebase/Editor/generate_xml_from_google_services_json.py" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\generate_xml_from_google_services_json.py" />
+  </component>
+</application>
