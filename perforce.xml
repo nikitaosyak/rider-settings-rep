@@ -30,17 +30,17 @@
         </job-status>
         <users />
         <ch t="0" ur="0" c="0" />
-        <u f="0" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="1" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="2" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="3" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="4" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="5" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="6" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="7" c="0" a="ADD_FILE" t="0" ur="0" />
+        <h f="0" r="2" m5="B6BFCCCDCBB2498F601F2C84863CDA39" t="jma9bhta" />
+        <h f="1" r="3" m5="85239208C96171FCD5907AE669A4E9F2" t="jma9bim2" />
+        <h f="2" r="7" m5="909A1E4E8849B7A745FFDD4C90CCBBD9" t="jma9bi38" />
+        <h f="3" r="1" m5="E32BB40D9E2104DF2A61CF9BF561738C" t="jma9bimo" />
+        <h f="4" r="1" m5="0741C9439975113FF361F06C89D47AF4" t="jma9bikk" />
+        <h f="5" r="8" m5="B5E92E226A8910A8D198E6550DDC9C30" t="jma9bijp" />
+        <h f="6" r="4" m5="B07A8DFFC329AC08BD0534497B85D10A" t="jma9bhup" />
+        <h f="7" r="p" m5="E47DD4949366F81E4A068F4151042E66" t="jma9bifh" />
         <u f="8" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="9" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="a" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="a" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="b" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="c" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="d" c="0" a="ADD_FILE" t="0" ur="0" />
@@ -52,7 +52,7 @@
         <u f="j" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="k" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="l" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="m" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="m" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="n" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="o" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="p" c="0" a="ADD_FILE" t="0" ur="0" />
@@ -95,7 +95,7 @@
         <u f="1q" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="1r" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="1s" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="1t" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1t" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="1u" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="1v" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="1w" c="0" a="ADD_FILE" t="0" ur="0" />
@@ -109,7 +109,7 @@
         <u f="24" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="25" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="26" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="27" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="27" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="28" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="29" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="2a" c="0" a="ADD_FILE" t="0" ur="0" />
@@ -139,7 +139,7 @@
         <u f="2y" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="2z" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="30" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="31" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="31" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="32" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="33" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="34" c="0" a="ADD_FILE" t="0" ur="0" />
@@ -171,7 +171,7 @@
         <u f="3u" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="3v" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="3w" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="3x" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="3x" c="0" a="EDIT_FILE" t="0" ur="0" />
         <u f="3y" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="3z" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="40" c="0" a="ADD_FILE" t="0" ur="0" />
@@ -194,7 +194,7 @@
         <u f="4h" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="4i" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="4j" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="4k" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="4k" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="4l" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="4m" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="4n" c="0" a="ADD_FILE" t="0" ur="0" />
@@ -226,7 +226,7 @@
         <u f="5d" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="5e" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="5f" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="5g" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="5g" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="5h" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="5i" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="5j" c="0" a="ADD_FILE" t="0" ur="0" />
@@ -245,14 +245,14 @@
         <u f="5w" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="5x" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="5y" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="5z" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="5z" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="60" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="61" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="62" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="63" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="64" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="65" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="66" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="66" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="67" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="68" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="69" c="0" a="ADD_FILE" t="0" ur="0" />
@@ -291,270 +291,318 @@
         <u f="76" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="77" c="0" a="ADD_FILE" t="0" ur="0" />
         <u f="78" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="79" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="79" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7a" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7b" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7c" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7d" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7e" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7f" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7g" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7h" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7i" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7j" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7k" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7l" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7m" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7n" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7o" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7p" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7q" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7r" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7s" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7t" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7u" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7v" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7w" c="0" a="ADD_FILE" t="0" ur="0" />
+        <u f="7x" c="0" a="EDIT_FILE" t="0" ur="0" />
       </server>
     </client-state>
-    <m k="3s" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppAuth.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppAuth.so.meta" />
-    <m k="4q" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1.meta" />
-    <m k="56" d="//EraCombat/development/Client/Assets/Firebase/Editor/Firebase.Editor.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\Firebase.Editor.dll" />
-    <m k="4f" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Auth.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Auth.dll.meta" />
-    <m k="f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\AndroidManifest.xml.meta" />
-    <m k="62" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/proguard.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\proguard.txt.meta" />
-    <m k="3u" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-fragment-26.1.0.aar" />
-    <m k="6g" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/play-services-resolver_v1.2.84.0.txt" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\play-services-resolver_v1.2.84.0.txt" />
-    <m k="4h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\classes.jar" />
-    <m k="6w" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppAuth.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppAuth.so" />
-    <m k="4a" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-annotations-26.1.0.jar" />
-    <m k="3r" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver.meta" />
-    <m k="z" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.84.0.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.VersionHandlerImpl_v1.2.84.0.dll" />
-    <m k="d" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Http/link.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Http\link.xml" />
-    <m k="2i" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\R.txt" />
-    <m k="5b" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-stats-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-stats-15.0.1.aar" />
-    <m k="25" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\AndroidManifest.xml.meta" />
-    <m k="66" d="//EraCombat/development/Client/ProjectSettings/ProjectSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\ProjectSettings.asset" />
-    <m k="1h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\AndroidManifest.xml" />
-    <m k="u" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1/firebase-database-unity-5.2.1.srcaar" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1\firebase-database-unity-5.2.1.srcaar" />
-    <m k="75" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1/firebase-auth-unity-5.2.1.srcaar" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1\firebase-auth-unity-5.2.1.srcaar" />
-    <m k="6j" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-compat-26.1.0.aar.meta" />
-    <m k="24" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-core-utils-26.1.0.aar" />
-    <m k="1i" d="//EraCombat/development/Client/Assets/Firebase/Editor/AuthDependencies.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\AuthDependencies.xml.meta" />
-    <m k="h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0.meta" />
-    <m k="6o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0.meta" />
-    <m k="3v" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.App.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.App.dll" />
-    <m k="3y" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Google.MiniJson.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Google.MiniJson.dll.meta" />
-    <m k="5f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-interop-16.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-interop-16.0.0.aar.meta" />
-    <m k="9" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-measurement-base-16.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-measurement-base-16.0.0.aar.meta" />
-    <m k="1u" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45.meta" />
-    <m k="4m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/x86/libFirebaseCppDatabase.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\x86\libFirebaseCppDatabase.so.meta" />
-    <m k="1z" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Http/link.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Http\link.xml.meta" />
-    <m k="19" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1/firebase-database-unity-5.2.1.srcaar.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1\firebase-database-unity-5.2.1.srcaar.meta" />
-    <m k="2a" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\R.txt" />
-    <m k="4z" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Database.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Database.dll" />
-    <m k="73" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.VersionHandler.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.VersionHandler.dll.meta" />
-    <m k="16" d="//EraCombat/development/Client/Assets/Firebase/Editor/FirebaseAuth_v5.2.1_manifest.txt" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\FirebaseAuth_v5.2.1_manifest.txt" />
-    <m k="6l" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml" />
-    <m k="b" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\AndroidManifest.xml.meta" />
-    <m k="5p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-media-compat-26.1.0.aar" />
-    <m k="5w" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Mono.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Mono.meta" />
-    <m k="2b" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\libs\classes.jar.meta" />
-    <m k="6n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-core-utils-26.1.0.aar.meta" />
-    <m k="p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\R.txt.meta" />
-    <m k="3f" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase/res/values/google-services.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase\res\values\google-services.xml" />
-    <m k="6a" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\project.properties" />
-    <m k="1x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/proguard.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\proguard.txt" />
-    <m k="5l" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.84.0.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.IOSResolver_v1.2.84.0.dll" />
-    <m k="2h" d="//EraCombat/development/Client/Assets/Firebase/Editor/FirebaseDatabase_v5.2.1_manifest.txt" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\FirebaseDatabase_v5.2.1_manifest.txt" />
-    <m k="6b" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-analytics-impl-16.1.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-analytics-impl-16.1.1.aar" />
-    <m k="3o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/third_party_licenses.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\third_party_licenses.txt.meta" />
-    <m k="4t" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-analytics-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-analytics-16.0.1.aar" />
-    <m k="5s" d="//EraCombat/development/Client/Assets/Firebase/Plugins/link.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\link.xml.meta" />
-    <m k="5m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/x86/libFirebaseCppAuth.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\x86\libFirebaseCppAuth.so" />
-    <m k="1k" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Http.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Http.meta" />
-    <m k="4j" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.lifecycle.common-1.0.0.jar" />
-    <m k="4v" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.JarResolver_v1.2.84.0.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.JarResolver_v1.2.84.0.dll" />
-    <m k="4d" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-16.0.3.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-16.0.3.aar.meta" />
-    <m k="48" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/x86.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\x86.meta" />
-    <m k="42" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\classes.jar" />
-    <m k="2v" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/x86/libFirebaseCppApp-5.2.1.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\x86\libFirebaseCppApp-5.2.1.so.meta" />
-    <m k="72" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\AndroidManifest.xml" />
-    <m k="79" d="//EraCombat/development/Client/ProjectSettings/EditorBuildSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\EditorBuildSettings.asset" />
-    <m k="5j" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor.meta" />
-    <m k="3z" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Google.Sharpen.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Google.Sharpen.dll.meta" />
-    <m k="1o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/x86/libFirebaseCppApp-5.2.1.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\x86\libFirebaseCppApp-5.2.1.so" />
-    <m k="6r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/proguard.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\proguard.txt" />
-    <m k="37" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins.meta" />
-    <m k="74" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\AndroidManifest.xml.meta" />
-    <m k="3d" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1/firebase-database-unity-5.2.1.pom" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1\firebase-database-unity-5.2.1.pom" />
-    <m k="3m" d="//EraCombat/development/Client/Assets/Firebase/Editor/AppDependencies.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\AppDependencies.xml.meta" />
-    <m k="6x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\classes.jar.meta" />
-    <m k="5y" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-tasks-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-tasks-15.0.1.aar" />
-    <m k="e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\libs.meta" />
-    <m k="1w" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/maven-metadata.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\maven-metadata.xml" />
-    <m k="6p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-16.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-measurement-connector-16.0.0.aar.meta" />
-    <m k="1m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs.meta" />
-    <m k="3h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-compat-26.1.0.aar" />
-    <m k="4y" d="//EraCombat/development/Client/Assets/Firebase/m2repository.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository.meta" />
-    <m k="1j" d="//EraCombat/development/Client/Assets/Firebase/Editor/generate_xml_from_google_services_json.exe.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\generate_xml_from_google_services_json.exe.meta" />
-    <m k="k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-fragment-26.1.0.aar.meta" />
-    <m k="1p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppApp-5.2.1.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppApp-5.2.1.so" />
-    <m k="4n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-collection-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-collection-15.0.1.aar" />
-    <m k="3" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.App.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.App.dll" />
-    <m k="1d" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/third_party_licenses.json" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\third_party_licenses.json" />
-    <m k="4s" d="//EraCombat/development/Client/Assets/Firebase/Editor/AuthDependencies.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\AuthDependencies.xml" />
-    <m k="4o" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.App.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.App.dll.meta" />
-    <m k="44" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-connection-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-connection-16.0.1.aar" />
-    <m k="2z" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/play-services-resolver_v1.2.84.0.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\play-services-resolver_v1.2.84.0.txt.meta" />
-    <m k="1" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\classes.jar.meta" />
-    <m k="49" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.Database.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.Database.dll.meta" />
-    <m k="4g" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.84.0.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.IOSResolver_v1.2.84.0.dll.meta" />
-    <m k="14" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1/firebase-auth-unity-5.2.1.pom.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1\firebase-auth-unity-5.2.1.pom.meta" />
-    <m k="17" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs.meta" />
-    <m k="5c" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-interop-16.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-interop-16.0.0.aar" />
-    <m k="63" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.VersionHandler.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.VersionHandler.dll" />
-    <m k="2q" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/x86.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\x86.meta" />
-    <m k="69" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45/Unity.Tasks.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45\Unity.Tasks.dll" />
-    <m k="2d" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-annotations-26.1.0.jar.meta" />
-    <m k="34" d="//EraCombat/development/Client/Assets/Firebase/Parse.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse.meta" />
-    <m k="6q" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-v4-26.1.0.aar.meta" />
-    <m k="40" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\R.txt" />
-    <m k="3w" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Mono/Firebase.Database.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Mono\Firebase.Database.dll.meta" />
-    <m k="5d" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45/Unity.Compat.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45\Unity.Compat.dll" />
-    <m k="60" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity.meta" />
-    <m k="43" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\project.properties.meta" />
-    <m k="61" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-ads-identifier-15.0.1.aar.meta" />
-    <m k="4w" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\project.properties" />
-    <m k="1n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\R.txt" />
-    <m k="5h" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/AndroidManifest.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\AndroidManifest.xml.meta" />
-    <m k="1v" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.App.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.App.dll.meta" />
-    <m k="2n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\R.txt.meta" />
-    <m k="2k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\libs.meta" />
-    <m k="2w" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\R.txt.meta" />
-    <m k="5x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\classes.jar" />
-    <m k="3b" d="//EraCombat/development/Client/Assets/Firebase/StreamingAssets/google-services-desktop.json.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\StreamingAssets\google-services-desktop.json.meta" />
-    <m k="2y" d="//EraCombat/development/Client/Assets/Plugins/Firebase.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Firebase.meta" />
-    <m k="35" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.core.common-1.0.0.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.core.common-1.0.0.jar" />
-    <m k="4i" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase.meta" />
-    <m k="6d" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1/firebase-database-unity-5.2.1.pom.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1\firebase-database-unity-5.2.1.pom.meta" />
-    <m k="t" d="//EraCombat/development/Client/Assets/Firebase/google-services.json" l="E:\nosyakEroRoot\Client\Assets\Firebase\google-services.json" />
-    <m k="29" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity.meta" />
-    <m k="2j" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/proguard.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\proguard.txt.meta" />
-    <m k="2m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\project.properties.meta" />
-    <m k="q" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google.meta" />
-    <m k="1l" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppDatabase.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppDatabase.so" />
-    <m k="5t" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-v4-26.1.0.aar" />
-    <m k="38" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-core-ui-26.1.0.aar.meta" />
-    <m k="4k" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
-    <m k="51" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\project.properties" />
-    <m k="3p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-core-ui-26.1.0.aar" />
-    <m k="o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\R.txt.meta" />
-    <m k="31" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
-    <m k="20" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-analytics-impl-16.1.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-analytics-impl-16.1.1.aar.meta" />
-    <m k="4r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\classes.jar.meta" />
-    <m k="11" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.Auth.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.Auth.dll" />
-    <m k="5q" d="//EraCombat/development/Client/Assets/Firebase/StreamingAssets/google-services-desktop.json" l="E:\nosyakEroRoot\Client\Assets\Firebase\StreamingAssets\google-services-desktop.json" />
-    <m k="39" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1/firebase-auth-unity-5.2.1.srcaar.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1\firebase-auth-unity-5.2.1.srcaar.meta" />
-    <m k="6h" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1/firebase-app-unity-5.2.1.srcaar" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1\firebase-app-unity-5.2.1.srcaar" />
-    <m k="77" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\project.properties.meta" />
-    <m k="6m" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-impl-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-measurement-connector-impl-16.0.1.aar.meta" />
-    <m k="s" d="//EraCombat/development/Client/Assets/Firebase/google-services.json.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\google-services.json.meta" />
-    <m k="22" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/third_party_licenses.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\third_party_licenses.txt" />
-    <m k="m" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
-    <m k="3c" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1/firebase-app-unity-5.2.1.pom" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1\firebase-app-unity-5.2.1.pom" />
-    <m k="2s" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/proguard.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\proguard.txt.meta" />
-    <m k="6c" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.lifecycle.common-1.0.0.jar.meta" />
-    <m k="1r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/third_party_licenses.json" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\third_party_licenses.json" />
-    <m k="4b" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1.meta" />
-    <m k="4x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-flags-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-flags-15.0.1.aar.meta" />
-    <m k="1f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-interop-16.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-interop-16.0.0.aar" />
-    <m k="55" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-tasks-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-tasks-15.0.1.aar.meta" />
-    <m k="1q" d="//EraCombat/development/Client/Assets/Firebase/Editor/AppDependencies.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\AppDependencies.xml" />
-    <m k="3a" d="//EraCombat/development/Client/Assets/StreamingAssets/google-services-desktop.json" l="E:\nosyakEroRoot\Client\Assets\StreamingAssets\google-services-desktop.json" />
-    <m k="0" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase/res/values/google-services.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase\res\values\google-services.xml.meta" />
-    <m k="59" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1/firebase-app-unity-5.2.1.srcaar.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1\firebase-app-unity-5.2.1.srcaar.meta" />
-    <m k="2t" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-ads-identifier-15.0.1.aar" />
-    <m k="c" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.lifecycle.runtime-1.0.0.aar" />
-    <m k="67" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.JarResolver_v1.2.84.0.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.JarResolver_v1.2.84.0.dll.meta" />
-    <m k="2e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\project.properties.meta" />
-    <m k="y" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-stats-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-stats-15.0.1.aar.meta" />
-    <m k="30" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-impl-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-measurement-connector-impl-16.0.1.aar" />
-    <m k="6e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/third_party_licenses.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\third_party_licenses.txt" />
-    <m k="46" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/armeabi-v7a.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\armeabi-v7a.meta" />
-    <m k="3j" d="//EraCombat/development/Client/Assets/Firebase/Editor/FirebaseDatabase_v5.2.1_manifest.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\FirebaseDatabase_v5.2.1_manifest.txt.meta" />
-    <m k="57" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\libs\classes.jar" />
-    <m k="6" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.core.common-1.0.0.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.core.common-1.0.0.jar.meta" />
-    <m k="52" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1/firebase-app-unity-5.2.1.pom.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1\firebase-app-unity-5.2.1.pom.meta" />
-    <m k="6k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppApp-5.2.1.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppApp-5.2.1.so.meta" />
-    <m k="n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\AndroidManifest.xml" />
-    <m k="5n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/third_party_licenses.json.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\third_party_licenses.json.meta" />
-    <m k="x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/armeabi-v7a/libFirebaseCppDatabase.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\armeabi-v7a\libFirebaseCppDatabase.so.meta" />
-    <m k="12" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Google.MiniJson.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Google.MiniJson.dll" />
-    <m k="a" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas.meta" />
-    <m k="6f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-basement-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-basement-15.0.1.aar.meta" />
-    <m k="6u" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\libs.meta" />
-    <m k="4p" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-core-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-core-16.0.1.aar.meta" />
-    <m k="6z" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Platform.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Platform.dll.meta" />
-    <m k="1a" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-core-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-core-16.0.1.aar" />
-    <m k="3t" d="//EraCombat/development/Client/Assets/StreamingAssets.meta" l="E:\nosyakEroRoot\Client\Assets\StreamingAssets.meta" />
-    <m k="33" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/project.properties.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\project.properties.meta" />
-    <m k="v" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-16.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-measurement-connector-16.0.0.aar" />
-    <m k="4" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Auth.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Auth.dll" />
-    <m k="53" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45/Unity.Tasks.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45\Unity.Tasks.dll.meta" />
-    <m k="1e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-base-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-base-15.0.1.aar" />
-    <m k="5i" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Mono/Firebase.Database.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Mono\Firebase.Database.dll" />
-    <m k="36" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-collection-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-collection-15.0.1.aar.meta" />
-    <m k="5g" d="//EraCombat/development/Client/ProjectSettings/GraphicsSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\GraphicsSettings.asset" />
-    <m k="47" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Platform.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Platform.dll" />
-    <m k="5k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/x86/libFirebaseCppDatabase.so" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\x86\libFirebaseCppDatabase.so" />
-    <m k="1s" d="//EraCombat/development/Client/Assets/Firebase/Editor.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor.meta" />
-    <m k="6i" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-16.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-16.0.1.aar" />
-    <m k="2r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/R.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\R.txt.meta" />
-    <m k="6s" d="//EraCombat/development/Client/Assets/Firebase/Plugins.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins.meta" />
-    <m k="8" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase.meta" />
-    <m k="6v" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/proguard.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\proguard.txt" />
-    <m k="15" d="//EraCombat/development/Client/Assets/Firebase/Plugins/link.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\link.xml" />
-    <m k="j" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\AndroidManifest.xml" />
-    <m k="2x" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\project.properties" />
-    <m k="26" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-16.0.3.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-16.0.3.aar" />
-    <m k="3i" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/third_party_licenses.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\third_party_licenses.txt.meta" />
-    <m k="4u" d="//EraCombat/development/Client/Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\android.arch.lifecycle.runtime-1.0.0.aar.meta" />
-    <m k="50" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity.meta" />
-    <m k="65" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/5.2.1/firebase-auth-unity-5.2.1.pom" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\5.2.1\firebase-auth-unity-5.2.1.pom" />
-    <m k="5o" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Firebase.Database.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Firebase.Database.dll.meta" />
-    <m k="3l" d="//EraCombat/development/Client/Assets/Firebase/Editor/DatabaseDependencies.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\DatabaseDependencies.xml" />
-    <m k="5a" d="//EraCombat/development/Client/Assets/Firebase/Editor/FirebaseAuth_v5.2.1_manifest.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\FirebaseAuth_v5.2.1_manifest.txt.meta" />
-    <m k="3g" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/project.properties" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\project.properties" />
-    <m k="r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-interop-16.0.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-interop-16.0.0.aar.meta" />
-    <m k="3k" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/x86/libFirebaseCppAuth.so.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\x86\libFirebaseCppAuth.so.meta" />
-    <m k="28" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS.meta" />
-    <m k="3x" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.Auth.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.Auth.dll.meta" />
-    <m k="64" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/R.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\R.txt" />
-    <m k="5" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1/libs/armeabi-v7a.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1\libs\armeabi-v7a.meta" />
-    <m k="2" d="//EraCombat/development/Client/Assets/Firebase/Editor/generate_xml_from_google_services_json.exe" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\generate_xml_from_google_services_json.exe" />
-    <m k="6t" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase/res.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase\res.meta" />
-    <m k="3q" d="//EraCombat/development/Client/Assets/Firebase/Plugins/iOS/Firebase.Database.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\iOS\Firebase.Database.dll" />
-    <m k="3n" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-basement-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-basement-15.0.1.aar" />
-    <m k="1b" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\5.2.1.meta" />
-    <m k="w" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs.meta" />
-    <m k="70" d="//EraCombat/development/Client/Assets/Plugins/Android.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android.meta" />
-    <m k="18" d="//EraCombat/development/Client/ProjectSettings/AndroidResolverDependencies.xml" l="E:\nosyakEroRoot\Client\ProjectSettings\AndroidResolverDependencies.xml" />
-    <m k="5v" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/AndroidManifest.xml" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\AndroidManifest.xml" />
-    <m k="5r" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/armeabi-v7a.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\armeabi-v7a.meta" />
-    <m k="3e" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-database-unity/maven-metadata.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-database-unity\maven-metadata.xml.meta" />
-    <m k="45" d="//EraCombat/development/Client/Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.android.support.support-media-compat-26.1.0.aar.meta" />
-    <m k="78" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/proguard.txt" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\proguard.txt" />
-    <m k="58" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-measurement-base-16.0.0.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-measurement-base-16.0.0.aar" />
-    <m k="6y" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com.meta" />
-    <m k="2f" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-app-unity-5.2.1/proguard.txt.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.2.1\proguard.txt.meta" />
-    <m k="5z" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
-    <m k="54" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1/libs/x86.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1\libs\x86.meta" />
-    <m k="23" d="//EraCombat/development/Client/Assets/Plugins/Android/Firebase/res/values.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\Firebase\res\values.meta" />
-    <m k="2p" d="//EraCombat/development/Client/Assets/Firebase/StreamingAssets.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\StreamingAssets.meta" />
-    <m k="7" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml.meta" />
-    <m k="1t" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas" />
-    <m k="32" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\5.2.1.meta" />
-    <m k="71" d="//EraCombat/development/Client/Assets/StreamingAssets/google-services-desktop.json.meta" l="E:\nosyakEroRoot\Client\Assets\StreamingAssets\google-services-desktop.json.meta" />
-    <m k="2c" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/libs/classes.jar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\libs\classes.jar.meta" />
-    <m k="13" d="//EraCombat/development/Client/Assets/Plugins/Firebase/x86_64.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Firebase\x86_64.meta" />
-    <m k="4e" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\maven-metadata.xml.meta" />
-    <m k="i" d="//EraCombat/development/Client/Assets/Firebase/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.84.0.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\PlayServicesResolver\Editor\Google.VersionHandlerImpl_v1.2.84.0.dll.meta" />
-    <m k="2l" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-unity-5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-unity-5.2.1.meta" />
-    <m k="l" d="//EraCombat/development/Client/Assets/Firebase/Editor/generate_xml_from_google_services_json.py.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\generate_xml_from_google_services_json.py.meta" />
-    <m k="2g" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-analytics-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-analytics-16.0.1.aar.meta" />
-    <m k="10" d="//EraCombat/development/Client/Assets/Firebase/Editor/Firebase.Editor.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\Firebase.Editor.dll.meta" />
-    <m k="41" d="//EraCombat/development/Client/Assets/Firebase/m2repository/com/google/firebase/firebase-auth-unity/maven-metadata.xml" l="E:\nosyakEroRoot\Client\Assets\Firebase\m2repository\com\google\firebase\firebase-auth-unity\maven-metadata.xml" />
-    <m k="21" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-base-15.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-base-15.0.1.aar.meta" />
-    <m k="2o" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-5.2.1.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.2.1.meta" />
-    <m k="68" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs" />
-    <m k="5e" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.android.gms.play-services-flags-15.0.1.aar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.android.gms.play-services-flags-15.0.1.aar" />
-    <m k="1c" d="//EraCombat/development/Client/Assets/Firebase/Editor/DatabaseDependencies.xml.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\DatabaseDependencies.xml.meta" />
-    <m k="g" d="//EraCombat/development/Client/Assets/Firebase.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase.meta" />
-    <m k="1g" d="//EraCombat/development/Client/Assets/Firebase/Plugins/Google.Sharpen.dll" l="E:\nosyakEroRoot\Client\Assets\Firebase\Plugins\Google.Sharpen.dll" />
-    <m k="2u" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-connection-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-connection-16.0.1.aar.meta" />
-    <m k="1y" d="//EraCombat/development/Client/Assets/Firebase/Parse/Plugins/dotNet45/Unity.Compat.dll.meta" l="E:\nosyakEroRoot\Client\Assets\Firebase\Parse\Plugins\dotNet45\Unity.Compat.dll.meta" />
-    <m k="27" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Token/PhotonTokens.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Token\PhotonTokens.cs" />
-    <m k="4c" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-database-16.0.1.aar.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-database-16.0.1.aar.meta" />
-    <m k="5u" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-iid-16.0.0/libs/classes.jar" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-iid-16.0.0\libs\classes.jar" />
-    <m k="76" d="//EraCombat/development/Client/Assets/Plugins/Android/com.google.firebase.firebase-common-16.0.0/third_party_licenses.json.meta" l="E:\nosyakEroRoot\Client\Assets\Plugins\Android\com.google.firebase.firebase-common-16.0.0\third_party_licenses.json.meta" />
-    <m k="4l" d="//EraCombat/development/Client/Assets/Firebase/Editor/generate_xml_from_google_services_json.py" l="E:\nosyakEroRoot\Client\Assets\Firebase\Editor\generate_xml_from_google_services_json.py" />
+    <m k="1s" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level5" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level5" />
+    <m k="29" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AccessibilityModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AccessibilityModule.xml" />
+    <m k="24" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/DemiLib.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\DemiLib.dll" />
+    <m k="3d" d="//EraCombat/development/Client/SM.Core.csproj" l="E:\nosyakEroRoot\Client\SM.Core.csproj" />
+    <m k="5w" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TilemapModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TilemapModule.dll" />
+    <m k="3v" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Mono.Posix.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Mono.Posix.dll" />
+    <m k="5s" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.JSONSerializeModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.JSONSerializeModule.xml" />
+    <m k="2p" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/udpkit.common.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\udpkit.common.dll" />
+    <m k="17" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AccessibilityModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AccessibilityModule.dll" />
+    <m k="32" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ClusterInputModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ClusterInputModule.dll" />
+    <m k="71" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level1.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level1.resS" />
+    <m k="2n" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/DOTween46.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\DOTween46.dll" />
+    <m k="1l" d="//EraCombat/development/Client/Assembly-CSharp-Editor.csproj" l="E:\nosyakEroRoot\Client\Assembly-CSharp-Editor.csproj" />
+    <m k="45" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets5.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets5.assets.resS" />
+    <m k="3q" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/udpkit.platform.native_ios.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\udpkit.platform.native_ios.dll" />
+    <m k="10" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.CrashReportingModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.CrashReportingModule.xml" />
+    <m k="1y" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ClothModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ClothModule.dll" />
+    <m k="57" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.SpatialTracking.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.SpatialTracking.dll" />
+    <m k="39" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.StreamingModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.StreamingModule.dll" />
+    <m k="4u" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UNETModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UNETModule.dll" />
+    <m k="1q" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.FileSystemHttpModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.FileSystemHttpModule.dll" />
+    <m k="3o" d="//EraCombat/development/Client/Assets/Simulation/Textures/Weapons_Icons.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\Weapons_Icons.meta" />
+    <m k="53" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets3.resource" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets3.resource" />
+    <m k="2m" d="//EraCombat/development/nosyak.p4env" l="E:\nosyakEroRoot\nosyak.p4env" />
+    <m k="2i" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.dll" />
+    <m k="0" d="//EraCombat/development/Client/ProjectSettings/ProjectSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\ProjectSettings.asset" />
+    <m k="75" d="//EraCombat/development/Client/DotNetZip.csproj" l="E:\nosyakEroRoot\Client\DotNetZip.csproj" />
+    <m k="3w" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.HotReloadModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.HotReloadModule.xml" />
+    <m k="4y" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ClothModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ClothModule.xml" />
+    <m k="j" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityConnectModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityConnectModule.xml" />
+    <m k="2u" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AIModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AIModule.xml" />
+    <m k="12" d="//EraCombat/development/Client/GM.DB.csproj" l="E:\nosyakEroRoot\Client\GM.DB.csproj" />
+    <m k="4e" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml" />
+    <m k="h" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.CloudWebServicesModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.CloudWebServicesModule.xml" />
+    <m k="1x" d="//EraCombat/development/Client/Bolt_DebugStart_Build/UnityPlayer.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\UnityPlayer.dll" />
+    <m k="4a" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityConnectModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityConnectModule.dll" />
+    <m k="b" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UmbraModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UmbraModule.dll" />
+    <m k="3a" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/globalgamemanagers" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\globalgamemanagers" />
+    <m k="7s" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.FacebookModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.FacebookModule.xml" />
+    <m k="2a" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.XRModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.XRModule.xml" />
+    <m k="14" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TerrainPhysicsModule.dll" />
+    <m k="4i" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/Loadout.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\Loadout.meta" />
+    <m k="6u" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets10.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets10.assets" />
+    <m k="7e" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/pb_Stl.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\pb_Stl.dll" />
+    <m k="5r" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll" />
+    <m k="38" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.5/machine.config" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.5\machine.config" />
+    <m k="47" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TLSModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TLSModule.dll" />
+    <m k="1a" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityAnalyticsModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityAnalyticsModule.xml" />
+    <m k="6d" d="//EraCombat/development/Client/Bolt_DebugStart_Build/UnityCrashHandler64.exe" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\UnityCrashHandler64.exe" />
+    <m k="7m" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets7.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets7.assets" />
+    <m k="4r" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.BaselibModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.BaselibModule.xml" />
+    <m k="2l" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Resources/unity_builtin_extra" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Resources\unity_builtin_extra" />
+    <m k="2z" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/bolt.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\bolt.dll" />
+    <m k="44" d="//EraCombat/development/Client/Client.sln" l="E:\nosyakEroRoot\Client\Client.sln" />
+    <m k="2k" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets7.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets7.assets.resS" />
+    <m k="w" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser" />
+    <m k="k" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.FileSystemHttpModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.FileSystemHttpModule.xml" />
+    <m k="34" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.Physics2DModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.Physics2DModule.dll" />
+    <m k="4p" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.WindModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.WindModule.dll" />
+    <m k="4n" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Poly2Tri.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Poly2Tri.dll" />
+    <m k="5l" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TimelineModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TimelineModule.dll" />
+    <m k="1z" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.5/web.config" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.5\web.config" />
+    <m k="2e" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level10" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level10" />
+    <m k="7a" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/mscorlib.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\mscorlib.dll" />
+    <m k="35" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.SubstanceModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.SubstanceModule.dll" />
+    <m k="16" d="//EraCombat/development/Client/Common.Editor.csproj" l="E:\nosyakEroRoot\Client\Common.Editor.csproj" />
+    <m k="2o" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/DOTween43.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\DOTween43.dll" />
+    <m k="20" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ParticleSystemModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ParticleSystemModule.dll" />
+    <m k="5y" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level3.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level3.resS" />
+    <m k="5" d="//EraCombat/development/Client/ProjectSettings/EditorBuildSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\EditorBuildSettings.asset" />
+    <m k="1w" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level9" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level9" />
+    <m k="6a" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Mono.Nat.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Mono.Nat.dll" />
+    <m k="68" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.Physics2DModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.Physics2DModule.xml" />
+    <m k="3f" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Mono.Security.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Mono.Security.dll" />
+    <m k="18" d="//EraCombat/development/Client/SM.Analytics.csproj" l="E:\nosyakEroRoot\Client\SM.Analytics.csproj" />
+    <m k="36" d="//EraCombat/development/Client/SM.Core.Unity.csproj" l="E:\nosyakEroRoot\Client\SM.Core.Unity.csproj" />
+    <m k="26" d="//EraCombat/development/Client/SM.Core.Unity.UI.csproj" l="E:\nosyakEroRoot\Client\SM.Core.Unity.UI.csproj" />
+    <m k="s" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UI.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UI.dll" />
+    <m k="6q" d="//EraCombat/development/Client/Build/erac.apk" l="E:\nosyakEroRoot\Client\Build\erac.apk" />
+    <m k="6k" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/globalgamemanagers.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\globalgamemanagers.assets" />
+    <m k="59" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level6" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level6" />
+    <m k="62" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\mconfig\config.xml" />
+    <m k="u" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets5.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets5.assets" />
+    <m k="7i" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TerrainPhysicsModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TerrainPhysicsModule.xml" />
+    <m k="x" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/udpkit.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\udpkit.dll" />
+    <m k="5u" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level8" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level8" />
+    <m k="l" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.LocalizationModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.LocalizationModule.dll" />
+    <m k="6s" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.StreamingModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.StreamingModule.xml" />
+    <m k="19" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/KdTreeLib.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\KdTreeLib.dll" />
+    <m k="1t" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AssetBundleModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AssetBundleModule.dll" />
+    <m k="7j" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets11.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets11.assets.resS" />
+    <m k="8" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ImageConversionModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ImageConversionModule.xml" />
+    <m k="1b" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.Timeline.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.Timeline.dll" />
+    <m k="63" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/DOTween.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\DOTween.dll" />
+    <m k="9" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UmbraModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UmbraModule.xml" />
+    <m k="5o" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ScreenCaptureModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ScreenCaptureModule.xml" />
+    <m k="74" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/System.Xml.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\System.Xml.dll" />
+    <m k="55" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.SpriteMaskModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.SpriteMaskModule.dll" />
+    <m k="6m" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AssetBundleModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AssetBundleModule.xml" />
+    <m k="5f" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Unity.RenderPipelines.Lightweight.Runtime.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Unity.RenderPipelines.Lightweight.Runtime.dll" />
+    <m k="7p" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx" />
+    <m k="6r" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level2.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level2.resS" />
+    <m k="30" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets2.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets2.assets" />
+    <m k="1d" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.WindModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.WindModule.xml" />
+    <m k="6w" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml" />
+    <m k="z" d="//EraCombat/development/Client/Assets/Simulation/Libraries/Laser_construction_kit.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\Laser_construction_kit.meta" />
+    <m k="2b" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs.meta" />
+    <m k="5a" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.CoreModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.CoreModule.dll" />
+    <m k="27" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityAnalyticsModule.dll" />
+    <m k="50" d="//EraCombat/development/Client/SM.Analytics.Client.Editor.csproj" l="E:\nosyakEroRoot\Client\SM.Analytics.Client.Editor.csproj" />
+    <m k="28" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/udpkit.platform.native_android.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\udpkit.platform.native_android.dll" />
+    <m k="3j" d="//EraCombat/development/Client/SM.Authorization.Client.csproj" l="E:\nosyakEroRoot\Client\SM.Authorization.Client.csproj" />
+    <m k="64" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll" />
+    <m k="21" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.SpriteMaskModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.SpriteMaskModule.xml" />
+    <m k="p" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ParticleSystemModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ParticleSystemModule.xml" />
+    <m k="1f" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AudioModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AudioModule.dll" />
+    <m k="2h" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/udpkit.platform.photon.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\udpkit.platform.photon.dll" />
+    <m k="2v" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.SpriteShapeModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.SpriteShapeModule.dll" />
+    <m k="5x" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UIElementsModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UIElementsModule.xml" />
+    <m k="4s" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestModule.xml" />
+    <m k="1h" d="//EraCombat/development/Client/SM.Analytics.Client.csproj" l="E:\nosyakEroRoot\Client\SM.Analytics.Client.csproj" />
+    <m k="6g" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.FacebookModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.FacebookModule.dll" />
+    <m k="1g" d="//EraCombat/development/Client/SM.Network.csproj" l="E:\nosyakEroRoot\Client\SM.Network.csproj" />
+    <m k="5g" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ARModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ARModule.xml" />
+    <m k="7o" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level4" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level4" />
+    <m k="31" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level7" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level7" />
+    <m k="1p" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets12.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets12.assets.resS" />
+    <m k="3c" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TilemapModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TilemapModule.xml" />
+    <m k="2" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
+    <m k="2f" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.PerformanceReportingModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.PerformanceReportingModule.xml" />
+    <m k="g" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/app.info" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\app.info" />
+    <m k="2d" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.VideoModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.VideoModule.dll" />
+    <m k="m" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ImageConversionModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ImageConversionModule.dll" />
+    <m k="4g" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets4.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets4.assets.resS" />
+    <m k="3" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
+    <m k="1e" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ClusterInputModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ClusterInputModule.xml" />
+    <m k="5d" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/resources.resource" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\resources.resource" />
+    <m k="5n" d="//EraCombat/development/Client/crash_report_2018-09-18 10.03.08 660.txt" l="E:\nosyakEroRoot\Client\crash_report_2018-09-18 10.03.08 660.txt" />
+    <m k="3s" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level12" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level12" />
+    <m k="48" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.CloudWebServicesModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.CloudWebServicesModule.dll" />
+    <m k="4m" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/DOTween50.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\DOTween50.dll" />
+    <m k="5e" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TextRenderingModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TextRenderingModule.dll" />
+    <m k="37" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.VRModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.VRModule.dll" />
+    <m k="3n" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.BaselibModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.BaselibModule.dll" />
+    <m k="1n" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/resources.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\resources.assets.resS" />
+    <m k="56" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityFbxPrefab.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityFbxPrefab.dll" />
+    <m k="a" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.HotReloadModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.HotReloadModule.dll" />
+    <m k="7t" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/System.Security.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\System.Security.dll" />
+    <m k="51" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.Networking.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.Networking.dll" />
+    <m k="40" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ClusterRendererModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ClusterRendererModule.xml" />
+    <m k="3b" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser" />
+    <m k="3h" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/2.0/settings.map" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\2.0\settings.map" />
+    <m k="7w" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets3.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets3.assets" />
+    <m k="4t" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets8.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets8.assets.resS" />
+    <m k="7x" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
+    <m k="6t" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll" />
+    <m k="1v" d="//EraCombat/development/Client/Common.csproj" l="E:\nosyakEroRoot\Client\Common.csproj" />
+    <m k="3m" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ParticlesLegacyModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ParticlesLegacyModule.xml" />
+    <m k="5z" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Weapon/WeaponSystem/Mechanics/ProjectileMechanic.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\WeaponSystem\Mechanics\ProjectileMechanic.cs.meta" />
+    <m k="1i" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx" />
+    <m k="3y" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll" />
+    <m k="11" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets13.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets13.assets" />
+    <m k="3l" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/2.0/web.config" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\2.0\web.config" />
+    <m k="54" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.LocalizationModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.LocalizationModule.xml" />
+    <m k="4l" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Unity.Postprocessing.Runtime.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Unity.Postprocessing.Runtime.dll" />
+    <m k="77" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/2.0/machine.config" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\2.0\machine.config" />
+    <m k="3e" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.SubstanceModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.SubstanceModule.xml" />
+    <m k="7f" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/resources.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\resources.assets" />
+    <m k="o" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ProfilerModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ProfilerModule.dll" />
+    <m k="4d" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.DirectorModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.DirectorModule.xml" />
+    <m k="6p" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AnimationModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AnimationModule.xml" />
+    <m k="42" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.JSONSerializeModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.JSONSerializeModule.dll" />
+    <m k="2g" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Weapon/WeaponSystem/Mechanics/ProjectileMechanic.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\WeaponSystem\Mechanics\ProjectileMechanic.cs" />
+    <m k="6y" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/browscap.ini" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\browscap.ini" />
+    <m k="6i" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/System.Configuration.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\System.Configuration.dll" />
+    <m k="7q" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets13.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets13.assets.resS" />
+    <m k="2s" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level2" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level2" />
+    <m k="6z" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.DirectorModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.DirectorModule.dll" />
+    <m k="1m" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.GridModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.GridModule.dll" />
+    <m k="4w" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.InputModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.InputModule.xml" />
+    <m k="4b" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TimelineModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TimelineModule.xml" />
+    <m k="69" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TextRenderingModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TextRenderingModule.xml" />
+    <m k="f" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.SharedInternalsModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.SharedInternalsModule.xml" />
+    <m k="25" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AnimationModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AnimationModule.dll" />
+    <m k="7c" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level4.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level4.resS" />
+    <m k="7r" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UIModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UIModule.dll" />
+    <m k="2w" d="//EraCombat/development/Client/Meta.Editor.csproj" l="E:\nosyakEroRoot\Client\Meta.Editor.csproj" />
+    <m k="3r" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level5.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level5.resS" />
+    <m k="2y" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.SharedInternalsModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.SharedInternalsModule.dll" />
+    <m k="73" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/CastleDBIntegration.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\CastleDBIntegration.dll" />
+    <m k="7v" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets12.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets12.assets" />
+    <m k="15" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.GameCenterModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.GameCenterModule.dll" />
+    <m k="4v" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets10.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets10.assets.resS" />
+    <m k="7l" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level0.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level0.resS" />
+    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas.meta" />
+    <m k="6c" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ClusterRendererModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ClusterRendererModule.dll" />
+    <m k="4h" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.InputModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.InputModule.dll" />
+    <m k="5p" d="//EraCombat/development/Client/SM.Authorization.csproj" l="E:\nosyakEroRoot\Client\SM.Authorization.csproj" />
+    <m k="i" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level13" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level13" />
+    <m k="49" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level1" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level1" />
+    <m k="2t" d="//EraCombat/development/Client/SM.Authorization.Network.csproj" l="E:\nosyakEroRoot\Client\SM.Authorization.Network.csproj" />
+    <m k="3i" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/ProBuilderMeshOps.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\ProBuilderMeshOps.dll" />
+    <m k="1j" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.XRModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.XRModule.dll" />
+    <m k="1" d="//EraCombat/development/Client/ProjectSettings/GraphicsSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\GraphicsSettings.asset" />
+    <m k="7n" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.PhysicsModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.PhysicsModule.xml" />
+    <m k="n" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ARModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ARModule.dll" />
+    <m k="q" d="//EraCombat/development/Client/SM.Core.Unity.Editor.csproj" l="E:\nosyakEroRoot\Client\SM.Core.Unity.Editor.csproj" />
+    <m k="1r" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.xml" />
+    <m k="6n" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.VehiclesModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.VehiclesModule.dll" />
+    <m k="46" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/bolt.user.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\bolt.user.dll" />
+    <m k="5q" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AudioModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AudioModule.xml" />
+    <m k="r" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml" />
+    <m k="2r" d="//EraCombat/development/Client/GM.Core.csproj" l="E:\nosyakEroRoot\Client\GM.Core.csproj" />
+    <m k="6o" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.VideoModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.VideoModule.xml" />
+    <m k="1o" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.AIModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.AIModule.dll" />
+    <m k="6h" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/System.Core.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\System.Core.dll" />
+    <m k="79" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets6.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets6.assets.resS" />
+    <m k="52" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.5/settings.map" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.5\settings.map" />
+    <m k="43" d="//EraCombat/development/Client/CastleDBIntegration.csproj" l="E:\nosyakEroRoot\Client\CastleDBIntegration.csproj" />
+    <m k="v" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets9.assets.resS" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets9.assets.resS" />
+    <m k="78" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TLSModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TLSModule.xml" />
+    <m k="67" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Assembly-CSharp.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Assembly-CSharp.dll" />
+    <m k="5m" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx" />
+    <m k="76" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TerrainModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TerrainModule.xml" />
+    <m k="23" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/System.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\System.dll" />
+    <m k="6e" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.GameCenterModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.GameCenterModule.xml" />
+    <m k="7d" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.CrashReportingModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.CrashReportingModule.dll" />
+    <m k="13" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser" />
+    <m k="2x" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets0.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets0.assets" />
+    <m k="4x" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.PerformanceReportingModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.PerformanceReportingModule.dll" />
+    <m k="3p" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Resources/unity default resources" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Resources\unity default resources" />
+    <m k="6j" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets1.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets1.assets" />
+    <m k="t" d="//EraCombat/development/Client/crash_report_2018-09-18 14.33.05 032.txt" l="E:\nosyakEroRoot\Client\crash_report_2018-09-18 14.33.05 032.txt" />
+    <m k="58" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets6.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets6.assets" />
+    <m k="5b" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/boot.config" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\boot.config" />
+    <m k="5t" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.IMGUIModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.IMGUIModule.dll" />
+    <m k="66" d="//EraCombat/development/Client/Assets/Simulation/Settings/ServerSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\ServerSettings.asset.meta" />
+    <m k="1u" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml" />
+    <m k="5k" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level0" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level0" />
+    <m k="6v" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level3" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level3" />
+    <m k="e" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets8.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets8.assets" />
+    <m k="22" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Photon3Unity3D.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Photon3Unity3D.dll" />
+    <m k="5c" d="//EraCombat/development/Client/SM.DB.csproj" l="E:\nosyakEroRoot\Client\SM.DB.csproj" />
+    <m k="2q" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/level11" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\level11" />
+    <m k="3z" d="//EraCombat/development/Client/Assembly-CSharp.csproj" l="E:\nosyakEroRoot\Client\Assembly-CSharp.csproj" />
+    <m k="1c" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UNETModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UNETModule.xml" />
+    <m k="4f" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Unity.TextMeshPro.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Unity.TextMeshPro.dll" />
+    <m k="7" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
+    <m k="65" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll" />
+    <m k="2j" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/udpkit.platform.null.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\udpkit.platform.null.dll" />
+    <m k="4k" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/udpkit.platform.dotnet.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\udpkit.platform.dotnet.dll" />
+    <m k="72" d="//EraCombat/development/Client/Assets/Simulation/Settings/ServerSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\ServerSettings.asset" />
+    <m k="7k" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.VRModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.VRModule.xml" />
+    <m k="6b" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build.exe" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build.exe" />
+    <m k="5h" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/config" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\config" />
+    <m k="5v" d="//EraCombat/development/Client/SM.Network.TCP.csproj" l="E:\nosyakEroRoot\Client\SM.Network.TCP.csproj" />
+    <m k="6" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas" />
+    <m k="4j" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets9.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets9.assets" />
+    <m k="2c" d="//EraCombat/development/Client/Assets/Simulation/Libraries/ArtPacks/QuirogaLab/Explosions.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\ArtPacks\QuirogaLab\Explosions.meta" />
+    <m k="61" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.CoreModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.CoreModule.xml" />
+    <m k="y" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/ProBuilderCore.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\ProBuilderCore.dll" />
+    <m k="1k" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.SpriteShapeModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.SpriteShapeModule.xml" />
+    <m k="c" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.0/machine.config" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.0\machine.config" />
+    <m k="3u" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\Unity.RenderPipelines.Core.Runtime.dll" />
+    <m k="6l" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.TerrainModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.TerrainModule.dll" />
+    <m k="7u" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.PhysicsModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.PhysicsModule.dll" />
+    <m k="d" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.0/web.config" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.0\web.config" />
+    <m k="6f" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.IMGUIModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.IMGUIModule.xml" />
+    <m k="7g" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/DOTweenPro.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\DOTweenPro.dll" />
+    <m k="33" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets11.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets11.assets" />
+    <m k="4z" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UIModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UIModule.xml" />
+    <m k="70" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs" />
+    <m k="7b" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.GridModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.GridModule.xml" />
+    <m k="5i" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.StyleSheetsModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.StyleSheetsModule.dll" />
+    <m k="5j" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/etc/mono/4.0/settings.map" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\etc\mono\4.0\settings.map" />
+    <m k="7h" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.StyleSheetsModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.StyleSheetsModule.xml" />
+    <m k="3k" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UnityWebRequestModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UnityWebRequestModule.dll" />
+    <m k="41" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ParticlesLegacyModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ParticlesLegacyModule.dll" />
+    <m k="4o" d="//EraCombat/development/Client/SM.Core.Unity.UI.Editor.csproj" l="E:\nosyakEroRoot\Client\SM.Core.Unity.UI.Editor.csproj" />
+    <m k="4c" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ScreenCaptureModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ScreenCaptureModule.dll" />
+    <m k="4q" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.UIElementsModule.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.UIElementsModule.dll" />
+    <m k="3x" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Token/PhotonTokens.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Token\PhotonTokens.cs" />
+    <m k="3t" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/sharedassets4.assets" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\sharedassets4.assets" />
+    <m k="6x" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.VehiclesModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.VehiclesModule.xml" />
+    <m k="60" d="//EraCombat/development/Client/Bolt_DebugStart_Build/Bolt_DebugStart_Build_Data/Managed/UnityEngine.ProfilerModule.xml" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\Bolt_DebugStart_Build_Data\Managed\UnityEngine.ProfilerModule.xml" />
+    <m k="3g" d="//EraCombat/development/Client/Bolt_DebugStart_Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" l="E:\nosyakEroRoot\Client\Bolt_DebugStart_Build\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll" />
   </component>
 </application>
