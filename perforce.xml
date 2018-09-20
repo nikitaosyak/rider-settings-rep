@@ -84,13 +84,14 @@
         <h f="1f" r="1" m5="30ACE8852CCF9428E61AF2FC6FAA0A51" t="jmaj3gb1" />
         <h f="1g" r="1" m5="ED638888802D4C93D3D8F4776FF1E757" t="jmanrzq2" />
         <h f="1h" r="1" m5="ACA8771C263A211B146B5CCBB7BFC0F7" t="jmaj3g55" />
-        <u f="1i" c="0" a="EDIT_FILE" t="0" ur="0" />
         <u f="t" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="r" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1i" c="0" a="EDIT_FILE" t="0" ur="0" />
         <u f="1j" c="0" a="EDIT_FILE" t="0" ur="0" />
         <u f="1k" c="0" a="EDIT_FILE" t="0" ur="0" />
         <u f="1l" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="r" c="0" a="EDIT_FILE" t="0" ur="0" />
         <u f="1m" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1n" c="0" a="EDIT_FILE" t="0" ur="0" />
       </server>
     </client-state>
     <m k="8" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Weapon/View/SimpleWeaponView.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\View\SimpleWeaponView.cs" />
@@ -112,6 +113,7 @@
     <m k="1b" d="//EraCombat/development/Client/Assets/Simulation/Libraries/MongoDriver/MongoDB.Bson.pdb.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\MongoDriver\MongoDB.Bson.pdb.meta" />
     <m k="1e" d="//EraCombat/development/Client/Assets/Simulation/Libraries/MongoDriver/MongoDB.Driver.dll" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\MongoDriver\MongoDB.Driver.dll" />
     <m k="0" d="//EraCombat/development/Client/Assets/Simulation/Textures/Weapons_Icons.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\Weapons_Icons.meta" />
+    <m k="1l" d="//EraCombat/development/Client/ProjectSettings/ProjectSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\ProjectSettings.asset" />
     <m k="f" d="//EraCombat/development/Client/Assets/Simulation/Libraries/MongoDriver/MongoDB.Driver.pdb" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\MongoDriver\MongoDB.Driver.pdb" />
     <m k="j" d="//EraCombat/development/Client/Assets/Simulation/Libraries/MongoDriver/MongoDB.Bson.dll" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\MongoDriver\MongoDB.Bson.dll" />
     <m k="k" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Global.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Global.cs" />
@@ -140,7 +142,7 @@
     <m k="o" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Loading.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Loading.unity" />
     <m k="q" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/Weapons/Flamethrower.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\Weapons\Flamethrower.prefab.meta" />
     <m k="r" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Callback/NetworkCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkCallbacks.cs" />
-    <m k="1l" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
+    <m k="1n" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
     <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Libraries/MongoDriver.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\MongoDriver.meta" />
     <m k="a" d="//EraCombat/development/Client/Assets/Simulation/Libraries/MongoDriver/MongoDB.Driver.pdb.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Libraries\MongoDriver\MongoDB.Driver.pdb.meta" />
     <m k="m" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Flamethrower/FlamethrowerSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Flamethrower\FlamethrowerSettings.asset" />
