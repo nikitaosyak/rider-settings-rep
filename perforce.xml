@@ -53,6 +53,7 @@
         <h f="k" r="4" m5="0E31A12416F31DE6CFF639EA6FA619D7" t="jmbtjllb" />
         <h f="l" r="g" m5="D5DF02595CDDEDC9B0AAFD529DD7F894" t="jmbtjlp7" />
         <h f="m" r="1" m5="E32BB40D9E2104DF2A61CF9BF561738C" t="jmbtjlom" />
+        <u f="7" c="0" a="EDIT_FILE" t="0" ur="0" />
       </server>
     </client-state>
     <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/DamageTextUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageTextUI.cs" />
