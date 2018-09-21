@@ -30,88 +30,103 @@
         </job-status>
         <users />
         <ch t="0" ur="0" c="0" />
-        <h f="0" r="1r" m5="ABC5EAF16325F050F9E13F5CA39D1168" t="jmc0ju4q" />
-        <h f="1" r="8" m5="062A556BA6577CA57C5FD723029D895F" t="jmbtjlc9" />
-        <h f="2" r="c" m5="0E8EB043A7AD63C235DFC590BC7ECB9B" t="jmbtjlr6" />
-        <h f="3" r="2" m5="FE5A2265F7C543A380AB15C9494AAD1D" t="jmbtjln3" />
-        <h f="4" r="7" m5="44BA98878103815D39F3BEECF72D521B" t="jmby7ipy" />
-        <h f="5" r="2" m5="70286FD1404FA772E0A3909E3D081C4D" t="jmby7ipc" />
-        <h f="6" r="7" m5="909A1E4E8849B7A745FFDD4C90CCBBD9" t="jmbtjlq8" />
-        <h f="7" r="3" m5="0E216F4BA4CA21617E2DEA60C0254433" t="jmby7ip4" />
-        <h f="8" r="2" m5="9976A7DCC2D2E3A3021F289ADE15F2F2" t="jmbtjlbo" />
-        <h f="9" r="h" m5="ECA6E7C6C6B4B72761326005E81B7525" t="jmby7iob" />
-        <h f="a" r="4" m5="B5A02495C0D0AE781CC398D6E0581AB8" t="jmby7iov" />
-        <h f="b" r="8" m5="238375263E93FA18FDE5A990C3E332C9" t="jmbtjlqv" />
-        <h f="c" r="2" m5="3AEAD6B2E9650A5819D2D626625BA44E" t="jmbtjlc2" />
-        <h f="d" r="3" m5="4CEC02AA3F59C67AA0C9CDF6F4BE682E" t="jmbtjlp1" />
-        <h f="e" r="a" m5="360C5F50A829C1B396BF79CBE2B3516E" t="jmc0jvif" />
-        <h f="f" r="f" m5="4EA00373474445AEAC15455EFC1D7480" t="jmc0jv9i" />
-        <h f="g" r="1" m5="619967EBABBEBAC5E79117AF5EA5F3B1" t="jmbtjll3" />
-        <h f="h" r="9" m5="8643BAF6CFD8333F3100ECE8FA20850A" t="jmbtjlpv" />
-        <h f="i" r="c" m5="D0A62725CE330F3165BD74380A11D65D" t="jmc0jvbe" />
-        <h f="j" r="4" m5="56FD2B968C6E9BB7DADD4B0D9EAA8E0C" t="jmc0jvbl" />
-        <h f="k" r="g" m5="D5DF02595CDDEDC9B0AAFD529DD7F894" t="jmbtjlp7" />
-        <h f="l" r="4" m5="735F20B3DC6D167CE6292211127394E7" t="jmby7ipr" />
-        <h f="m" r="c" m5="E8858A94A8C29B9348F7E8470411DC0D" t="jmc0ju64" />
-        <h f="n" r="m" m5="CBC7364515E79C8F79BE30A1B183CEF8" t="jmc0ju6m" />
-        <h f="o" r="4" m5="3AAA82E0E248CA592998D1A84CE029C2" t="jmc0ju6u" />
-        <h f="p" r="2" m5="3A3A08D9ECC4C1965E4D0E1238441481" t="jmby7ioh" />
-        <h f="q" r="1" m5="B7AA7BCD699C5C3BE14E43E19EEB5054" t="jmbtjlqk" />
-        <h f="r" r="1" m5="7253F032177EBE3556EF1EEF3AB5CA83" t="jmbtjlki" />
-        <h f="s" r="b" m5="7FA1D83B3AB9C60328EC5B2205E35818" t="jmc0jvjk" />
-        <h f="t" r="p" m5="E47DD4949366F81E4A068F4151042E66" t="jmbtjlme" />
-        <h f="u" r="o" m5="AF22CDEFAD9E6EC36198F48D41053E07" t="jmc0jv94" />
-        <h f="v" r="3" m5="EC015D184D1B862BA57D6A105AB3F19A" t="jmc0jvio" />
-        <h f="w" r="3" m5="2082C4175A6E7685811336510303ED0A" t="jmbtjljz" />
-        <h f="x" r="3" m5="70AE91670656923B1B2A03D368713EA7" t="jmbtjlrl" />
-        <h f="y" r="b" m5="697A3E3589565F43D05F6B23D17F228F" t="jmbtjlrc" />
-        <h f="z" r="4" m5="0E31A12416F31DE6CFF639EA6FA619D7" t="jmbtjllb" />
-        <h f="10" r="1" m5="E32BB40D9E2104DF2A61CF9BF561738C" t="jmbtjlom" />
-        <h f="11" r="2" m5="2542B84529A2188ECD4D5574503EABBD" t="jmby7iph" />
-        <u f="w" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="7" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="t" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="6" c="0" a="EDIT_FILE" t="0" ur="0" />
-        <u f="10" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <h f="0" r="1t" m5="D988027AE033A686B1ABE06A6B228627" t="jmc28teq" />
+        <h f="1" r="8" m5="DD1A7435E0F1D0FC80DACB1BA113EE33" t="jmc28tci" />
+        <h f="2" r="8" m5="062A556BA6577CA57C5FD723029D895F" t="jmbtjlc9" />
+        <h f="3" r="c" m5="0E8EB043A7AD63C235DFC590BC7ECB9B" t="jmbtjlr6" />
+        <h f="4" r="2" m5="FE5A2265F7C543A380AB15C9494AAD1D" t="jmbtjln3" />
+        <h f="5" r="7" m5="44BA98878103815D39F3BEECF72D521B" t="jmby7ipy" />
+        <h f="6" r="2" m5="70286FD1404FA772E0A3909E3D081C4D" t="jmby7ipc" />
+        <h f="7" r="7" m5="909A1E4E8849B7A745FFDD4C90CCBBD9" t="jmc28taa" />
+        <h f="8" r="4" m5="1CE4269EAC3EE128F2D6C48A95A40EE3" t="jmc28tk1" />
+        <h f="9" r="2" m5="9976A7DCC2D2E3A3021F289ADE15F2F2" t="jmbtjlbo" />
+        <h f="a" r="i" m5="82E5F2E0821CCFB7A0F127A40771399F" t="jmc28tfr" />
+        <h f="b" r="4" m5="B5A02495C0D0AE781CC398D6E0581AB8" t="jmby7iov" />
+        <h f="c" r="2" m5="08DC4BA1BEDDA62643D31B46AA247DB3" t="jmc28tkr" />
+        <h f="d" r="8" m5="238375263E93FA18FDE5A990C3E332C9" t="jmbtjlqv" />
+        <h f="e" r="2" m5="7019C3F278B1111C61DA889E35739C41" t="jmc28tl1" />
+        <h f="f" r="2" m5="3AEAD6B2E9650A5819D2D626625BA44E" t="jmbtjlc2" />
+        <h f="g" r="3" m5="4CEC02AA3F59C67AA0C9CDF6F4BE682E" t="jmbtjlp1" />
+        <h f="h" r="a" m5="360C5F50A829C1B396BF79CBE2B3516E" t="jmc0jvif" />
+        <h f="i" r="3" m5="F49CCECDA2B44111A431FE3F8071F2CD" t="jmc28tdv" />
+        <h f="j" r="f" m5="4EA00373474445AEAC15455EFC1D7480" t="jmc0jv9i" />
+        <h f="k" r="1" m5="619967EBABBEBAC5E79117AF5EA5F3B1" t="jmbtjll3" />
+        <h f="l" r="9" m5="8643BAF6CFD8333F3100ECE8FA20850A" t="jmbtjlpv" />
+        <h f="m" r="c" m5="D0A62725CE330F3165BD74380A11D65D" t="jmc0jvbe" />
+        <h f="n" r="7" m5="750ABB41D99F66BB263A5A336D29A4E5" t="jmc28tez" />
+        <h f="o" r="4" m5="56FD2B968C6E9BB7DADD4B0D9EAA8E0C" t="jmc0jvbl" />
+        <h f="p" r="g" m5="D5DF02595CDDEDC9B0AAFD529DD7F894" t="jmbtjlp7" />
+        <h f="q" r="4" m5="735F20B3DC6D167CE6292211127394E7" t="jmby7ipr" />
+        <h f="r" r="c" m5="E8858A94A8C29B9348F7E8470411DC0D" t="jmc0ju64" />
+        <h f="s" r="m" m5="CBC7364515E79C8F79BE30A1B183CEF8" t="jmc0ju6m" />
+        <h f="t" r="2" m5="68AF4133423A2010921E9A8B631A5CDD" t="jmc28tkb" />
+        <h f="u" r="4" m5="3AAA82E0E248CA592998D1A84CE029C2" t="jmc0ju6u" />
+        <h f="v" r="2" m5="3A3A08D9ECC4C1965E4D0E1238441481" t="jmby7ioh" />
+        <h f="w" r="1" m5="B7AA7BCD699C5C3BE14E43E19EEB5054" t="jmbtjlqk" />
+        <h f="x" r="6" m5="E9B046BE2EC3F193F70AA64F159F55C7" t="jmc28te2" />
+        <h f="y" r="1" m5="7253F032177EBE3556EF1EEF3AB5CA83" t="jmbtjlki" />
+        <h f="z" r="b" m5="7FA1D83B3AB9C60328EC5B2205E35818" t="jmc0jvjk" />
+        <h f="10" r="q" m5="1419152D9FBFD718D080079529EA2D68" t="jmc28tc9" />
+        <h f="11" r="o" m5="AF22CDEFAD9E6EC36198F48D41053E07" t="jmc0jv94" />
+        <h f="12" r="5" m5="2BB03676920A7D1DB86FCF4CEBB3EA74" t="jmc28tdl" />
+        <h f="13" r="3" m5="EC015D184D1B862BA57D6A105AB3F19A" t="jmc0jvio" />
+        <h f="14" r="3" m5="2082C4175A6E7685811336510303ED0A" t="jmc28taa" />
+        <h f="15" r="3" m5="70AE91670656923B1B2A03D368713EA7" t="jmbtjlrl" />
+        <h f="16" r="b" m5="697A3E3589565F43D05F6B23D17F228F" t="jmbtjlrc" />
+        <h f="17" r="4" m5="0E31A12416F31DE6CFF639EA6FA619D7" t="jmbtjllb" />
+        <h f="18" r="1" m5="E32BB40D9E2104DF2A61CF9BF561738C" t="jmc28taa" />
+        <h f="19" r="2" m5="2542B84529A2188ECD4D5574503EABBD" t="jmby7iph" />
+        <h f="1a" r="6" m5="88D2FF0769EC8DD59FCA0DAFB8ECFB3B" t="jmc28tff" />
+        <h f="1b" r="6" m5="F3B4D9EDDCEC6B42074F80035777C4F2" t="jmc28tjr" />
       </server>
     </client-state>
-    <m k="2" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/DamageTextUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageTextUI.cs" />
-    <m k="6" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
-    <m k="8" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/MatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\MatchManager.cs" />
-    <m k="g" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset.meta" />
-    <m k="l" d="//EraCombat/development/Client/Assets/Simulation/Scripts/StateMachine/StateMachine.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\StateMachine\StateMachine.cs" />
-    <m k="t" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
-    <m k="1" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Global.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Global.cs" />
-    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/Animation/WeaponAnimation.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\WeaponAnimation.cs" />
-    <m k="h" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Callback/NetworkCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkCallbacks.cs" />
-    <m k="n" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art.unity.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art.unity.meta" />
-    <m k="p" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Weapon/WeaponManager.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\WeaponManager.cs.meta" />
-    <m k="a" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/HealthUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\HealthUI.cs" />
-    <m k="b" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/Animation/PlayerSiluet.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\PlayerSiluet.cs" />
-    <m k="o" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Lobby.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Lobby.unity" />
-    <m k="s" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art/Lightmap-0_comp_light.exr.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art\Lightmap-0_comp_light.exr.meta" />
-    <m k="9" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Weapon/WeaponManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\WeaponManager.cs" />
-    <m k="u" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art.unity" />
-    <m k="x" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Helper/FPSMeter.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Helper\FPSMeter.cs" />
-    <m k="z" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
-    <m k="7" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs" />
-    <m k="m" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art/LightingData.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art\LightingData.asset.meta" />
-    <m k="v" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/Lobby.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\Lobby.prefab" />
-    <m k="i" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art/LightingData.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art\LightingData.asset" />
-    <m k="j" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/ShieldUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ShieldUI.cs" />
-    <m k="10" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
-    <m k="11" d="//EraCombat/development/Client/Assets/Simulation/Scripts/StateMachine/StateMachine.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\StateMachine\StateMachine.cs.meta" />
+    <m k="3" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/DamageTextUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageTextUI.cs" />
+    <m k="7" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
+    <m k="9" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/MatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\MatchManager.cs" />
+    <m k="k" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset.meta" />
+    <m k="q" d="//EraCombat/development/Client/Assets/Simulation/Scripts/StateMachine/StateMachine.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\StateMachine\StateMachine.cs" />
+    <m k="10" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
+    <m k="2" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Global.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Global.cs" />
+    <m k="5" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/Animation/WeaponAnimation.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\WeaponAnimation.cs" />
+    <m k="l" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Callback/NetworkCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkCallbacks.cs" />
+    <m k="s" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art.unity.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art.unity.meta" />
+    <m k="t" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Settings/LunarVariables.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Settings\LunarVariables.cs" />
+    <m k="v" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Weapon/WeaponManager.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\WeaponManager.cs.meta" />
+    <m k="b" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/HealthUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\HealthUI.cs" />
+    <m k="d" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/Animation/PlayerSiluet.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\PlayerSiluet.cs" />
+    <m k="i" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/Scripts/Joystick.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\Scripts\Joystick.cs" />
+    <m k="u" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Lobby.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Lobby.unity" />
+    <m k="z" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art/Lightmap-0_comp_light.exr.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art\Lightmap-0_comp_light.exr.meta" />
+    <m k="a" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Weapon/WeaponManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Weapon\WeaponManager.cs" />
+    <m k="11" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art.unity" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art.unity" />
+    <m k="15" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Helper/FPSMeter.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Helper\FPSMeter.cs" />
+    <m k="17" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
+    <m k="1" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/KinematicCharacterManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\KinematicCharacterManager.cs" />
+    <m k="8" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs" />
+    <m k="r" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art/LightingData.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art\LightingData.asset.meta" />
+    <m k="12" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Flamethrower/FlamethrowerSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Flamethrower\FlamethrowerSettings.asset.meta" />
+    <m k="13" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/Lobby.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\Lobby.prefab" />
+    <m k="1a" d="//EraCombat/development/Client/Assets/Simulation/Textures/UI/HUD/HUDAtlas.spriteatlas" l="E:\nosyakEroRoot\Client\Assets\Simulation\Textures\UI\HUD\HUDAtlas.spriteatlas" />
+    <m k="1b" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Shotgun/ShotguntWeaponMechanic.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Shotgun\ShotguntWeaponMechanic.asset.meta" />
+    <m k="m" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art/LightingData.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art\LightingData.asset" />
+    <m k="o" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/ShieldUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ShieldUI.cs" />
+    <m k="x" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Shotgun/ShotguntWeaponMechanic.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Shotgun\ShotguntWeaponMechanic.asset" />
+    <m k="18" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
+    <m k="19" d="//EraCombat/development/Client/Assets/Simulation/Scripts/StateMachine/StateMachine.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\StateMachine\StateMachine.cs.meta" />
     <m k="0" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/HUD.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\HUD.prefab" />
-    <m k="c" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Helper/MyPingMeter.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Helper\MyPingMeter.cs" />
-    <m k="d" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/CrosshairSkullUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\CrosshairSkullUI.cs" />
-    <m k="e" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art/Lightmap-0_comp_light.exr" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art\Lightmap-0_comp_light.exr" />
-    <m k="k" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/StatusbarUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\StatusbarUI.cs" />
-    <m k="r" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/Lobby.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\Lobby.prefab.meta" />
-    <m k="3" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset" />
-    <m k="5" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/Animation/WeaponAnimation.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\WeaponAnimation.cs.meta" />
-    <m k="f" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/DamageUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageUI.cs" />
-    <m k="q" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Lobby.unity.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Lobby.unity.meta" />
-    <m k="w" d="//EraCombat/development/Client/ProjectSettings/ProjectSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\ProjectSettings.asset" />
-    <m k="y" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Callback/NetworkServerMatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkServerMatchManager.cs" />
+    <m k="e" d="//EraCombat/development/Client/Assets/Simulation/Settings/Input/JoystickSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Input\JoystickSettings.asset" />
+    <m k="f" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Helper/MyPingMeter.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Helper\MyPingMeter.cs" />
+    <m k="g" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/CrosshairSkullUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\CrosshairSkullUI.cs" />
+    <m k="h" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Rookie Court Art/Lightmap-0_comp_light.exr" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Rookie Court Art\Lightmap-0_comp_light.exr" />
+    <m k="p" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/StatusbarUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\StatusbarUI.cs" />
+    <m k="y" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/Lobby.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\Lobby.prefab.meta" />
+    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset" />
+    <m k="6" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Character/Animation/WeaponAnimation.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Character\Animation\WeaponAnimation.cs.meta" />
+    <m k="c" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Settings/Input/StickSettings.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Settings\Input\StickSettings.cs" />
+    <m k="j" d="//EraCombat/development/Client/Assets/Simulation/Scripts/UI/DamageUI.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\DamageUI.cs" />
+    <m k="n" d="//EraCombat/development/Client/Assets/Simulation/Settings/Weapons/Flamethrower/FlamethrowerSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Weapons\Flamethrower\FlamethrowerSettings.asset" />
+    <m k="w" d="//EraCombat/development/Client/Assets/Simulation/Scenes/Lobby.unity.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scenes\Lobby.unity.meta" />
+    <m k="14" d="//EraCombat/development/Client/ProjectSettings/ProjectSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\ProjectSettings.asset" />
+    <m k="16" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Callback/NetworkServerMatchManager.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkServerMatchManager.cs" />
   </component>
 </application>
