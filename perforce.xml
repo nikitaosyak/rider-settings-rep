@@ -11,7 +11,7 @@
         <users />
       </local>
       <server serverConnection="p4-erac:1666" clientName="nosyakEroRoot" isServerCaseInsensitive="true">
-        <workspace t="jmbpbqrh" n="nosyakEroRoot">
+        <workspace t="jmbqy9p0" n="nosyakEroRoot">
           <r p="E:\nosyakEroRoot" />
           <m d="//EraCombat/development/..." w="//nosyakEroRoot/..." />
           <m d="//EraCombat/.../Client/Assets/Plugins/Editor/JetBrains..." w="//nosyakEroRoot/.../Client/Assets/Plugins/Editor/JetBrains..." />
@@ -39,16 +39,24 @@
         <u f="6" c="0" a="EDIT_FILE" t="0" ur="0" />
         <u f="7" c="0" a="EDIT_FILE" t="0" ur="0" />
         <u f="8" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="9" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="a" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="b" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="c" c="0" a="EDIT_FILE" t="0" ur="0" />
       </server>
     </client-state>
-    <m k="5" d="//EraCombat/development/Client/ProjectSettings/ProjectSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\ProjectSettings.asset" />
-    <m k="8" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset" />
-    <m k="2" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs" />
-    <m k="0" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
-    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset.meta" />
-    <m k="7" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
-    <m k="3" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
-    <m k="6" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Callback/NetworkCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkCallbacks.cs" />
-    <m k="1" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
+    <m k="5" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
+    <m k="9" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs" />
+    <m k="6" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset.meta" />
+    <m k="1" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
+    <m k="7" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/Lobby.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\Lobby.prefab" />
+    <m k="0" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Callback/NetworkCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkCallbacks.cs" />
+    <m k="3" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
+    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Helper/MyPingMeter.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Helper\MyPingMeter.cs" />
+    <m k="a" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/UI/Lobby.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\Lobby.prefab.meta" />
+    <m k="c" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset" />
+    <m k="2" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
+    <m k="8" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Helper/FPSMeter.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Helper\FPSMeter.cs" />
+    <m k="b" d="//EraCombat/development/Client/ProjectSettings/ProjectSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\ProjectSettings.asset" />
   </component>
 </application>
