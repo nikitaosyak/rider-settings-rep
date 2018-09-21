@@ -1,0 +1,54 @@
+<application>
+  <component name="PerforceCachedClientServerState">
+    <client-state scid="p4-erac:1666" cid="nosyakEroRoot">
+      <local serverConnection="p4-erac:1666" clientName="nosyakEroRoot" isServerCaseInsensitive="true">
+        <workspace t="0" n="nosyakEroRoot" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </local>
+      <server serverConnection="p4-erac:1666" clientName="nosyakEroRoot" isServerCaseInsensitive="true">
+        <workspace t="jmbpbqrh" n="nosyakEroRoot">
+          <r p="E:\nosyakEroRoot" />
+          <m d="//EraCombat/development/..." w="//nosyakEroRoot/..." />
+          <m d="//EraCombat/.../Client/Assets/Plugins/Editor/JetBrains..." w="//nosyakEroRoot/.../Client/Assets/Plugins/Editor/JetBrains..." />
+          <m d="//EraCombat/.../Client/Assets/Plugins/Editor/JetBrains/..." w="//nosyakEroRoot/.../Client/Assets/Plugins/Editor/JetBrains/..." />
+          <m d="//EraCombat/.../Client/.idea/..." w="//nosyakEroRoot/.../Client/.idea/..." />
+          <m d="//EraCombat/.../Client/.csproj" w="//nosyakEroRoot/.../Client/.csproj" />
+          <m d="//EraCombat/.../Client/.sln" w="//nosyakEroRoot/.../Client/.sln" />
+          <m d="//EraCombat/.../Client/Temp/..." w="//nosyakEroRoot/.../Client/Temp/..." />
+          <m d="//EraCombat/.../Client/obj/..." w="//nosyakEroRoot/.../Client/obj/..." />
+          <m d="//EraCombat/.../Client/Library/..." w="//nosyakEroRoot/.../Client/Library/..." />
+        </workspace>
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+        <ch t="0" ur="0" c="0" />
+        <u f="0" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="2" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="3" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="4" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="5" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="6" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="7" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="8" c="0" a="EDIT_FILE" t="0" ur="0" />
+      </server>
+    </client-state>
+    <m k="6" d="//EraCombat/development/Client/ProjectSettings/ProjectSettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\ProjectSettings.asset" />
+    <m k="3" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset" />
+    <m k="5" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Statistics.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Statistics.cs" />
+    <m k="0" d="//EraCombat/development/Client/Assets/Simulation/Settings/Resources/GlobalSettings.asset.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Settings\Resources\GlobalSettings.asset.meta" />
+    <m k="8" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab" />
+    <m k="4" d="//EraCombat/development/Client/Assets/Simulation/Prefabs/KinematicCharacter.prefab.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\KinematicCharacter.prefab.meta" />
+    <m k="7" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Services/Lobby.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Services\Lobby.cs" />
+    <m k="1" d="//EraCombat/development/Client/Assets/Simulation/Scripts/Callback/NetworkCallbacks.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\Callback\NetworkCallbacks.cs" />
+    <m k="2" d="//EraCombat/development/Client/ProjectSettings/QualitySettings.asset" l="E:\nosyakEroRoot\Client\ProjectSettings\QualitySettings.asset" />
+  </component>
+</application>
