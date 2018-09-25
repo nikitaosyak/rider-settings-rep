@@ -1,5 +1,7 @@
 <application>
   <component name="PasswordManager">
-    <has-password-in-memory />
+    <has-password-in-memory>
+      <server-key>p4-erac:1666&gt;&gt;&gt;nosyak</server-key>
+    </has-password-in-memory>
   </component>
 </application>
