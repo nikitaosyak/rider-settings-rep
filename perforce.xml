@@ -29,23 +29,15 @@
         </job-status>
         <users />
         <ch t="0" ur="0" c="0" />
-        <h f="0" r="2" m5="3CB74C3E3BB968B32093B39D9DE32BA2" t="jmt0c8mi" />
-        <h f="1" r="1" m5="F84D899342233507ECEC44842934837A" t="jmt0c8p7" />
-        <h f="2" r="1" m5="D15CDB0D8FF7346DF1358637189598F9" t="jmt0c8tn" />
-        <h f="3" r="1" m5="B521EC41CFCD769526AF828745B50D71" t="jmt0c8og" />
-        <h f="4" r="2" m5="3911494CBABD8EF0851A2EDD530C3FA8" t="jmt0c8o8" />
-        <h f="5" r="1" m5="319ACAE096C588AA609A5DC725CAB234" t="jmt0c8mv" />
-        <h f="6" r="1" m5="E89204929D9AEEE23617B66A195FD6A9" t="jmt0c8or" />
-        <h f="7" r="1" m5="5C139D78FC2EEDDF8D27FCD9E7C32720" t="jmt0c8th" />
       </server>
     </client-state>
-    <m k="2" d="//EraCombat/EroStriders/Client/Assets/ExitToLobby.cs.meta" l="E:\nosyakEroRoot\Client\Assets\ExitToLobby.cs.meta" />
-    <m k="6" d="//EraCombat/EroStriders/Client/Assets/ExitToLobby.cs" l="E:\nosyakEroRoot\Client\Assets\ExitToLobby.cs" />
-    <m k="1" d="//EraCombat/EroStriders/Client/Assets/Simulation/Scripts/UI/ButtonResultScreen.cs" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ButtonResultScreen.cs" />
-    <m k="4" d="//EraCombat/EroStriders/Client/Assets/Simulation/Prefabs/UI/PauseScreen.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\PauseScreen.prefab" />
-    <m k="0" d="//EraCombat/EroStriders/Client/Assets/Simulation/Prefabs/UI/HUD.prefab" l="E:\nosyakEroRoot\Client\Assets\Simulation\Prefabs\UI\HUD.prefab" />
-    <m k="3" d="//EraCombat/EroStriders/Client/Assets/ButtonPauseScreen.cs.meta" l="E:\nosyakEroRoot\Client\Assets\ButtonPauseScreen.cs.meta" />
-    <m k="5" d="//EraCombat/EroStriders/Client/Assets/ButtonPauseScreen.cs" l="E:\nosyakEroRoot\Client\Assets\ButtonPauseScreen.cs" />
-    <m k="7" d="//EraCombat/EroStriders/Client/Assets/Simulation/Scripts/UI/ButtonResultScreen.cs.meta" l="E:\nosyakEroRoot\Client\Assets\Simulation\Scripts\UI\ButtonResultScreen.cs.meta" />
+    <m k="4" d="//EraCombat/EroStriders/Client/Assets/ExitToLobby.cs.meta" l="" />
+    <m k="6" d="//EraCombat/EroStriders/Client/Assets/ExitToLobby.cs" l="" />
+    <m k="2" d="//EraCombat/EroStriders/Client/Assets/Simulation/Scripts/UI/ButtonResultScreen.cs" l="" />
+    <m k="7" d="//EraCombat/EroStriders/Client/Assets/Simulation/Prefabs/UI/PauseScreen.prefab" l="" />
+    <m k="3" d="//EraCombat/EroStriders/Client/Assets/Simulation/Prefabs/UI/HUD.prefab" l="" />
+    <m k="0" d="//EraCombat/EroStriders/Client/Assets/Simulation/Scripts/UI/ButtonResultScreen.cs.meta" l="" />
+    <m k="1" d="//EraCombat/EroStriders/Client/Assets/ButtonPauseScreen.cs.meta" l="" />
+    <m k="5" d="//EraCombat/EroStriders/Client/Assets/ButtonPauseScreen.cs" l="" />
   </component>
 </application>
